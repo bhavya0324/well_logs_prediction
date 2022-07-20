@@ -1,0 +1,1081 @@
+{
+  "Type": "LAS2.0",
+  "Content": {
+    "Version Information": [
+      {
+        "name": "VERS",
+        "unit": "",
+        "value": "2.0",
+        "description": "CWLS log ASCII Standard -VERSION 2.0"
+      },
+      {
+        "name": "WRAP",
+        "unit": "",
+        "value": "NO",
+        "description": "One line per depth step"
+      }
+    ],
+    "Well Information": [
+      {
+        "name": "STRT",
+        "unit": "F",
+        "value": "3315.0000",
+        "description": "START DEPTH"
+      },
+      {
+        "name": "STOP",
+        "unit": "F",
+        "value": "9087.0000",
+        "description": "STOP DEPTH"
+      },
+      {
+        "name": "STEP",
+        "unit": "F",
+        "value": "1.0000",
+        "description": "STEP DEPTH"
+      },
+      {
+        "name": "NULL",
+        "unit": "",
+        "value": "-999.2500",
+        "description": "NULL VALUE"
+      },
+      {
+        "name": "UWI",
+        "unit": "",
+        "value": "15-077-21876",
+        "description": "UNIQUE WELL IDENTIFIER"
+      },
+      {
+        "name": "API",
+        "unit": "",
+        "value": "15-077-21876",
+        "description": "API NUMBER"
+      },
+      {
+        "name": "CNTY",
+        "unit": "",
+        "value": "Harper",
+        "description": "COUNTY NAME"
+      },
+      {
+        "name": "SECT",
+        "unit": "",
+        "value": "01",
+        "description": "SECTION"
+      },
+      {
+        "name": "TOWN",
+        "unit": "",
+        "value": "35 S",
+        "description": "TOWNSHIP"
+      },
+      {
+        "name": "RANG",
+        "unit": "",
+        "value": "09 W",
+        "description": "RANGE"
+      },
+      {
+        "name": "RIG",
+        "unit": "",
+        "value": "Unit 303",
+        "description": "RIG NAME"
+      },
+      {
+        "name": "UNIT",
+        "unit": "",
+        "value": "PP 41",
+        "description": "LOGGING EQUIPMENT ID"
+      },
+      {
+        "name": "LEAS",
+        "unit": "",
+        "value": "Chain Land",
+        "description": "LEASE NAME"
+      },
+      {
+        "name": "MWDS",
+        "unit": "",
+        "value": "Oklahoma City",
+        "description": "MWD SHOP"
+      },
+      {
+        "name": "FLD",
+        "unit": "",
+        "value": "Wildcat",
+        "description": "FIELD NAME"
+      },
+      {
+        "name": "CTRY",
+        "unit": "",
+        "value": "USA",
+        "description": "COUNTRY NAME"
+      },
+      {
+        "name": "PROV",
+        "unit": "",
+        "value": "Kansas",
+        "description": "PROVINCE"
+      },
+      {
+        "name": "STAT",
+        "unit": "",
+        "value": "Kansas",
+        "description": "STATE NAME"
+      },
+      {
+        "name": "REGN",
+        "unit": "",
+        "value": "US Northern",
+        "description": "REGION"
+      },
+      {
+        "name": "BASE",
+        "unit": "",
+        "value": "Oklahoma",
+        "description": "LOGGING EQUIPMENT BASE LOCATION"
+      },
+      {
+        "name": "PDAT",
+        "unit": "",
+        "value": "Ground Level",
+        "description": "PERMANENT DATUM"
+      },
+      {
+        "name": "XYGR",
+        "unit": "",
+        "value": "State Planes, NAD27 Based, US Foot",
+        "description": "XYGROUP"
+      },
+      {
+        "name": "LLGR",
+        "unit": "",
+        "value": "Latitude/Longitude",
+        "description": "LLGROUP"
+      },
+      {
+        "name": "MDS",
+        "unit": "",
+        "value": "Win MagUTM",
+        "description": "MAG DATA SOURCE"
+      },
+      {
+        "name": "MMDD",
+        "unit": "",
+        "value": "27 June, 2014",
+        "description": "MAG DATA DATE"
+      },
+      {
+        "name": "MMDL",
+        "unit": "",
+        "value": "bggm2014.dat",
+        "description": "MAGNETIC MODEL"
+      },
+      {
+        "name": "CREF",
+        "unit": "",
+        "value": "Datum North American Datum of 19",
+        "description": "CART REFERENCE"
+      },
+      {
+        "name": "GREF",
+        "unit": "",
+        "value": "Ellipsoid World Geodetic System",
+        "description": "GEO REFERENCE"
+      },
+      {
+        "name": "CGSY",
+        "unit": "",
+        "value": "KS-S",
+        "description": "CART GRID SYS"
+      },
+      {
+        "name": "GGSY",
+        "unit": "",
+        "value": "LL",
+        "description": "GEO GRID SYS"
+      },
+      {
+        "name": "CCDE",
+        "unit": "",
+        "value": "State Planes, Southern Zone, US Foot",
+        "description": "CART COORD DESC"
+      },
+      {
+        "name": "GCDE",
+        "unit": "",
+        "value": "ic Lat/Long's, Degrees, -180 ==> +180",
+        "description": "GEO COORD DESC"
+      },
+      {
+        "name": "SON",
+        "unit": "",
+        "value": "OK-XX-0901440771",
+        "description": "JOB NUMBER"
+      },
+      {
+        "name": "COMP",
+        "unit": "",
+        "value": "Tapstone Energy",
+        "description": "COMPANY"
+      },
+      {
+        "name": "WELL",
+        "unit": "",
+        "value": "Chain Land 3509 1-3H",
+        "description": "WELL NAME"
+      },
+      {
+        "name": "FTOP",
+        "unit": "",
+        "value": "Formation Tops",
+        "description": "FORM TOPS DESC"
+      },
+      {
+        "name": "ILTD",
+        "unit": "",
+        "value": "Lithology",
+        "description": "INTERP LTH DESC"
+      },
+      {
+        "name": "SVYD",
+        "unit": "",
+        "value": "Survey",
+        "description": "SURVEY DESC"
+      },
+      {
+        "name": "DMOD",
+        "unit": "",
+        "value": "Drill Model",
+        "description": "DRILL MOD DESC"
+      },
+      {
+        "name": "SPUD",
+        "unit": "",
+        "value": "27-Jun-14",
+        "description": "SPUD DATE"
+      },
+      {
+        "name": "DATE",
+        "unit": "",
+        "value": "23.25.52 11-Jul-14",
+        "description": "END TIME"
+      },
+      {
+        "name": "STIM",
+        "unit": "",
+        "value": "23.25.52 27-Jun-14",
+        "description": "START TIME"
+      },
+      {
+        "name": "DMF",
+        "unit": "",
+        "value": "Drill Floor",
+        "description": "DRILL MEAS FROM"
+      },
+      {
+        "name": "DFST",
+        "unit": "",
+        "value": "",
+        "description": "DIST FSL TEXT"
+      },
+      {
+        "name": "DFWT",
+        "unit": "",
+        "value": "",
+        "description": "DIST FWL TEXT"
+      },
+      {
+        "name": "SRVC",
+        "unit": "",
+        "value": "Halliburton",
+        "description": "SERVICE COMPANY"
+      },
+      {
+        "name": "LOC",
+        "unit": "",
+        "value": "",
+        "description": "LOCATION"
+      },
+      {
+        "name": "LMF",
+        "unit": "",
+        "value": "Drill Floor",
+        "description": "LOG MEASURED FROM"
+      },
+      {
+        "name": "CMER",
+        "unit": "deg",
+        "value": "-98.5000",
+        "description": "CENTRL MERIDIAN"
+      },
+      {
+        "name": "MMDE",
+        "unit": "ft",
+        "value": "0.0000",
+        "description": "MAGUTM CALC DEP"
+      },
+      {
+        "name": "APD",
+        "unit": "ft",
+        "value": "18.0000",
+        "description": "DEPTH ABOVE PD"
+      },
+      {
+        "name": "WDMS",
+        "unit": "ft",
+        "value": "0.0000",
+        "description": "WD ELEV"
+      },
+      {
+        "name": "EGL",
+        "unit": "ft",
+        "value": "1249.0000",
+        "description": "GROUND ELEVATION"
+      },
+      {
+        "name": "EPD",
+        "unit": "ft",
+        "value": "1249.0000",
+        "description": "ELEVATION"
+      },
+      {
+        "name": "AZTC",
+        "unit": "deg",
+        "value": "4.4900",
+        "description": "AZM TOTAL CORR"
+      },
+      {
+        "name": "GRDC",
+        "unit": "deg",
+        "value": "0.1600",
+        "description": "GRID CORRECTION"
+      },
+      {
+        "name": "MDEC",
+        "unit": "deg",
+        "value": "4.6500",
+        "description": "MAGNETIC DECL"
+      },
+      {
+        "name": "MDIP",
+        "unit": "deg",
+        "value": "65.1400",
+        "description": "MAGNETIC DIP"
+      },
+      {
+        "name": "MFLD",
+        "unit": "nT",
+        "value": "51549.8200",
+        "description": "MAGNETIC FIELD"
+      },
+      {
+        "name": "GVFD",
+        "unit": "g",
+        "value": "1.0000",
+        "description": "GRAVITY FIELD"
+      },
+      {
+        "name": "VSDR",
+        "unit": "deg",
+        "value": "355.0000",
+        "description": "VERT SEC DIRECT"
+      },
+      {
+        "name": "TDD",
+        "unit": "ft",
+        "value": "9087.0000",
+        "description": "TOTAL DEPTH (DRILLER)"
+      },
+      {
+        "name": "SDEP",
+        "unit": "ft",
+        "value": "802.0000",
+        "description": "START DEPTH"
+      },
+      {
+        "name": "DFSL",
+        "unit": "ft",
+        "value": "0.0000",
+        "description": "DISTANCE FSL"
+      },
+      {
+        "name": "DFWL",
+        "unit": "ft",
+        "value": "0.0000",
+        "description": "DISTANCE FWL"
+      },
+      {
+        "name": "UTMY",
+        "unit": "ft",
+        "value": "129590.5900",
+        "description": "UTM Y"
+      },
+      {
+        "name": "UTMX",
+        "unit": "ft",
+        "value": "2075222.9900",
+        "description": "UTM X"
+      },
+      {
+        "name": "WHEW",
+        "unit": "ft",
+        "value": "0.0000",
+        "description": "WELL HEAD E/W"
+      },
+      {
+        "name": "WHNS",
+        "unit": "ft",
+        "value": "0.0000",
+        "description": "WELL HEAD N/S"
+      },
+      {
+        "name": "LONG",
+        "unit": "deg",
+        "value": "-98.2400",
+        "description": "LONGITUDE"
+      },
+      {
+        "name": "LATI",
+        "unit": "deg",
+        "value": "37.0200",
+        "description": "LATITUDE"
+      },
+      {
+        "name": "TVDS",
+        "unit": "ft",
+        "value": "1267.0000",
+        "description": "TVDSS CORRECTN"
+      },
+      {
+        "name": "EKB",
+        "unit": "ft",
+        "value": "0.0000",
+        "description": "KB ELEVATION"
+      },
+      {
+        "name": "EDF",
+        "unit": "ft",
+        "value": "1267.0000",
+        "description": "DF ELEVATION"
+      },
+      {
+        "name": "WTYP",
+        "unit": "",
+        "value": "2",
+        "description": "WELL TYPE"
+      },
+      {
+        "name": "MAGU",
+        "unit": "",
+        "value": "1903609",
+        "description": "MAGUTM CHECKSUM"
+      },
+      {
+        "name": "VSC",
+        "unit": "",
+        "value": "0",
+        "description": "VS TO CLOSURE"
+      },
+      {
+        "name": "HPTY",
+        "unit": "",
+        "value": "0",
+        "description": "HOLE POS TYPE"
+      },
+      {
+        "name": "NREF",
+        "unit": "",
+        "value": "2",
+        "description": "NORTH REFERENCE"
+      }
+    ],
+    "Curve Information": [
+      {
+        "name": "DEPT",
+        "unit": "F",
+        "value": "00 000 000 000",
+        "description": "1 Survey Depth"
+      },
+      {
+        "name": "PGTVD",
+        "unit": "ft",
+        "value": "00 000 000 000",
+        "description": "2 PCG True Vertical Depth"
+      },
+      {
+        "name": "GR",
+        "unit": "api",
+        "value": "00 000 000 000",
+        "description": "3 PCG GR XHi-Range RT"
+      },
+      {
+        "name": "Gas",
+        "unit": "NONE",
+        "value": "00 000 000 000",
+        "description": "4 Total Gas"
+      },
+      {
+        "name": "ROPA",
+        "unit": "fph",
+        "value": "00 000 000 000",
+        "description": "5 Avg Rate of Penetration"
+      },
+      {
+        "name": "VSEC",
+        "unit": "ft",
+        "value": "00 000 000 000",
+        "description": "6 Vertical Section"
+      }
+    ],
+    "Parameter Information": [
+      {
+        "name": "SPPA",
+        "unit": "psig",
+        "value": "1800.0000",
+        "description": "SPP Avg"
+      },
+      {
+        "name": "SPPN",
+        "unit": "psig",
+        "value": "1200.0000",
+        "description": "SPP Min"
+      },
+      {
+        "name": "SPPX",
+        "unit": "psig",
+        "value": "2000.0000",
+        "description": "SPP Max"
+      },
+      {
+        "name": "RPMA",
+        "unit": "rpm",
+        "value": "47.0000",
+        "description": "RPM Surface Avg"
+      },
+      {
+        "name": "RPMN",
+        "unit": "rpm",
+        "value": "0.0000",
+        "description": "RPM Surface Min"
+      },
+      {
+        "name": "RPMX",
+        "unit": "rpm",
+        "value": "57.0000",
+        "description": "RPM Surface Max"
+      },
+      {
+        "name": "ROPA",
+        "unit": "fph",
+        "value": "150.0000",
+        "description": "ROP Avg"
+      },
+      {
+        "name": "ROPN",
+        "unit": "fph",
+        "value": "5.0000",
+        "description": "ROP Min"
+      },
+      {
+        "name": "ROPX",
+        "unit": "fph",
+        "value": "300.0000",
+        "description": "ROP Max"
+      },
+      {
+        "name": "TQAA",
+        "unit": "f-p",
+        "value": "3300.0000",
+        "description": "Torque Abs Avg"
+      },
+      {
+        "name": "TQAN",
+        "unit": "f-p",
+        "value": "0.0000",
+        "description": "Torque Abs Min"
+      },
+      {
+        "name": "TQAX",
+        "unit": "f-p",
+        "value": "6700.0000",
+        "description": "Torque Abs Max"
+      },
+      {
+        "name": "WOBA",
+        "unit": "klb",
+        "value": "20.0000",
+        "description": "WOB Avg"
+      },
+      {
+        "name": "WBMN",
+        "unit": "klb",
+        "value": "10.0000",
+        "description": "WOB Min"
+      },
+      {
+        "name": "WOBX",
+        "unit": "klb",
+        "value": "26.0000",
+        "description": "WOB Max"
+      },
+      {
+        "name": "DLSX",
+        "unit": "°/100'",
+        "value": "0.0000",
+        "description": "Dogleg Str Max"
+      },
+      {
+        "name": "DLSO",
+        "unit": "°/100'",
+        "value": "0.0000",
+        "description": "Dogleg Oriented"
+      },
+      {
+        "name": "TCS",
+        "unit": "hr",
+        "value": "112.0000",
+        "description": "Time Ciculation Ended"
+      },
+      {
+        "name": "RTIM",
+        "unit": "hr",
+        "value": "0.0000",
+        "description": "Time Reaming"
+      },
+      {
+        "name": "TRRT",
+        "unit": "°/100'",
+        "value": "0.0000",
+        "description": "Turn Rotating"
+      },
+      {
+        "name": "BROT",
+        "unit": "°/100'",
+        "value": "0.0000",
+        "description": "Build Rotating"
+      },
+      {
+        "name": "AZIF",
+        "unit": "deg",
+        "value": "358.5400",
+        "description": "Azm, Final"
+      },
+      {
+        "name": "DLRX",
+        "unit": "°/100'",
+        "value": "0.0000",
+        "description": "Dogleg Rot Max"
+      },
+      {
+        "name": "SAZI",
+        "unit": "deg",
+        "value": "222.1600",
+        "description": "Azm, Start"
+      },
+      {
+        "name": "SINC",
+        "unit": "deg",
+        "value": "3.8400",
+        "description": "Inc, Start"
+      },
+      {
+        "name": "PMAX",
+        "unit": "psig",
+        "value": "0.0000",
+        "description": "Press Op, Max"
+      },
+      {
+        "name": "IFIN",
+        "unit": "deg",
+        "value": "85.5900",
+        "description": "Inc, Final"
+      },
+      {
+        "name": "BREV",
+        "unit": "krev",
+        "value": "0.0000",
+        "description": "Rev Bit Total"
+      },
+      {
+        "name": "CV",
+        "unit": "fpm",
+        "value": "382.0000",
+        "description": "Crit Velocity"
+      },
+      {
+        "name": "CVMX",
+        "unit": "fpm",
+        "value": "402.0000",
+        "description": "Max Crit Veloc"
+      },
+      {
+        "name": "AV",
+        "unit": "fpm",
+        "value": "187.0000",
+        "description": "Ann Velocity"
+      },
+      {
+        "name": "AVMX",
+        "unit": "fpm",
+        "value": "199.0000",
+        "description": "Max Ann Veloc"
+      },
+      {
+        "name": "DFD",
+        "unit": "ppg",
+        "value": "8.8000",
+        "description": "Mud Density"
+      },
+      {
+        "name": "MDMN",
+        "unit": "ppg",
+        "value": "8.4500",
+        "description": "Dens Mud Min"
+      },
+      {
+        "name": "MDMX",
+        "unit": "ppg",
+        "value": "9.2000",
+        "description": "Dens Mud Max"
+      },
+      {
+        "name": "FLOI",
+        "unit": "gpm",
+        "value": "529.0000",
+        "description": "Flow In"
+      },
+      {
+        "name": "FLON",
+        "unit": "gpm",
+        "value": "468.0000",
+        "description": "Flow In Min"
+      },
+      {
+        "name": "FLOX",
+        "unit": "gpm",
+        "value": "590.0000",
+        "description": "Flow In Max"
+      },
+      {
+        "name": "DEFF",
+        "unit": "%",
+        "value": "80.0000",
+        "description": "% Det Eff"
+      },
+      {
+        "name": "PV",
+        "unit": "cP",
+        "value": "16.0000",
+        "description": "Mud PV"
+      },
+      {
+        "name": "MSOL",
+        "unit": "",
+        "value": "4.4",
+        "description": "Run Mud Solids%"
+      },
+      {
+        "name": "YP",
+        "unit": "lhf2",
+        "value": "18.0000",
+        "description": "Yield Point"
+      },
+      {
+        "name": "MSND",
+        "unit": "",
+        "value": "0",
+        "description": "Run Mud Sand %"
+      },
+      {
+        "name": "DFV",
+        "unit": "spqt",
+        "value": "55.0000",
+        "description": "Mud Viscosity"
+      },
+      {
+        "name": "PH",
+        "unit": "pH",
+        "value": "10.0000",
+        "description": "Mud pH"
+      },
+      {
+        "name": "BTPL",
+        "unit": "psig",
+        "value": "209.0000",
+        "description": "Bit Press Loss"
+      },
+      {
+        "name": "FLOS",
+        "unit": "mptm",
+        "value": "0.0000",
+        "description": "Fluid Loss"
+      },
+      {
+        "name": "MDCL",
+        "unit": "ppm",
+        "value": "9000.0000",
+        "description": "Mud Chlorides"
+      },
+      {
+        "name": "DFT",
+        "unit": "",
+        "value": "Fresh Water Gel",
+        "description": "Mud Type"
+      },
+      {
+        "name": "MDES",
+        "unit": "",
+        "value": "Fresh Water",
+        "description": "Mud Desc"
+      },
+      {
+        "name": "SVCS",
+        "unit": "",
+        "value": "DD, MWD",
+        "description": "Services"
+      },
+      {
+        "name": "DDSV",
+        "unit": "",
+        "value": "Mud Motor",
+        "description": "DD Service"
+      },
+      {
+        "name": "TDAT",
+        "unit": "ft",
+        "value": "4555.0000",
+        "description": "Tot Depth Attmp"
+      },
+      {
+        "name": "TDLG",
+        "unit": "ft",
+        "value": "1990.0000",
+        "description": "Tot Depth Loggd"
+      },
+      {
+        "name": "JARR",
+        "unit": "",
+        "value": "0",
+        "description": "Jarring"
+      },
+      {
+        "name": "SIDD",
+        "unit": "",
+        "value": "0",
+        "description": "Serv Intrp, DD"
+      },
+      {
+        "name": "TDDF",
+        "unit": "",
+        "value": "0",
+        "description": "Trip for DD"
+      },
+      {
+        "name": "LOST",
+        "unit": "hr",
+        "value": "0.0000",
+        "description": "Lost Rig Time"
+      },
+      {
+        "name": "TFF",
+        "unit": "",
+        "value": "0",
+        "description": "Trip for Fail"
+      },
+      {
+        "name": "MWSI",
+        "unit": "",
+        "value": "0",
+        "description": "Serv Intrp, MWD"
+      },
+      {
+        "name": "BHAT",
+        "unit": "",
+        "value": "0",
+        "description": "BHA Type"
+      },
+      {
+        "name": "CABU",
+        "unit": "",
+        "value": "0",
+        "description": "Customer Abuse"
+      },
+      {
+        "name": "COMM",
+        "unit": "",
+        "value": "e section of the well with no issues.",
+        "description": "Run Comments 1"
+      },
+      {
+        "name": "OTIM",
+        "unit": "hr",
+        "value": "128.0000",
+        "description": "Time Operating"
+      },
+      {
+        "name": "DTIM",
+        "unit": "hr",
+        "value": "69.8100",
+        "description": "Time Drilling"
+      },
+      {
+        "name": "TTMX",
+        "unit": "degF",
+        "value": "143.0000",
+        "description": "Max Tool Temp"
+      },
+      {
+        "name": "MRT",
+        "unit": "",
+        "value": "PCG",
+        "description": "Maximum Recorded Temperature"
+      },
+      {
+        "name": "IMIN",
+        "unit": "deg",
+        "value": "0.1100",
+        "description": "Inc Min"
+      },
+      {
+        "name": "IMND",
+        "unit": "ft",
+        "value": "100.0000",
+        "description": "Inc Min Depth"
+      },
+      {
+        "name": "IMAX",
+        "unit": "deg",
+        "value": "85.5900",
+        "description": "Inc Max"
+      },
+      {
+        "name": "IMXD",
+        "unit": "ft",
+        "value": "5293.0000",
+        "description": "Inc Max Depth"
+      },
+      {
+        "name": "MWOD",
+        "unit": "in",
+        "value": "6.5000",
+        "description": "MWD Tool OD"
+      },
+      {
+        "name": "BS",
+        "unit": "in",
+        "value": "8.7500",
+        "description": "Bit Size"
+      },
+      {
+        "name": "BSZ",
+        "unit": "in",
+        "value": "8.7500",
+        "description": "Bit Size"
+      },
+      {
+        "name": "ENG2",
+        "unit": "",
+        "value": "Michael Colvin",
+        "description": "Engineer 2"
+      },
+      {
+        "name": "ENG1",
+        "unit": "",
+        "value": "Caleb Annesley",
+        "description": "Engineer 1"
+      },
+      {
+        "name": "SVER",
+        "unit": "",
+        "value": "8.02",
+        "description": "Sperry Version"
+      },
+      {
+        "name": "DRET",
+        "unit": "",
+        "value": "10.00.00 04-Jul-14",
+        "description": "Drill End Time"
+      },
+      {
+        "name": "DRST",
+        "unit": "",
+        "value": "14.40.00 29-Jun-14",
+        "description": "Drill Start Tim"
+      },
+      {
+        "name": "EDEP",
+        "unit": "ft",
+        "value": "5357.0000",
+        "description": "End Depth"
+      },
+      {
+        "name": "SDEP",
+        "unit": "ft",
+        "value": "802.0000",
+        "description": "Start Depth"
+      },
+      {
+        "name": "ETIM",
+        "unit": "",
+        "value": "18.00.00 04-Jul-14",
+        "description": "End Time"
+      },
+      {
+        "name": "STIM",
+        "unit": "",
+        "value": "10.15.00 29-Jun-14",
+        "description": "Start Time"
+      },
+      {
+        "name": "HTEM",
+        "unit": "",
+        "value": "0",
+        "description": "High Temp"
+      },
+      {
+        "name": "HPRE",
+        "unit": "",
+        "value": "0",
+        "description": "High Pressure"
+      },
+      {
+        "name": "HFLO",
+        "unit": "",
+        "value": "0",
+        "description": "High Flow"
+      },
+      {
+        "name": "LETM",
+        "unit": "",
+        "value": "10.00.00 04-Jul-14",
+        "description": "Log End Time"
+      },
+      {
+        "name": "LSTM",
+        "unit": "",
+        "value": "14.40.00 29-Jun-14",
+        "description": "Log Start Time"
+      },
+      {
+        "name": "HYDO",
+        "unit": "ft",
+        "value": "0.0000",
+        "description": "Hydro Offset"
+      },
+      {
+        "name": "RRUN",
+        "unit": "",
+        "value": "100",
+        "description": "Rig Run Number"
+      },
+      {
+        "name": "RUN",
+        "unit": "",
+        "value": "100",
+        "description": "Run Number"
+      }
+    ]
+  }
+}

@@ -1,0 +1,319 @@
+{
+  "Type": "LAS2.00",
+  "Content": {
+    "Version Information": [
+      {
+        "name": "VERS",
+        "unit": "",
+        "value": "2.00",
+        "description": "CWLS LOG ASCII STANDARD - VERSION 2.00"
+      },
+      {
+        "name": "WRAP",
+        "unit": "",
+        "value": "NO",
+        "description": "One line per depth step"
+      }
+    ],
+    "Well Information": [
+      {
+        "name": "STRT",
+        "unit": "M",
+        "value": "3548.63400",
+        "description": "START DEPTH"
+      },
+      {
+        "name": "STOP",
+        "unit": "M",
+        "value": "3894.27720",
+        "description": "STOP DEPTH"
+      },
+      {
+        "name": "STEP",
+        "unit": "M",
+        "value": "0.15240",
+        "description": "STEP"
+      },
+      {
+        "name": "NULL",
+        "unit": "",
+        "value": "-999.25",
+        "description": "NULL VALUE"
+      },
+      {
+        "name": "COMP",
+        "unit": "",
+        "value": "",
+        "description": "COMPANY"
+      },
+      {
+        "name": "WELL",
+        "unit": "",
+        "value": "Goss-A1 ST1",
+        "description": "WELL"
+      },
+      {
+        "name": "FLD",
+        "unit": "",
+        "value": "",
+        "description": "FIELD"
+      },
+      {
+        "name": "LOC",
+        "unit": "",
+        "value": "",
+        "description": "LOCATION"
+      },
+      {
+        "name": "CTRY",
+        "unit": "",
+        "value": "",
+        "description": "COUNTRY"
+      },
+      {
+        "name": "STAT",
+        "unit": "",
+        "value": "",
+        "description": "STATE"
+      },
+      {
+        "name": "CNTY",
+        "unit": "",
+        "value": "",
+        "description": "COUNTY"
+      },
+      {
+        "name": "SRVC",
+        "unit": "",
+        "value": "Swift Energy New Zealand Ltd",
+        "description": "SERVICE COMPANY"
+      },
+      {
+        "name": "DATE",
+        "unit": "",
+        "value": "",
+        "description": "DATE"
+      },
+      {
+        "name": "API",
+        "unit": "",
+        "value": "",
+        "description": "API NUMBER"
+      },
+      {
+        "name": "UWI",
+        "unit": "",
+        "value": "100000567342",
+        "description": "UNIQUE WELL ID"
+      },
+      {
+        "name": "LATI",
+        "unit": "",
+        "value": "-39.375575",
+        "description": "LATITUDE"
+      },
+      {
+        "name": "LONG",
+        "unit": "",
+        "value": "174.3640444",
+        "description": "LONGITUDE"
+      }
+    ],
+    "Curve Information": [
+      {
+        "name": "DEPTH",
+        "unit": "M",
+        "value": "",
+        "description": ""
+      },
+      {
+        "name": "BS",
+        "unit": "IN",
+        "value": "",
+        "description": "Bit Size (BS)"
+      },
+      {
+        "name": "CALI",
+        "unit": "IN",
+        "value": "",
+        "description": "HRCC Cal. Caliper (HCAL)"
+      },
+      {
+        "name": "DENS",
+        "unit": "G/C3",
+        "value": "",
+        "description": "HRDD Standard Resolution Formation Density (RHOZ)"
+      },
+      {
+        "name": "DRHO",
+        "unit": "G/C3",
+        "value": "",
+        "description": "HRDD Density Correction (HDRA)"
+      },
+      {
+        "name": "DTC",
+        "unit": "US/F",
+        "value": "",
+        "description": "Delta-T Compressional - Monopole P&S (DT4P)"
+      },
+      {
+        "name": "DTS",
+        "unit": "US/F",
+        "value": "",
+        "description": "Delta-T Shear - Monopole P&S (DT4S)"
+      },
+      {
+        "name": "GR",
+        "unit": "GAPI",
+        "value": "",
+        "description": "Gamma-Ray (ECGR)"
+      },
+      {
+        "name": "NEUT",
+        "unit": "V/V",
+        "value": "",
+        "description": "Thermal Neutron Porosity (Ratio Method) (NPHI)"
+      },
+      {
+        "name": "NEUT_CORR",
+        "unit": "V/V",
+        "value": "",
+        "description": "Corrected NPHI (limestone units)"
+      },
+      {
+        "name": "PEF",
+        "unit": "B/E",
+        "value": "",
+        "description": "HRDD Standard Resolution Formation Photoelectric Factor (PEFZ)"
+      },
+      {
+        "name": "RESD",
+        "unit": "OHMM",
+        "value": "",
+        "description": "HRLT Borehole Corrected Resistivity 5 (RLA5)"
+      },
+      {
+        "name": "RESM",
+        "unit": "OHMM",
+        "value": "",
+        "description": "HRLT Borehole Corrected Resistivity 3 (RLA3)"
+      },
+      {
+        "name": "RESS",
+        "unit": "OHMM",
+        "value": "",
+        "description": "HRLT Borehole Corrected Resistivity 1 (RLA1)"
+      },
+      {
+        "name": "SP",
+        "unit": "MV",
+        "value": "",
+        "description": "SP Shifted (SP)"
+      },
+      {
+        "name": "TEMP",
+        "unit": "DEGC",
+        "value": "",
+        "description": "HTC Temperature (HTEM)"
+      }
+    ],
+    "Parameter Information": [
+      {
+        "name": "CUR_INT_BOT",
+        "unit": "M",
+        "value": "4526",
+        "description": "Current interpolated bottom"
+      },
+      {
+        "name": "PROJECT",
+        "unit": "",
+        "value": "New Zealand Log QC Project",
+        "description": ""
+      },
+      {
+        "name": "SET",
+        "unit": "",
+        "value": "A0_FINAL_INTER_REF_D",
+        "description": ""
+      },
+      {
+        "name": "ELEVATION_AMSL",
+        "unit": "M",
+        "value": "235.9",
+        "description": "Elevation above mean sea level"
+      },
+      {
+        "name": "ELEVATION_REF",
+        "unit": "",
+        "value": "RT",
+        "description": "Measurement reference"
+      },
+      {
+        "name": "FORMATION_AT_TD",
+        "unit": "",
+        "value": "Mangahewa",
+        "description": "Formation at TD"
+      },
+      {
+        "name": "GL_ELEVATION_AMSL",
+        "unit": "M",
+        "value": "227.7000",
+        "description": "Ground level elevation above mean sea level"
+      },
+      {
+        "name": "KICK_OFF_DATE",
+        "unit": "",
+        "value": "22/02/2006",
+        "description": "Kick off date"
+      },
+      {
+        "name": "KICK_OFF_DEPTH",
+        "unit": "M",
+        "value": "3633.5",
+        "description": "Kick off depth"
+      },
+      {
+        "name": "LICENCE_NUMBER",
+        "unit": "",
+        "value": "PML38140",
+        "description": "Licence number"
+      },
+      {
+        "name": "ONSHORE_OR_OFFSHORE",
+        "unit": "",
+        "value": "Onshore",
+        "description": "Onshore/offshore"
+      },
+      {
+        "name": "PARENT_WELL",
+        "unit": "",
+        "value": "Goss-A1",
+        "description": "Parent well"
+      },
+      {
+        "name": "PR_NUMBER",
+        "unit": "",
+        "value": "PR3267",
+        "description": "Petroleum report number"
+      },
+      {
+        "name": "STATUS_AT_COMPLETION",
+        "unit": "",
+        "value": "Completed for testing",
+        "description": "Status at completion"
+      },
+      {
+        "name": "TD_DATE",
+        "unit": "",
+        "value": "20/03/2006",
+        "description": "Total depth date"
+      },
+      {
+        "name": "TOTAL_DEPTH_DRILLED",
+        "unit": "M",
+        "value": "4526",
+        "description": "Total depth drilled"
+      }
+    ]
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "Type": "LAS2.00",
+  "Content": {
+    "Version Information": [
+      {
+        "name": "VERS",
+        "unit": "",
+        "value": "2.00",
+        "description": "CWLS LOG ASCII STANDARD - VERSION 2.00"
+      },
+      {
+        "name": "WRAP",
+        "unit": "",
+        "value": "NO",
+        "description": "One line per depth step"
+      }
+    ],
+    "Well Information": [
+      {
+        "name": "STRT",
+        "unit": "M",
+        "value": "3581.55240",
+        "description": "START DEPTH"
+      },
+      {
+        "name": "STOP",
+        "unit": "M",
+        "value": "3859.22520",
+        "description": "STOP DEPTH"
+      },
+      {
+        "name": "STEP",
+        "unit": "M",
+        "value": "0.15240",
+        "description": "STEP"
+      },
+      {
+        "name": "NULL",
+        "unit": "",
+        "value": "-999.25",
+        "description": "NULL VALUE"
+      },
+      {
+        "name": "COMP",
+        "unit": "",
+        "value": "",
+        "description": "COMPANY"
+      },
+      {
+        "name": "WELL",
+        "unit": "",
+        "value": "Goss-A1 ST1",
+        "description": "WELL"
+      },
+      {
+        "name": "FLD",
+        "unit": "",
+        "value": "",
+        "description": "FIELD"
+      },
+      {
+        "name": "LOC",
+        "unit": "",
+        "value": "",
+        "description": "LOCATION"
+      },
+      {
+        "name": "CTRY",
+        "unit": "",
+        "value": "",
+        "description": "COUNTRY"
+      },
+      {
+        "name": "STAT",
+        "unit": "",
+        "value": "",
+        "description": "STATE"
+      },
+      {
+        "name": "CNTY",
+        "unit": "",
+        "value": "",
+        "description": "COUNTY"
+      },
+      {
+        "name": "SRVC",
+        "unit": "",
+        "value": "Swift Energy New Zealand Ltd",
+        "description": "SERVICE COMPANY"
+      },
+      {
+        "name": "DATE",
+        "unit": "",
+        "value": "",
+        "description": "DATE"
+      },
+      {
+        "name": "API",
+        "unit": "",
+        "value": "",
+        "description": "API NUMBER"
+      },
+      {
+        "name": "UWI",
+        "unit": "",
+        "value": "100000567342",
+        "description": "UNIQUE WELL ID"
+      },
+      {
+        "name": "LATI",
+        "unit": "",
+        "value": "-39.375575",
+        "description": "LATITUDE"
+      },
+      {
+        "name": "LONG",
+        "unit": "",
+        "value": "174.3640444",
+        "description": "LONGITUDE"
+      }
+    ],
+    "Curve Information": [
+      {
+        "name": "DEPTH",
+        "unit": "M",
+        "value": "",
+        "description": "Measured Depth (MD)"
+      },
+      {
+        "name": "CT",
+        "unit": "MH/M",
+        "value": "",
+        "description": "True formation conductivity"
+      },
+      {
+        "name": "CXO",
+        "unit": "MH/M",
+        "value": "",
+        "description": "Flushed zone conductivity"
+      },
+      {
+        "name": "FPRESS",
+        "unit": "PSI",
+        "value": "",
+        "description": "Formation/hydrostatic pressure"
+      },
+      {
+        "name": "FTEMP",
+        "unit": "DEGC",
+        "value": "",
+        "description": "Formation temperature"
+      },
+      {
+        "name": "HMC_POR",
+        "unit": "IN",
+        "value": "",
+        "description": "Mudcake from nuclear/porosity"
+      },
+      {
+        "name": "HMC_RES",
+        "unit": "IN",
+        "value": "",
+        "description": "Mudcake from resistivity/sonic"
+      },
+      {
+        "name": "RM",
+        "unit": "OHMM",
+        "value": "",
+        "description": "Mud resistivity"
+      },
+      {
+        "name": "RMC",
+        "unit": "OHMM",
+        "value": "",
+        "description": "Mudcake resistivity"
+      },
+      {
+        "name": "RMF",
+        "unit": "OHMM",
+        "value": "",
+        "description": "Mud filtrate resistivity"
+      },
+      {
+        "name": "U",
+        "unit": "B/C3",
+        "value": "",
+        "description": "Photo-electric cross-section"
+      }
+    ],
+    "Parameter Information": [
+      {
+        "name": "CUR_INT_BOT",
+        "unit": "M",
+        "value": "4526",
+        "description": "Current interpolated bottom"
+      },
+      {
+        "name": "PROJECT",
+        "unit": "",
+        "value": "New Zealand Log QC Project",
+        "description": ""
+      },
+      {
+        "name": "SET",
+        "unit": "",
+        "value": "EC_CURVES",
+        "description": ""
+      },
+      {
+        "name": "ELEVATION_AMSL",
+        "unit": "M",
+        "value": "235.9",
+        "description": "Elevation above mean sea level"
+      },
+      {
+        "name": "ELEVATION_REF",
+        "unit": "",
+        "value": "RT",
+        "description": "Measurement reference"
+      },
+      {
+        "name": "FORMATION_AT_TD",
+        "unit": "",
+        "value": "Mangahewa",
+        "description": "Formation at TD"
+      },
+      {
+        "name": "GL_ELEVATION_AMSL",
+        "unit": "M",
+        "value": "227.7000",
+        "description": "Ground level elevation above mean sea level"
+      },
+      {
+        "name": "KICK_OFF_DATE",
+        "unit": "",
+        "value": "22/02/2006",
+        "description": "Kick off date"
+      },
+      {
+        "name": "KICK_OFF_DEPTH",
+        "unit": "M",
+        "value": "3633.5",
+        "description": "Kick off depth"
+      },
+      {
+        "name": "LICENCE_NUMBER",
+        "unit": "",
+        "value": "PML38140",
+        "description": "Licence number"
+      },
+      {
+        "name": "ONSHORE_OR_OFFSHORE",
+        "unit": "",
+        "value": "Onshore",
+        "description": "Onshore/offshore"
+      },
+      {
+        "name": "PARENT_WELL",
+        "unit": "",
+        "value": "Goss-A1",
+        "description": "Parent well"
+      },
+      {
+        "name": "PR_NUMBER",
+        "unit": "",
+        "value": "PR3267",
+        "description": "Petroleum report number"
+      },
+      {
+        "name": "STATUS_AT_COMPLETION",
+        "unit": "",
+        "value": "Completed for testing",
+        "description": "Status at completion"
+      },
+      {
+        "name": "TD_DATE",
+        "unit": "",
+        "value": "20/03/2006",
+        "description": "Total depth date"
+      },
+      {
+        "name": "TOTAL_DEPTH_DRILLED",
+        "unit": "M",
+        "value": "4526",
+        "description": "Total depth drilled"
+      }
+    ]
+  }
+}

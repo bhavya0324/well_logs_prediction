@@ -1,0 +1,623 @@
+{
+  "Type": "LAS2.0",
+  "Content": {
+    "Version Information": [
+      {
+        "name": "VERS",
+        "unit": "",
+        "value": "2.0",
+        "description": "CWLS log ASCII Standard -VERSION 2.0"
+      },
+      {
+        "name": "WRAP",
+        "unit": "",
+        "value": "NO",
+        "description": "One line per depth step"
+      }
+    ],
+    "Well Information": [
+      {
+        "name": "STRT",
+        "unit": "F",
+        "value": "173.0000",
+        "description": "START DEPTH"
+      },
+      {
+        "name": "STOP",
+        "unit": "F",
+        "value": "487.0000",
+        "description": "STOP DEPTH"
+      },
+      {
+        "name": "STEP",
+        "unit": "F",
+        "value": "0.0000",
+        "description": "STEP DEPTH"
+      },
+      {
+        "name": "NULL",
+        "unit": "",
+        "value": "-999.2500",
+        "description": "NULL VALUE"
+      },
+      {
+        "name": "RANG",
+        "unit": "",
+        "value": "7W",
+        "description": "RANGE"
+      },
+      {
+        "name": "SECT",
+        "unit": "",
+        "value": "16",
+        "description": "SECTION"
+      },
+      {
+        "name": "TOWN",
+        "unit": "",
+        "value": "34S",
+        "description": "TOWNSHIP"
+      },
+      {
+        "name": "UNIT",
+        "unit": "",
+        "value": "PP46",
+        "description": "LOGGING EQUIPMENT ID"
+      },
+      {
+        "name": "MWDS",
+        "unit": "",
+        "value": "Oklahoma City",
+        "description": "MWD SHOP"
+      },
+      {
+        "name": "FTOP",
+        "unit": "",
+        "value": "Formation Tops",
+        "description": "FORM TOPS DESC"
+      },
+      {
+        "name": "ILTD",
+        "unit": "",
+        "value": "Lithology",
+        "description": "INTERP LTH DESC"
+      },
+      {
+        "name": "SVYD",
+        "unit": "",
+        "value": "Survey",
+        "description": "SURVEY DESC"
+      },
+      {
+        "name": "DMOD",
+        "unit": "",
+        "value": "Drill Model",
+        "description": "DRILL MOD DESC"
+      },
+      {
+        "name": "DATE",
+        "unit": "",
+        "value": "16.30.00 14-Jan-13",
+        "description": "END TIME"
+      },
+      {
+        "name": "STIM",
+        "unit": "",
+        "value": "12.30.00 03-Jan-13",
+        "description": "START TIME"
+      },
+      {
+        "name": "DMF",
+        "unit": "",
+        "value": "Drill Floor",
+        "description": "DRILL MEAS FROM"
+      },
+      {
+        "name": "PDAT",
+        "unit": "",
+        "value": "Ground Level",
+        "description": "PERMANENT DATUM"
+      },
+      {
+        "name": "DFST",
+        "unit": "",
+        "value": "",
+        "description": "DIST FSL TEXT"
+      },
+      {
+        "name": "DFWT",
+        "unit": "",
+        "value": "",
+        "description": "DIST FWL TEXT"
+      },
+      {
+        "name": "SPUD",
+        "unit": "",
+        "value": "03-Jan-13",
+        "description": "SPUD DATE"
+      },
+      {
+        "name": "WELL",
+        "unit": "",
+        "value": "Kaup 3407 16-1SWD",
+        "description": "WELL NAME"
+      },
+      {
+        "name": "COMP",
+        "unit": "",
+        "value": "Shell Exploration & Production C",
+        "description": "COMPANY"
+      },
+      {
+        "name": "SON",
+        "unit": "",
+        "value": "OK-XX-0900033626",
+        "description": "JOB NUMBER"
+      },
+      {
+        "name": "GCDE",
+        "unit": "",
+        "value": "Generic Lat/Long's, Degrees, -180 ==> +180",
+        "description": "GEO COORD DESC"
+      },
+      {
+        "name": "CCDE",
+        "unit": "",
+        "value": "NAD27 Kansas State Planes, Southern Zone, US Foot",
+        "description": "CART COORD DESC"
+      },
+      {
+        "name": "GGSY",
+        "unit": "",
+        "value": "LL",
+        "description": "GEO GRID SYS"
+      },
+      {
+        "name": "CGSY",
+        "unit": "",
+        "value": "KS-S",
+        "description": "CART GRID SYS"
+      },
+      {
+        "name": "GREF",
+        "unit": "",
+        "value": "Ellipsoid World Geodetic System",
+        "description": "GEO REFERENCE"
+      },
+      {
+        "name": "CREF",
+        "unit": "",
+        "value": "Datum North American Datum of 19",
+        "description": "CART REFERENCE"
+      },
+      {
+        "name": "MMDL",
+        "unit": "",
+        "value": "bggm2012.dat",
+        "description": "MAGNETIC MODEL"
+      },
+      {
+        "name": "MMDD",
+        "unit": "",
+        "value": "03 January, 2013",
+        "description": "MAG DATA DATE"
+      },
+      {
+        "name": "MDS",
+        "unit": "",
+        "value": "Win MagUTM",
+        "description": "MAG DATA SOURCE"
+      },
+      {
+        "name": "LLGR",
+        "unit": "",
+        "value": "Latitude/Longitude",
+        "description": "LLGROUP"
+      },
+      {
+        "name": "XYGR",
+        "unit": "",
+        "value": "State Planes, NAD27 Based, US Foot",
+        "description": "XYGROUP"
+      },
+      {
+        "name": "UWI",
+        "unit": "",
+        "value": "15077218840000",
+        "description": "UNIQUE WELL IDENTIFIER"
+      },
+      {
+        "name": "API",
+        "unit": "",
+        "value": "15077218840000",
+        "description": "API NUMBER"
+      },
+      {
+        "name": "BASE",
+        "unit": "",
+        "value": "Oklahoma",
+        "description": "LOGGING EQUIPMENT BASE LOCATION"
+      },
+      {
+        "name": "REGN",
+        "unit": "",
+        "value": "US Northern",
+        "description": "REGION"
+      },
+      {
+        "name": "PROV",
+        "unit": "",
+        "value": "Kansas",
+        "description": "PROVINCE"
+      },
+      {
+        "name": "STAT",
+        "unit": "",
+        "value": "Kansas",
+        "description": "STATE NAME"
+      },
+      {
+        "name": "CTRY",
+        "unit": "",
+        "value": "USA",
+        "description": "COUNTRY NAME"
+      },
+      {
+        "name": "FLD",
+        "unit": "",
+        "value": "Wildcat",
+        "description": "FIELD NAME"
+      },
+      {
+        "name": "JOBN",
+        "unit": "",
+        "value": "900033626",
+        "description": "JOB TICKET NUMB"
+      },
+      {
+        "name": "RIG",
+        "unit": "",
+        "value": "Nabors 102",
+        "description": "RIG NAME"
+      },
+      {
+        "name": "LEAS",
+        "unit": "",
+        "value": "Kaup 3407 16-1SWD",
+        "description": "LEASE NAME"
+      },
+      {
+        "name": "CNTY",
+        "unit": "",
+        "value": "Harper",
+        "description": "COUNTY NAME"
+      },
+      {
+        "name": "SRVC",
+        "unit": "",
+        "value": "Nabors",
+        "description": "CONTRACTOR"
+      },
+      {
+        "name": "DCON",
+        "unit": "",
+        "value": "Sperry Drilling",
+        "description": "DIRECTNL CONTR"
+      },
+      {
+        "name": "LOC",
+        "unit": "",
+        "value": "",
+        "description": "LOCATION"
+      },
+      {
+        "name": "LMF",
+        "unit": "",
+        "value": "Drill Floor",
+        "description": "LOG MEASURED FROM"
+      },
+      {
+        "name": "AZTC",
+        "unit": "deg",
+        "value": "4.371706",
+        "description": "AZM TOTAL CORR"
+      },
+      {
+        "name": "GRDC",
+        "unit": "deg",
+        "value": "0.252179",
+        "description": "GRID CORRECTION"
+      },
+      {
+        "name": "MDEC",
+        "unit": "deg",
+        "value": "4.623886",
+        "description": "MAGNETIC DECL"
+      },
+      {
+        "name": "GVFD",
+        "unit": "g",
+        "value": "1.000000",
+        "description": "GRAVITY FIELD"
+      },
+      {
+        "name": "MDIP",
+        "unit": "deg",
+        "value": "65.219505",
+        "description": "MAGNETIC DIP"
+      },
+      {
+        "name": "MFLD",
+        "unit": "nT",
+        "value": "51769.261719",
+        "description": "MAGNETIC FIELD"
+      },
+      {
+        "name": "VSDR",
+        "unit": "deg",
+        "value": "0.000000",
+        "description": "VERT SEC DIRECT"
+      },
+      {
+        "name": "TDD",
+        "unit": "ft",
+        "value": "5480.000000",
+        "description": "TOTAL DEPTH (DRILLER)"
+      },
+      {
+        "name": "SDEP",
+        "unit": "ft",
+        "value": "98.000000",
+        "description": "START DEPTH"
+      },
+      {
+        "name": "APD",
+        "unit": "ft",
+        "value": "31.700001",
+        "description": "DEPTH ABOVE PD"
+      },
+      {
+        "name": "EPD",
+        "unit": "ft",
+        "value": "1360.000000",
+        "description": "ELEVATION"
+      },
+      {
+        "name": "DFSL",
+        "unit": "ft",
+        "value": "0.000000",
+        "description": "DISTANCE FSL"
+      },
+      {
+        "name": "DFWL",
+        "unit": "ft",
+        "value": "0.000000",
+        "description": "DISTANCE FWL"
+      },
+      {
+        "name": "UTMY",
+        "unit": "ft",
+        "value": "150979.310000",
+        "description": "UTM Y"
+      },
+      {
+        "name": "UTMX",
+        "unit": "ft",
+        "value": "2119720.020000",
+        "description": "UTM X"
+      },
+      {
+        "name": "WHEW",
+        "unit": "ft",
+        "value": "0.000000",
+        "description": "WELL HEAD E/W"
+      },
+      {
+        "name": "WHNS",
+        "unit": "ft",
+        "value": "0.000000",
+        "description": "WELL HEAD N/S"
+      },
+      {
+        "name": "WDMS",
+        "unit": "ft",
+        "value": "0.000000",
+        "description": "WD ELEV"
+      },
+      {
+        "name": "EGL",
+        "unit": "ft",
+        "value": "1360.000000",
+        "description": "GROUND ELEVATION"
+      },
+      {
+        "name": "TVDS",
+        "unit": "ft",
+        "value": "1391.699951",
+        "description": "TVDSS CORRECTN"
+      },
+      {
+        "name": "LONG",
+        "unit": "deg",
+        "value": "-98.089638",
+        "description": "LONGITUDE"
+      },
+      {
+        "name": "LATI",
+        "unit": "deg",
+        "value": "37.080585",
+        "description": "LATITUDE"
+      },
+      {
+        "name": "MMDE",
+        "unit": "ft",
+        "value": "0.000000",
+        "description": "MAGUTM CALC DEP"
+      },
+      {
+        "name": "CMER",
+        "unit": "deg",
+        "value": "-98.500000",
+        "description": "CENTRL MERIDIAN"
+      },
+      {
+        "name": "EKB",
+        "unit": "ft",
+        "value": "0.000000",
+        "description": "KB ELEVATION"
+      },
+      {
+        "name": "EDF",
+        "unit": "ft",
+        "value": "1391.699951",
+        "description": "DF ELEVATION"
+      },
+      {
+        "name": "HPTY",
+        "unit": "",
+        "value": "0",
+        "description": "HOLE POS TYPE"
+      },
+      {
+        "name": "NREF",
+        "unit": "",
+        "value": "2",
+        "description": "NORTH REFERENCE"
+      },
+      {
+        "name": "VSC",
+        "unit": "",
+        "value": "0",
+        "description": "VS TO CLOSURE"
+      },
+      {
+        "name": "MAGU",
+        "unit": "",
+        "value": "1909774",
+        "description": "MAGUTM CHECKSUM"
+      },
+      {
+        "name": "WTYP",
+        "unit": "",
+        "value": "0",
+        "description": "WELL TYPE"
+      }
+    ],
+    "Curve Information": [
+      {
+        "name": "DEPT",
+        "unit": "F",
+        "value": "00 000 000 000",
+        "description": "Survey Depth"
+      },
+      {
+        "name": "TVD",
+        "unit": "ft",
+        "value": "00 000 000 000",
+        "description": "Survey TVD"
+      },
+      {
+        "name": "TIM",
+        "unit": "NONE",
+        "value": "00 000 000 000",
+        "description": "Survey Time & Date"
+      },
+      {
+        "name": "Inclination",
+        "unit": "deg",
+        "value": "00 000 000 000",
+        "description": "Survey Inclination"
+      },
+      {
+        "name": "Azimuth",
+        "unit": "deg",
+        "value": "00 000 000 000",
+        "description": "Survey Azimuth"
+      },
+      {
+        "name": "Gx",
+        "unit": "g",
+        "value": "00 000 000 000",
+        "description": "Survey Gx"
+      },
+      {
+        "name": "Gy",
+        "unit": "g",
+        "value": "00 000 000 000",
+        "description": "Survey Gy"
+      },
+      {
+        "name": "Gz",
+        "unit": "g",
+        "value": "00 000 000 000",
+        "description": "Survey Gz"
+      },
+      {
+        "name": "Gtotal",
+        "unit": "g",
+        "value": "00 000 000 000",
+        "description": "Survey Gtotal"
+      },
+      {
+        "name": "Goxy",
+        "unit": "g",
+        "value": "00 000 000 000",
+        "description": "Survey Goxy"
+      },
+      {
+        "name": "Bx",
+        "unit": "nT",
+        "value": "00 000 000 000",
+        "description": "Survey Bx"
+      },
+      {
+        "name": "By",
+        "unit": "nT",
+        "value": "00 000 000 000",
+        "description": "Survey By"
+      },
+      {
+        "name": "Bz",
+        "unit": "nT",
+        "value": "00 000 000 000",
+        "description": "Survey Bz"
+      },
+      {
+        "name": "Btotal",
+        "unit": "nT",
+        "value": "00 000 000 000",
+        "description": "Survey Btotal"
+      },
+      {
+        "name": "BzCalculated",
+        "unit": "nT",
+        "value": "00 000 000 000",
+        "description": "Survey Bz Calculated"
+      },
+      {
+        "name": "BtotalCalc",
+        "unit": "nT",
+        "value": "00 000 000 000",
+        "description": "Survey Btotal Calc"
+      },
+      {
+        "name": "Boxy",
+        "unit": "nT",
+        "value": "00 000 000 000",
+        "description": "Survey Boxy"
+      },
+      {
+        "name": "Dip,measured",
+        "unit": "deg",
+        "value": "00 000 000 000",
+        "description": "Survey Dip, measured"
+      },
+      {
+        "name": "Dip,calculated",
+        "unit": "deg",
+        "value": "00 000 000 000",
+        "description": "Survey Dip, calculated"
+      }
+    ]
+  }
+}

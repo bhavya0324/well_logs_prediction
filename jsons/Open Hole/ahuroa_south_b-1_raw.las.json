@@ -1,0 +1,427 @@
+{
+  "Type": "LAS2.00",
+  "Content": {
+    "Version Information": [
+      {
+        "name": "VERS",
+        "unit": "",
+        "value": "2.00",
+        "description": "CWLS LOG ASCII STANDARD - VERSION 2.00"
+      },
+      {
+        "name": "WRAP",
+        "unit": "",
+        "value": "YES",
+        "description": "Multiple lines per depth step"
+      }
+    ],
+    "Well Information": [
+      {
+        "name": "STRT",
+        "unit": "M",
+        "value": "27.58440",
+        "description": "START DEPTH"
+      },
+      {
+        "name": "STOP",
+        "unit": "M",
+        "value": "3369.56400",
+        "description": "STOP DEPTH"
+      },
+      {
+        "name": "STEP",
+        "unit": "M",
+        "value": "0.15240",
+        "description": "STEP"
+      },
+      {
+        "name": "NULL",
+        "unit": "",
+        "value": "-999.25",
+        "description": "NULL VALUE"
+      },
+      {
+        "name": "COMP",
+        "unit": "",
+        "value": "",
+        "description": "COMPANY"
+      },
+      {
+        "name": "WELL",
+        "unit": "",
+        "value": "Ahuroa South B-1",
+        "description": "WELL"
+      },
+      {
+        "name": "FLD",
+        "unit": "",
+        "value": "",
+        "description": "FIELD"
+      },
+      {
+        "name": "LOC",
+        "unit": "",
+        "value": "",
+        "description": "LOCATION"
+      },
+      {
+        "name": "CTRY",
+        "unit": "",
+        "value": "",
+        "description": "COUNTRY"
+      },
+      {
+        "name": "STAT",
+        "unit": "",
+        "value": "",
+        "description": "STATE"
+      },
+      {
+        "name": "CNTY",
+        "unit": "",
+        "value": "",
+        "description": "COUNTY"
+      },
+      {
+        "name": "SRVC",
+        "unit": "",
+        "value": "Swift Energy New Zealand Ltd",
+        "description": "SERVICE COMPANY"
+      },
+      {
+        "name": "DATE",
+        "unit": "",
+        "value": "",
+        "description": "DATE"
+      },
+      {
+        "name": "API",
+        "unit": "",
+        "value": "",
+        "description": "API NUMBER"
+      },
+      {
+        "name": "UWI",
+        "unit": "",
+        "value": "100000789604",
+        "description": "UNIQUE WELL ID"
+      },
+      {
+        "name": "LATI",
+        "unit": "",
+        "value": "-39.2652419",
+        "description": "LATITUDE"
+      },
+      {
+        "name": "LONG",
+        "unit": "",
+        "value": "174.3405856",
+        "description": "LONGITUDE"
+      }
+    ],
+    "Curve Information": [
+      {
+        "name": "DEPTH",
+        "unit": "M",
+        "value": "",
+        "description": ""
+      },
+      {
+        "name": "AHT10",
+        "unit": "OHMM",
+        "value": "",
+        "description": "Array Induction Two Foot Resistivity A10"
+      },
+      {
+        "name": "AHT20",
+        "unit": "OHMM",
+        "value": "",
+        "description": "Array Induction Two Foot Resistivity A20"
+      },
+      {
+        "name": "AHT30",
+        "unit": "OHMM",
+        "value": "",
+        "description": "Array Induction Two Foot Resistivity A30"
+      },
+      {
+        "name": "AHT60",
+        "unit": "OHMM",
+        "value": "",
+        "description": "Array Induction Two Foot Resistivity A60"
+      },
+      {
+        "name": "AHT90",
+        "unit": "OHMM",
+        "value": "",
+        "description": "Array Induction Two Foot Resistivity A90"
+      },
+      {
+        "name": "AHTRX",
+        "unit": "OHMM",
+        "value": "",
+        "description": "Array Induction Two Foot Rxo"
+      },
+      {
+        "name": "BS",
+        "unit": "IN",
+        "value": "",
+        "description": "Bit Size"
+      },
+      {
+        "name": "BS",
+        "unit": "IN",
+        "value": "",
+        "description": "Bit Size"
+      },
+      {
+        "name": "DPHZ",
+        "unit": "V/V",
+        "value": "",
+        "description": "HRDD Standard Resolution Density Porosity"
+      },
+      {
+        "name": "DPHZ",
+        "unit": "V/V",
+        "value": "",
+        "description": "HRDD Standard Resolution Density Porosity"
+      },
+      {
+        "name": "DT",
+        "unit": "US/F",
+        "value": "",
+        "description": "Delta-T"
+      },
+      {
+        "name": "DT",
+        "unit": "US/F",
+        "value": "",
+        "description": "Delta-T"
+      },
+      {
+        "name": "GR",
+        "unit": "GAPI",
+        "value": "",
+        "description": "Gamma-Ray"
+      },
+      {
+        "name": "GR",
+        "unit": "GAPI",
+        "value": "",
+        "description": "Gamma-Ray"
+      },
+      {
+        "name": "HCAL",
+        "unit": "IN",
+        "value": "",
+        "description": "HRCC Cal. Caliper"
+      },
+      {
+        "name": "HCAL",
+        "unit": "IN",
+        "value": "",
+        "description": "HRCC Cal. Caliper"
+      },
+      {
+        "name": "HDRA",
+        "unit": "G/C3",
+        "value": "",
+        "description": "HRDD Density Correction"
+      },
+      {
+        "name": "HDRA",
+        "unit": "G/C3",
+        "value": "",
+        "description": "HRDD Density Correction"
+      },
+      {
+        "name": "HTEM",
+        "unit": "DEGC",
+        "value": "",
+        "description": "HTC Temperature"
+      },
+      {
+        "name": "NPHI",
+        "unit": "V/V",
+        "value": "",
+        "description": "Thermal Neutron Porosity (Ratio Method)"
+      },
+      {
+        "name": "NPHI",
+        "unit": "V/V",
+        "value": "",
+        "description": "Thermal Neutron Porosity (Ratio Method)"
+      },
+      {
+        "name": "PEFZ",
+        "unit": "B/E",
+        "value": "",
+        "description": "HRDD Standard Resolution Formation Photoelectric Factor"
+      },
+      {
+        "name": "PEFZ",
+        "unit": "B/E",
+        "value": "",
+        "description": "HRDD Standard Resolution Formation Photoelectric Factor"
+      },
+      {
+        "name": "RHOZ",
+        "unit": "G/C3",
+        "value": "",
+        "description": "HRDD Standard Resolution Formation Density"
+      },
+      {
+        "name": "RHOZ",
+        "unit": "G/C3",
+        "value": "",
+        "description": "HRDD Standard Resolution Formation Density"
+      },
+      {
+        "name": "RLA1",
+        "unit": "OHMM",
+        "value": "",
+        "description": "HRLT Borehole Corrected Resistivity 1"
+      },
+      {
+        "name": "RLA2",
+        "unit": "OHMM",
+        "value": "",
+        "description": "HRLT Borehole Corrected Resistivity 2"
+      },
+      {
+        "name": "RLA3",
+        "unit": "OHMM",
+        "value": "",
+        "description": "HRLT Borehole Corrected Resistivity 3"
+      },
+      {
+        "name": "RLA4",
+        "unit": "OHMM",
+        "value": "",
+        "description": "HRLT Borehole Corrected Resistivity 4"
+      },
+      {
+        "name": "RLA5",
+        "unit": "OHMM",
+        "value": "",
+        "description": "HRLT Borehole Corrected Resistivity 5"
+      },
+      {
+        "name": "RT_HRLT",
+        "unit": "OHMM",
+        "value": "",
+        "description": "HRLT Computed True Resistivity"
+      },
+      {
+        "name": "RXOZ",
+        "unit": "OHMM",
+        "value": "",
+        "description": "Microresistivity"
+      },
+      {
+        "name": "RXO_HRLT",
+        "unit": "OHMM",
+        "value": "",
+        "description": "HRLT Computed Invaded Zone Resistivity"
+      },
+      {
+        "name": "SP",
+        "unit": "MV",
+        "value": "",
+        "description": "SP Shifted"
+      },
+      {
+        "name": "TENS",
+        "unit": "KGF",
+        "value": "",
+        "description": "Cable Tension"
+      }
+    ],
+    "Parameter Information": [
+      {
+        "name": "CUR_INT_BOT",
+        "unit": "M",
+        "value": "3379.9272",
+        "description": "Current interpolated bottom"
+      },
+      {
+        "name": "PROJECT",
+        "unit": "",
+        "value": "New Zealand Log QC Project",
+        "description": ""
+      },
+      {
+        "name": "SET",
+        "unit": "",
+        "value": "RAW_INTER_REF_D",
+        "description": ""
+      },
+      {
+        "name": "ELEVATION_AMSL",
+        "unit": "M",
+        "value": "201.84",
+        "description": "Elevation above mean sea level"
+      },
+      {
+        "name": "ELEVATION_REF",
+        "unit": "",
+        "value": "RT",
+        "description": "Measurement reference"
+      },
+      {
+        "name": "FORMATION_AT_TD",
+        "unit": "",
+        "value": "Manganui",
+        "description": "Formation at TD"
+      },
+      {
+        "name": "GL_ELEVATION_AMSL",
+        "unit": "M",
+        "value": "196.3000",
+        "description": "Ground level elevation above mean sea level"
+      },
+      {
+        "name": "LICENCE_NUMBER",
+        "unit": "",
+        "value": "PML38139",
+        "description": "Licence number"
+      },
+      {
+        "name": "ONSHORE_OR_OFFSHORE",
+        "unit": "",
+        "value": "Onshore",
+        "description": "Onshore/offshore"
+      },
+      {
+        "name": "PR_NUMBER",
+        "unit": "",
+        "value": "PR3216",
+        "description": "Petroleum report number"
+      },
+      {
+        "name": "SPUD_DATE",
+        "unit": "",
+        "value": "05/10/2005",
+        "description": "Spud date"
+      },
+      {
+        "name": "STATUS_AT_COMPLETION",
+        "unit": "",
+        "value": "Plugged and abandoned",
+        "description": "Status at completion"
+      },
+      {
+        "name": "TD_DATE",
+        "unit": "",
+        "value": "07/11/2005",
+        "description": "Total depth date"
+      },
+      {
+        "name": "TOTAL_DEPTH_DRILLED",
+        "unit": "M",
+        "value": "3370",
+        "description": "Total depth drilled"
+      }
+    ]
+  }
+}

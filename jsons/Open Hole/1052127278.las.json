@@ -1,0 +1,615 @@
+{
+  "Type": "LAS2.00",
+  "Content": {
+    "Version Information": [
+      {
+        "name": "VERS",
+        "unit": "",
+        "value": "2.00",
+        "description": "CWLS Log ASCII Standard - Version 2.00"
+      },
+      {
+        "name": "WRAP",
+        "unit": "",
+        "value": "NO",
+        "description": "One line per depth step"
+      }
+    ],
+    "Well Information": [
+      {
+        "name": "STRT",
+        "unit": "F",
+        "value": "200.0",
+        "description": "Start"
+      },
+      {
+        "name": "STOP",
+        "unit": "F",
+        "value": "5024.0",
+        "description": "Stop"
+      },
+      {
+        "name": "STEP",
+        "unit": "F",
+        "value": "0.5",
+        "description": "Step increment"
+      },
+      {
+        "name": "NULL",
+        "unit": "",
+        "value": "-999.250",
+        "description": "Null value"
+      },
+      {
+        "name": "FR",
+        "unit": "F",
+        "value": "0.0",
+        "description": "First Reading"
+      },
+      {
+        "name": "LR",
+        "unit": "F",
+        "value": "0.0",
+        "description": "Last Reading"
+      },
+      {
+        "name": "COMP",
+        "unit": "",
+        "value": "GRAND MESA OPERATING COMPANY",
+        "description": "Company"
+      },
+      {
+        "name": "WELL",
+        "unit": "",
+        "value": "DICK TRUST 1-7",
+        "description": "Well"
+      },
+      {
+        "name": "FLD",
+        "unit": "",
+        "value": "WILDCAT",
+        "description": "Field"
+      },
+      {
+        "name": "CTRY",
+        "unit": "",
+        "value": "United States",
+        "description": "State / Country"
+      },
+      {
+        "name": "LOC",
+        "unit": "",
+        "value": "1665' FSL & 2360' FEL",
+        "description": "Location"
+      },
+      {
+        "name": "LOC2",
+        "unit": "",
+        "value": "",
+        "description": "Location 2"
+      },
+      {
+        "name": "SRVC",
+        "unit": "",
+        "value": "Weatherford",
+        "description": "Service company"
+      },
+      {
+        "name": "STAT",
+        "unit": "",
+        "value": "USA / KANSAS",
+        "description": "State"
+      },
+      {
+        "name": "CNTY",
+        "unit": "",
+        "value": "BARBER",
+        "description": "County"
+      },
+      {
+        "name": "API",
+        "unit": "",
+        "value": "15-007-24357",
+        "description": "API Number"
+      },
+      {
+        "name": "LIC",
+        "unit": "",
+        "value": "",
+        "description": "Licence Number"
+      },
+      {
+        "name": "LATI",
+        "unit": "",
+        "value": "37.44656",
+        "description": "Latitude"
+      },
+      {
+        "name": "LONG",
+        "unit": "",
+        "value": "-98.56433",
+        "description": "Longitude"
+      },
+      {
+        "name": "DATE",
+        "unit": "",
+        "value": "04-Sep-2019",
+        "description": "Logging Date"
+      }
+    ],
+    "Curve Information": [
+      {
+        "name": "DEPT",
+        "unit": "F",
+        "value": "00 001 00 00",
+        "description": "Logged depth"
+      },
+      {
+        "name": "CGXT",
+        "unit": "DEGF",
+        "value": "30 660 01 00",
+        "description": "MCG External Temperature"
+      },
+      {
+        "name": "SMTU",
+        "unit": "LB",
+        "value": "30 635 00 00",
+        "description": "DST Uphole Tension"
+      },
+      {
+        "name": "GRGC",
+        "unit": "GAPI",
+        "value": "30 310 01 00",
+        "description": "MCG Gamma Ray"
+      },
+      {
+        "name": "SPCG",
+        "unit": "MV",
+        "value": "30 010 00 00",
+        "description": "Spontaneous Potential"
+      },
+      {
+        "name": "FEFE",
+        "unit": "OHMM",
+        "value": "10 220 06 00",
+        "description": "Shallow FE"
+      },
+      {
+        "name": "NPRL",
+        "unit": "PERC",
+        "value": "42 890 01 00",
+        "description": "Limestone Neutron Por."
+      },
+      {
+        "name": "CLDC",
+        "unit": "IN",
+        "value": "45 280 01 00",
+        "description": "Density Caliper"
+      },
+      {
+        "name": "DCOR",
+        "unit": "G/C3",
+        "value": "42 356 01 00",
+        "description": "Density Correction"
+      },
+      {
+        "name": "PDPE",
+        "unit": "B/E",
+        "value": "45 358 01 00",
+        "description": "PE"
+      },
+      {
+        "name": "DPRL",
+        "unit": "PERC",
+        "value": "45 890 10 00",
+        "description": "Limestone Density Por."
+      },
+      {
+        "name": "SPRL",
+        "unit": "PERC",
+        "value": "61 890 20 00",
+        "description": "Wyllie Lime. Sonic Por."
+      },
+      {
+        "name": "MNRL",
+        "unit": "OHMM",
+        "value": "15 252 00 00",
+        "description": "Micro-normal"
+      },
+      {
+        "name": "MINV",
+        "unit": "OHMM",
+        "value": "15 250 00 00",
+        "description": "Micro-inverse"
+      },
+      {
+        "name": "MBTC",
+        "unit": "IN",
+        "value": "15 280 01 00",
+        "description": "MMR Caliper"
+      },
+      {
+        "name": "HVOL",
+        "unit": "F3",
+        "value": "70 000 00 00",
+        "description": "Hole Volume"
+      },
+      {
+        "name": "AVOL",
+        "unit": "F3",
+        "value": "70 000 00 00",
+        "description": "Annular Volume"
+      },
+      {
+        "name": "R40O",
+        "unit": "OHMM",
+        "value": "07 120 44 00",
+        "description": "Array Ind. One Res 40"
+      },
+      {
+        "name": "R60O",
+        "unit": "OHMM",
+        "value": "07 120 44 00",
+        "description": "Array Ind. One Res 60"
+      },
+      {
+        "name": "RTAO",
+        "unit": "OHMM",
+        "value": "07 120 44 00",
+        "description": "Array Ind. One Res Rt"
+      },
+      {
+        "name": "NPOR",
+        "unit": "PERC",
+        "value": "42 890 04 00",
+        "description": "Base Neutron Porosity"
+      },
+      {
+        "name": "NPRS",
+        "unit": "PERC",
+        "value": "42 890 03 00",
+        "description": "Sandstone Neutron Por."
+      },
+      {
+        "name": "NPRD",
+        "unit": "PERC",
+        "value": "42 890 02 00",
+        "description": "Dolomite Neutron Por."
+      },
+      {
+        "name": "DPOR",
+        "unit": "PERC",
+        "value": "45 890 13 00",
+        "description": "Base Density Porosity"
+      },
+      {
+        "name": "DPRS",
+        "unit": "PERC",
+        "value": "45 890 12 00",
+        "description": "Sandstone Density Por."
+      },
+      {
+        "name": "DPRD",
+        "unit": "PERC",
+        "value": "45 890 11 00",
+        "description": "Dolomite Density Por."
+      },
+      {
+        "name": "DEN",
+        "unit": "G/C3",
+        "value": "42 350 01 00",
+        "description": "Compensated Density"
+      },
+      {
+        "name": "HDEN",
+        "unit": "G/C3",
+        "value": "42 350 01 00",
+        "description": "Vectar Processed Density"
+      },
+      {
+        "name": "DT35",
+        "unit": "US/F",
+        "value": "60 520 32 00",
+        "description": "3-5' Compensated Sonic"
+      },
+      {
+        "name": "BIT",
+        "unit": "IN",
+        "value": "70 282 00 00",
+        "description": "Bit size"
+      }
+    ],
+    "Parameter Information": [
+      {
+        "name": "RNID",
+        "unit": "",
+        "value": "MAIN PASS",
+        "description": "Run ID"
+      },
+      {
+        "name": "SON",
+        "unit": "",
+        "value": "4052-254730727",
+        "description": "Job Number"
+      },
+      {
+        "name": "DREF",
+        "unit": "",
+        "value": "KB",
+        "description": "Depth reference"
+      },
+      {
+        "name": "EREF",
+        "unit": "F",
+        "value": "1848.000",
+        "description": "Elevation of depth reference"
+      },
+      {
+        "name": "GL",
+        "unit": "F",
+        "value": "1837.000",
+        "description": "Ground elevation"
+      },
+      {
+        "name": "DDRF",
+        "unit": "",
+        "value": "KB",
+        "description": "Drilling Depth Reference"
+      },
+      {
+        "name": "DERF",
+        "unit": "F",
+        "value": "1848.000",
+        "description": "Elevation of Drilling Depth Reference"
+      },
+      {
+        "name": "RUN",
+        "unit": "",
+        "value": "ONE",
+        "description": "Run number"
+      },
+      {
+        "name": "TDD",
+        "unit": "F",
+        "value": "5020.000",
+        "description": "TD (driller)"
+      },
+      {
+        "name": "TDL",
+        "unit": "F",
+        "value": "5015.700",
+        "description": "TD (logger)"
+      },
+      {
+        "name": "BS",
+        "unit": "IN",
+        "value": "7.875",
+        "description": "Bit size"
+      },
+      {
+        "name": "TIMC",
+        "unit": "",
+        "value": "",
+        "description": "Time circulation ended"
+      },
+      {
+        "name": "TIML",
+        "unit": "",
+        "value": "",
+        "description": "Time logger at bottom"
+      },
+      {
+        "name": "UNIT",
+        "unit": "",
+        "value": "13057",
+        "description": "Equipment ID"
+      },
+      {
+        "name": "BASE",
+        "unit": "",
+        "value": "LIB",
+        "description": "Equipment base location"
+      },
+      {
+        "name": "ENG",
+        "unit": "",
+        "value": "Z.AL-SUDANI",
+        "description": "Recording engineer"
+      },
+      {
+        "name": "WIT",
+        "unit": "",
+        "value": "STEVE STRIBLING",
+        "description": "Witnessed by"
+      },
+      {
+        "name": "CSGT",
+        "unit": "",
+        "value": "SURFACE",
+        "description": "Casing type"
+      },
+      {
+        "name": "CSGS",
+        "unit": "IN",
+        "value": "8.625",
+        "description": "Casing size"
+      },
+      {
+        "name": "CSGW",
+        "unit": "LB/FT",
+        "value": "24.000",
+        "description": "Casing weight"
+      },
+      {
+        "name": "CSGD",
+        "unit": "F",
+        "value": "235.000",
+        "description": "Casing bottom (driller)"
+      },
+      {
+        "name": "CSGL",
+        "unit": "F",
+        "value": "234.700",
+        "description": "Casing bottom (logger)"
+      },
+      {
+        "name": "CSUP",
+        "unit": "F",
+        "value": "-999999.000",
+        "description": "Casing Stick Up GL"
+      },
+      {
+        "name": "MUD",
+        "unit": "",
+        "value": "WBM",
+        "description": "Mud type"
+      },
+      {
+        "name": "MUDS",
+        "unit": "",
+        "value": "MUD PIT",
+        "description": "Mud sample source"
+      },
+      {
+        "name": "MUDD",
+        "unit": "LB/G",
+        "value": "9.200",
+        "description": "Mud density"
+      },
+      {
+        "name": "MUDV",
+        "unit": "SEC/QT",
+        "value": "47.000",
+        "description": "Mud viscosity"
+      },
+      {
+        "name": "PH",
+        "unit": "",
+        "value": "10.500",
+        "description": "Mud pH"
+      },
+      {
+        "name": "FL",
+        "unit": "ML/30MIN",
+        "value": "9.600",
+        "description": "Mud fluid loss rate"
+      },
+      {
+        "name": "RM",
+        "unit": "OHMM",
+        "value": "0.120",
+        "description": "Mud resistivity"
+      },
+      {
+        "name": "RMT",
+        "unit": "DEGF",
+        "value": "92.000",
+        "description": "Mud sample temperature"
+      },
+      {
+        "name": "RMF",
+        "unit": "OHMM",
+        "value": "0.090",
+        "description": "Mud filtrate resistivity"
+      },
+      {
+        "name": "RMFT",
+        "unit": "DEGF",
+        "value": "92.000",
+        "description": "Mud filtrate sample temperature"
+      },
+      {
+        "name": "RMC",
+        "unit": "OHMM",
+        "value": "1.140",
+        "description": "Mud cake resistivity"
+      },
+      {
+        "name": "RMCT",
+        "unit": "DEGF",
+        "value": "92.000",
+        "description": "Mud cake sample temperature"
+      },
+      {
+        "name": "RMBT",
+        "unit": "OHMM",
+        "value": "0.080",
+        "description": "Mud Resistivity at BHT"
+      },
+      {
+        "name": "BHT",
+        "unit": "DEGF",
+        "value": "129.000",
+        "description": "Bottom Hole Temperature"
+      },
+      {
+        "name": "TMAX",
+        "unit": "DEGF",
+        "value": "129.000",
+        "description": "Max recorded temperature"
+      },
+      {
+        "name": "MAI: TWO 0",
+        "unit": "5",
+        "value": "INCH STANDOFFS.",
+        "description": ""
+      },
+      {
+        "name": "MFE: ONE 0",
+        "unit": "5",
+        "value": "INCH STANDOFF.",
+        "description": ""
+      },
+      {
+        "name": "MSS: THREE 0",
+        "unit": "5",
+        "value": "INCH STANDOFFS.",
+        "description": ""
+      },
+      {
+        "name": "MDN: DUAL BOWSPRING ECCENTRALIZERS",
+        "unit": "",
+        "value": " ",
+        "description": ""
+      },
+      {
+        "name": "2",
+        "unit": "71",
+        "value": "G/CC DENSITY MATRIX USED TO CALCULATE POROSITY.",
+        "description": ""
+      },
+      {
+        "name": "TOTAL HOLE VOLUME FROM TD TO SURFACE CASING =1982 CU",
+        "unit": "FT.",
+        "value": " ",
+        "description": ""
+      },
+      {
+        "name": "ANNULAR HOLE VOLUME WITH 5",
+        "unit": "5",
+        "value": "INCH PRODUCTION CASING FROM TD TO SURFACE CASING = 1196 CU.FT.",
+        "description": ""
+      },
+      {
+        "name": "OPERATOR(S):  J",
+        "unit": "CASE,",
+        "value": "D. TRAN",
+        "description": ""
+      },
+      {
+        "name": "*HOLE WASHOUTS AND RUGOSITY WILL AFFECT LOG QUALITY AND REPEATABILITY",
+        "unit": "*",
+        "value": " ",
+        "description": ""
+      }
+    ],
+    "QC Info": [
+      {
+        "name": "Issue",
+        "unit": "",
+        "value": "",
+        "description": "No blank lines allowed in the ASCII data section. ,  "
+      }
+    ]
+  }
+}

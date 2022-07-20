@@ -1,0 +1,1463 @@
+{
+  "Type": "LAS2.0",
+  "Content": {
+    "Version Information": [
+      {
+        "name": "VERS",
+        "unit": "",
+        "value": "2.0",
+        "description": "CWLS log ASCII Standard -VERSION 2.0"
+      },
+      {
+        "name": "WRAP",
+        "unit": "",
+        "value": "NO",
+        "description": "One line per depth step"
+      }
+    ],
+    "Well Information": [
+      {
+        "name": "STRT",
+        "unit": "F",
+        "value": "1510.0000",
+        "description": "START DEPTH"
+      },
+      {
+        "name": "STOP",
+        "unit": "F",
+        "value": "5191.5000",
+        "description": "STOP DEPTH"
+      },
+      {
+        "name": "STEP",
+        "unit": "F",
+        "value": "0.5000",
+        "description": "STEP DEPTH"
+      },
+      {
+        "name": "NULL",
+        "unit": "",
+        "value": "-999.25",
+        "description": "NULL VALUE"
+      },
+      {
+        "name": "LOC",
+        "unit": "",
+        "value": "1090' FNL   1490' FWL",
+        "description": "LOCATION"
+      },
+      {
+        "name": "RANG",
+        "unit": "",
+        "value": "32W",
+        "description": "RANGE"
+      },
+      {
+        "name": "TOWN",
+        "unit": "",
+        "value": "30S",
+        "description": "TOWNSHIP"
+      },
+      {
+        "name": "SECT",
+        "unit": "",
+        "value": "21",
+        "description": "SECTION"
+      },
+      {
+        "name": "FL5",
+        "unit": "",
+        "value": "Y-COOR  285757.75",
+        "description": "LOCATIONLINE5"
+      },
+      {
+        "name": "FL4",
+        "unit": "",
+        "value": "X-COOR  1323790.99",
+        "description": "LOCATIONLINE4"
+      },
+      {
+        "name": "FL3",
+        "unit": "",
+        "value": "LONGITUDE  -100.828902",
+        "description": "LOCATIONLINE3"
+      },
+      {
+        "name": "FL2",
+        "unit": "",
+        "value": "LATITUDE  37.428273",
+        "description": "LOCATIONLINE2"
+      },
+      {
+        "name": "FL1",
+        "unit": "",
+        "value": "1090' FNL   1490' FWL",
+        "description": "LOCATIONLINE1"
+      },
+      {
+        "name": "RIG",
+        "unit": "",
+        "value": "AZTEC #507",
+        "description": "RIG NAME"
+      },
+      {
+        "name": "CNTY",
+        "unit": "",
+        "value": "HASKELL",
+        "description": "COUNTY NAME"
+      },
+      {
+        "name": "LUL",
+        "unit": "",
+        "value": "LIBERAL",
+        "description": "LOGGINGUNITLOC"
+      },
+      {
+        "name": "UWI",
+        "unit": "",
+        "value": "15081220290000",
+        "description": "UNIQUE WELL IDENTIFIER"
+      },
+      {
+        "name": "API",
+        "unit": "",
+        "value": "15081220290000",
+        "description": "API NUMBER"
+      },
+      {
+        "name": "SON",
+        "unit": "",
+        "value": "900741885",
+        "description": "JOB NUMBER"
+      },
+      {
+        "name": "DMF",
+        "unit": "",
+        "value": "KB",
+        "description": "DRILL MEAS FROM"
+      },
+      {
+        "name": "PDAT",
+        "unit": "",
+        "value": "GL",
+        "description": "PERMANENT DATUM"
+      },
+      {
+        "name": "FLD",
+        "unit": "",
+        "value": "DIADEN",
+        "description": "FIELD NAME"
+      },
+      {
+        "name": "WELL",
+        "unit": "",
+        "value": "ENTERPRISES A-4",
+        "description": "WELL NAME"
+      },
+      {
+        "name": "COMP",
+        "unit": "",
+        "value": "OXY USA INC.",
+        "description": "COMPANY"
+      },
+      {
+        "name": "CTRY",
+        "unit": "",
+        "value": "USA",
+        "description": "COUNTRY NAME"
+      },
+      {
+        "name": "PROV",
+        "unit": "",
+        "value": "KANSAS",
+        "description": "PROVINCE"
+      },
+      {
+        "name": "STAT",
+        "unit": "",
+        "value": "KANSAS",
+        "description": "STATE NAME"
+      },
+      {
+        "name": "IQVR",
+        "unit": "",
+        "value": "R3.8.4",
+        "description": "WLIQ VERSION"
+      },
+      {
+        "name": "SVCO",
+        "unit": "",
+        "value": "Halliburton",
+        "description": "SERVICECONAME"
+      },
+      {
+        "name": "DATE",
+        "unit": "",
+        "value": "16-Sep-2013",
+        "description": "DATE"
+      },
+      {
+        "name": "SRVC",
+        "unit": "",
+        "value": "Halliburton",
+        "description": "SERVICE COMPANY"
+      },
+      {
+        "name": "APD",
+        "unit": "ft",
+        "value": "11.0000",
+        "description": "DEPTH ABOVE PD"
+      },
+      {
+        "name": "TVDS",
+        "unit": "ft",
+        "value": "2891.0000",
+        "description": "TVDSS CORRECTN"
+      },
+      {
+        "name": "GVFD",
+        "unit": "g",
+        "value": "1.0000",
+        "description": "GRAVITY FIELD"
+      },
+      {
+        "name": "EGL",
+        "unit": "ft",
+        "value": "2880.0000",
+        "description": "GROUND ELEVATION"
+      },
+      {
+        "name": "EPD",
+        "unit": "ft",
+        "value": "2880.0000",
+        "description": "ELEVATION"
+      }
+    ],
+    "Curve Information": [
+      {
+        "name": "DEPT",
+        "unit": "F",
+        "value": "00 000 000 000",
+        "description": "Depth"
+      },
+      {
+        "name": "CT90",
+        "unit": "mmo/m",
+        "value": "00 000 000 000",
+        "description": "90in Conductivity 2ft Res"
+      },
+      {
+        "name": "CALI",
+        "unit": "in",
+        "value": "00 000 000 000",
+        "description": "Caliper"
+      },
+      {
+        "name": "CORP",
+        "unit": "g/cc",
+        "value": "00 000 000 000",
+        "description": "DensityCorrPos"
+      },
+      {
+        "name": "CORM",
+        "unit": "g/cc",
+        "value": "00 000 000 000",
+        "description": "DensityCorrNeg"
+      },
+      {
+        "name": "DRHO",
+        "unit": "g/cc",
+        "value": "00 000 000 000",
+        "description": "DensityCorr"
+      },
+      {
+        "name": "DPHI",
+        "unit": "decp",
+        "value": "00 000 000 000",
+        "description": "DensityPorosity"
+      },
+      {
+        "name": "DLIM",
+        "unit": "decp",
+        "value": "00 000 000 000",
+        "description": "DenPhiLime"
+      },
+      {
+        "name": "DPHD",
+        "unit": "decp",
+        "value": "00 000 000 000",
+        "description": "DenPhiDolo"
+      },
+      {
+        "name": "DPHS",
+        "unit": "decp",
+        "value": "00 000 000 000",
+        "description": "DenPhiSand"
+      },
+      {
+        "name": "DT",
+        "unit": "uspf",
+        "value": "00 000 000 000",
+        "description": "Delta-T"
+      },
+      {
+        "name": "GR",
+        "unit": "api",
+        "value": "00 000 000 000",
+        "description": "Gamma API"
+      },
+      {
+        "name": "ITTT",
+        "unit": "us",
+        "value": "00 000 000 000",
+        "description": "ITTTotal"
+      },
+      {
+        "name": "MINV",
+        "unit": "ohmm",
+        "value": "00 000 000 000",
+        "description": "MicrologLateral"
+      },
+      {
+        "name": "MNOR",
+        "unit": "ohmm",
+        "value": "00 000 000 000",
+        "description": "MicrologNormal"
+      },
+      {
+        "name": "NPHI",
+        "unit": "decp",
+        "value": "00 000 000 000",
+        "description": "Neutron Porosity"
+      },
+      {
+        "name": "NPHL",
+        "unit": "decp",
+        "value": "00 000 000 000",
+        "description": "Neu Por Lime"
+      },
+      {
+        "name": "NPHS",
+        "unit": "decp",
+        "value": "00 000 000 000",
+        "description": "Neutron Porosity Sand"
+      },
+      {
+        "name": "NPHD",
+        "unit": "decp",
+        "value": "00 000 000 000",
+        "description": "Neutron Porosity Dolo"
+      },
+      {
+        "name": "RHOB",
+        "unit": "g/cc",
+        "value": "00 000 000 000",
+        "description": "Density"
+      },
+      {
+        "name": "PE",
+        "unit": "b/e",
+        "value": "00 000 000 000",
+        "description": "Pe"
+      },
+      {
+        "name": "QN",
+        "unit": "NONE",
+        "value": "00 000 000 000",
+        "description": "NearQuality"
+      },
+      {
+        "name": "QF",
+        "unit": "NONE",
+        "value": "00 000 000 000",
+        "description": "FarQuality"
+      },
+      {
+        "name": "RT90",
+        "unit": "ohmm",
+        "value": "00 000 000 000",
+        "description": "90in Resistivity 2ft Res"
+      },
+      {
+        "name": "RT60",
+        "unit": "ohmm",
+        "value": "00 000 000 000",
+        "description": "60in Resistivity 2ft Res"
+      },
+      {
+        "name": "RT30",
+        "unit": "ohmm",
+        "value": "00 000 000 000",
+        "description": "30in Resistivity 2ft Res"
+      },
+      {
+        "name": "RT20",
+        "unit": "ohmm",
+        "value": "00 000 000 000",
+        "description": "20in Resistivity 2ft Res"
+      },
+      {
+        "name": "RT10",
+        "unit": "ohmm",
+        "value": "00 000 000 000",
+        "description": "10in Resistivity 2ft Res"
+      },
+      {
+        "name": "RT",
+        "unit": "ohmm",
+        "value": "00 000 000 000",
+        "description": "RT"
+      },
+      {
+        "name": "RXO",
+        "unit": "ohmm",
+        "value": "00 000 000 000",
+        "description": "RXO"
+      },
+      {
+        "name": "RXRT",
+        "unit": "NONE",
+        "value": "00 000 000 000",
+        "description": "RXRT"
+      },
+      {
+        "name": "RMUD",
+        "unit": "ohmm",
+        "value": "00 000 000 000",
+        "description": "RMUD"
+      },
+      {
+        "name": "SP",
+        "unit": "mV",
+        "value": "00 000 000 000",
+        "description": "SP"
+      },
+      {
+        "name": "SPHI",
+        "unit": "decp",
+        "value": "00 000 000 000",
+        "description": "Acou Porosity"
+      },
+      {
+        "name": "TENS",
+        "unit": "lbs",
+        "value": "00 000 000 000",
+        "description": "Tension"
+      },
+      {
+        "name": "ENTERPRISES_A4\\0001 SP-GTET-DSN-SDL-FLEX-BSAT-ACRT-BN\\005 17-Sep-13 00:39 Up @5192",
+        "unit": "3f",
+        "value": " ",
+        "description": ""
+      },
+      {
+        "name": "RWCH           RWCH                   11435227     135",
+        "unit": "00",
+        "value": "6.25         73.78",
+        "description": ""
+      },
+      {
+        "name": "SP             SP Sub                 12345678     60",
+        "unit": "00",
+        "value": "3.74         70.04",
+        "description": ""
+      },
+      {
+        "name": "GTET           GTET                   10748374     165",
+        "unit": "00",
+        "value": "8.52         61.52",
+        "description": ""
+      },
+      {
+        "name": "DSNT           DSNT*                  10755066     180",
+        "unit": "60",
+        "value": "9.69         51.83",
+        "description": ""
+      },
+      {
+        "name": "SDLT           SDLT**                 10685803     433",
+        "unit": "00",
+        "value": "10.81        41.02",
+        "description": ""
+      },
+      {
+        "name": "IQF            IQ Flex                10000954     140",
+        "unit": "00",
+        "value": "5.67         35.35",
+        "description": ""
+      },
+      {
+        "name": "BSAT           BSAT*                  10747684     308",
+        "unit": "00",
+        "value": "15.77        19.58",
+        "description": ""
+      },
+      {
+        "name": "ACRt           ACRt Instrument*       10811256     58",
+        "unit": "00",
+        "value": "5.03         14.55",
+        "description": ""
+      },
+      {
+        "name": "ACRt           ACRt Sonde             10800784     200",
+        "unit": "00",
+        "value": "14.22        0.33",
+        "description": ""
+      },
+      {
+        "name": "BLNS           Bull Nose              00000001     5",
+        "unit": "00",
+        "value": "0.33         0.00",
+        "description": ""
+      },
+      {
+        "name": "Total                                              1684",
+        "unit": "60",
+        "value": "80.03",
+        "description": ""
+      },
+      {
+        "name": "SHARED                 BS             Bit Size                                                     7",
+        "unit": "875",
+        "value": "in",
+        "description": ""
+      },
+      {
+        "name": "SHARED                 UBS            Use Bit Size instead of Caliper for all applications",
+        "unit": "",
+        "value": "No",
+        "description": ""
+      },
+      {
+        "name": "SHARED                 MDWT           Borehole Fluid Weight                                        9",
+        "unit": "200",
+        "value": "ppg",
+        "description": ""
+      },
+      {
+        "name": "SHARED                 BSAL           Borehole salinity                                            0",
+        "unit": "00",
+        "value": "ppm",
+        "description": ""
+      },
+      {
+        "name": "SHARED                 FSAL           Formation Salinity  NaCl                                     0",
+        "unit": "00",
+        "value": "ppm",
+        "description": ""
+      },
+      {
+        "name": "SHARED                 KPCT           Percent K in Mud by Weight?                                  0",
+        "unit": "00",
+        "value": "%",
+        "description": ""
+      },
+      {
+        "name": "SHARED                 RMUD           Mud Resistivity                                              1",
+        "unit": "000",
+        "value": "ohmm",
+        "description": ""
+      },
+      {
+        "name": "SHARED                 TRM            Temperature of Mud                                           75",
+        "unit": "0",
+        "value": "degF",
+        "description": ""
+      },
+      {
+        "name": "SHARED                 ICOD           AHV Casing OD                                                5",
+        "unit": "500",
+        "value": "in",
+        "description": ""
+      },
+      {
+        "name": "SHARED                 ST             Surface Temperature                                          75",
+        "unit": "0",
+        "value": "degF",
+        "description": ""
+      },
+      {
+        "name": "SHARED                 TD             Total Well Depth                                             5189",
+        "unit": "00",
+        "value": "ft",
+        "description": ""
+      },
+      {
+        "name": "SHARED                 BHT            Bottom Hole Temperature                                      135",
+        "unit": "0",
+        "value": "degF",
+        "description": ""
+      },
+      {
+        "name": "GTET                   GRSO           Gamma Tool Standoff                                          0",
+        "unit": "000",
+        "value": "in",
+        "description": ""
+      },
+      {
+        "name": "GTET                   TPOS           Tool Position for Gamma Ray Tools",
+        "unit": "",
+        "value": "Eccentered",
+        "description": ""
+      },
+      {
+        "name": "DSNT                   DNSO           DSN Standoff - 0",
+        "unit": "25",
+        "value": "in (6.35 mm) Recommended                 0.250          in",
+        "description": ""
+      },
+      {
+        "name": "SDLT Pad               DMA            Formation Density Matrix                                     2",
+        "unit": "710",
+        "value": "g/cc",
+        "description": ""
+      },
+      {
+        "name": "SDLT Pad               DFL            Formation Density Fluid                                      1",
+        "unit": "000",
+        "value": "g/cc",
+        "description": ""
+      },
+      {
+        "name": "BSAT                   DTFL           Delta -T Fluid                                               189",
+        "unit": "00",
+        "value": "uspf",
+        "description": ""
+      },
+      {
+        "name": "BSAT                   DTMA           Delta -T Matrix                                              47",
+        "unit": "60",
+        "value": "uspf",
+        "description": ""
+      },
+      {
+        "name": "BSAT                   DTSH           Delta -T Shale                                               100",
+        "unit": "00",
+        "value": "uspf",
+        "description": ""
+      },
+      {
+        "name": "ACRt Sonde             MNSO           Minimum Tool Standoff                                        1",
+        "unit": "50",
+        "value": "in",
+        "description": ""
+      },
+      {
+        "name": "ACRt Sonde             RMIN           Minimum Resistivity for MAP                                  0",
+        "unit": "20",
+        "value": "ohmm",
+        "description": ""
+      },
+      {
+        "name": "ACRt Sonde             RMIN           Maximum Resistivity for MAP                                  200",
+        "unit": "00",
+        "value": "ohmm",
+        "description": ""
+      },
+      {
+        "name": "ACRt Sonde             THQY           Threshold Quality                                            0",
+        "unit": "50",
+        "value": " ",
+        "description": ""
+      },
+      {
+        "name": "TENS                 Tension                                                      0",
+        "unit": "000",
+        "value": "NO",
+        "description": ""
+      },
+      {
+        "name": "PLTC                 Plot Control Mask                                            72",
+        "unit": "008",
+        "value": "NO",
+        "description": ""
+      },
+      {
+        "name": "SP                   Spontaneous Potential                                        72",
+        "unit": "008",
+        "value": "1.250         BLK",
+        "description": ""
+      },
+      {
+        "name": "SPR                  Raw Spontaneous Potential                                    72",
+        "unit": "008",
+        "value": "NO",
+        "description": ""
+      },
+      {
+        "name": "SPO                  Spontaneous Potential Offset                                 72",
+        "unit": "008",
+        "value": "NO",
+        "description": ""
+      },
+      {
+        "name": "TPUL                 Tension Pull                                                 63",
+        "unit": "986",
+        "value": "NO",
+        "description": ""
+      },
+      {
+        "name": "GR                   Natural Gamma Ray API                                        63",
+        "unit": "986",
+        "value": "1.750         TRI",
+        "description": ""
+      },
+      {
+        "name": "GRU                  Unfiltered Natural Gamma Ray API                             63",
+        "unit": "986",
+        "value": "NO",
+        "description": ""
+      },
+      {
+        "name": "EGR                  Natural Gamma Ray API with Enhanced Vertical Resolution      63",
+        "unit": "986",
+        "value": "1.416 , 0.750 W",
+        "description": ""
+      },
+      {
+        "name": "ACCZ                 Accelerometer Z                                              0",
+        "unit": "000",
+        "value": "0.083         BLK",
+        "description": ""
+      },
+      {
+        "name": "DEVI                 Inclination                                                  0",
+        "unit": "000",
+        "value": "NO",
+        "description": ""
+      },
+      {
+        "name": "TPUL                 Tension Pull                                                 53",
+        "unit": "741",
+        "value": "NO",
+        "description": ""
+      },
+      {
+        "name": "RNDS                 Near Detector Telemetry Counts                               53",
+        "unit": "840",
+        "value": "1.417         BLK",
+        "description": ""
+      },
+      {
+        "name": "RFDS                 Far Detector Telemetry Counts                                54",
+        "unit": "590",
+        "value": "0.583         TRI",
+        "description": ""
+      },
+      {
+        "name": "DNTT                 DSN Tool Temperature                                         53",
+        "unit": "840",
+        "value": "NO",
+        "description": ""
+      },
+      {
+        "name": "DSNS                 DSN Tool Status                                              53",
+        "unit": "741",
+        "value": "NO",
+        "description": ""
+      },
+      {
+        "name": "ERND                 Near Detector Telemetry Counts EVR                           53",
+        "unit": "840",
+        "value": "0.000         BLK",
+        "description": ""
+      },
+      {
+        "name": "ERFD                 Far  Detector Telemetry Counts EVR                           54",
+        "unit": "590",
+        "value": "0.000         BLK",
+        "description": ""
+      },
+      {
+        "name": "ENTM                 DSN Tool Temperature EVR                                     53",
+        "unit": "840",
+        "value": "NO",
+        "description": ""
+      },
+      {
+        "name": "TPUL                 Tension Pull                                                 43",
+        "unit": "843",
+        "value": "NO",
+        "description": ""
+      },
+      {
+        "name": "PCAL                 Pad Caliper                                                  43",
+        "unit": "843",
+        "value": "0.250         TRI",
+        "description": ""
+      },
+      {
+        "name": "ACAL                 Arm Caliper                                                  43",
+        "unit": "843",
+        "value": "0.250         TRI",
+        "description": ""
+      },
+      {
+        "name": "TPUL                 Tension Pull                                                 26",
+        "unit": "840",
+        "value": "NO",
+        "description": ""
+      },
+      {
+        "name": "STAT                 Status                                                       26",
+        "unit": "840",
+        "value": "NO",
+        "description": ""
+      },
+      {
+        "name": "DLYT                 Delay Time                                                   26",
+        "unit": "840",
+        "value": "NO",
+        "description": ""
+      },
+      {
+        "name": "SI                   Sample Interval                                              26",
+        "unit": "840",
+        "value": "NO",
+        "description": ""
+      },
+      {
+        "name": "TXRX                 Raw Telemetry 10 Receivers                                   26",
+        "unit": "840",
+        "value": "NO",
+        "description": ""
+      },
+      {
+        "name": "FRMC                 Tool Frame Count                                             26",
+        "unit": "840",
+        "value": "NO",
+        "description": ""
+      },
+      {
+        "name": "GMOD                 Gain processing mode                                         19",
+        "unit": "583",
+        "value": "NO",
+        "description": ""
+      },
+      {
+        "name": "TPUL                 Tension Pull                                                 2",
+        "unit": "727",
+        "value": "NO",
+        "description": ""
+      },
+      {
+        "name": "F1R1                 ACRT 12KHz - 80in R value                                    8",
+        "unit": "977",
+        "value": "0.000         BLK",
+        "description": ""
+      },
+      {
+        "name": "F1X1                 ACRT 12KHz - 80in X value                                    8",
+        "unit": "977",
+        "value": "0.000         BLK",
+        "description": ""
+      },
+      {
+        "name": "F1R2                 ACRT 12KHz - 50in R value                                    6",
+        "unit": "477",
+        "value": "0.000         BLK",
+        "description": ""
+      },
+      {
+        "name": "F1X2                 ACRT 12KHz - 50in X value                                    6",
+        "unit": "477",
+        "value": "0.000         BLK",
+        "description": ""
+      },
+      {
+        "name": "F1R3                 ACRT 12KHz - 29in R value                                    4",
+        "unit": "977",
+        "value": "0.000         BLK",
+        "description": ""
+      },
+      {
+        "name": "F1X3                 ACRT 12KHz - 29in X value                                    4",
+        "unit": "977",
+        "value": "0.000         BLK",
+        "description": ""
+      },
+      {
+        "name": "F1R4                 ACRT 12KHz - 17in R value                                    3",
+        "unit": "977",
+        "value": "0.000         BLK",
+        "description": ""
+      },
+      {
+        "name": "F1X4                 ACRT 12KHz - 17in X value                                    3",
+        "unit": "977",
+        "value": "0.000         BLK",
+        "description": ""
+      },
+      {
+        "name": "F1R5                 ACRT 12KHz - 10in R value                                    3",
+        "unit": "477",
+        "value": "0.000         BLK",
+        "description": ""
+      },
+      {
+        "name": "F1X5                 ACRT 12KHz - 10in X value                                    3",
+        "unit": "477",
+        "value": "0.000         BLK",
+        "description": ""
+      },
+      {
+        "name": "F1R6                 ACRT 12KHz - 6in R value                                     3",
+        "unit": "227",
+        "value": "0.000         BLK",
+        "description": ""
+      },
+      {
+        "name": "F1X6                 ACRT 12KHz - 6in X value                                     3",
+        "unit": "227",
+        "value": "0.000         BLK",
+        "description": ""
+      },
+      {
+        "name": "F2R1                 ACRT 36KHz - 80in R value                                    8",
+        "unit": "977",
+        "value": "0.000         BLK",
+        "description": ""
+      },
+      {
+        "name": "F2X1                 ACRT 36KHz - 80in X value                                    8",
+        "unit": "977",
+        "value": "0.000         BLK",
+        "description": ""
+      },
+      {
+        "name": "F2R2                 ACRT 36KHz - 50in R value                                    6",
+        "unit": "477",
+        "value": "0.000         BLK",
+        "description": ""
+      },
+      {
+        "name": "F2X2                 ACRT 36KHz - 50in X value                                    6",
+        "unit": "477",
+        "value": "0.000         BLK",
+        "description": ""
+      },
+      {
+        "name": "F2R3                 ACRT 36KHz - 29in R value                                    4",
+        "unit": "977",
+        "value": "0.000         BLK",
+        "description": ""
+      },
+      {
+        "name": "F2X3                 ACRT 36KHz - 29in X value                                    4",
+        "unit": "977",
+        "value": "0.000         BLK",
+        "description": ""
+      },
+      {
+        "name": "F2R4                 ACRT 36KHz - 17in R value                                    3",
+        "unit": "977",
+        "value": "0.000         BLK",
+        "description": ""
+      },
+      {
+        "name": "F2X4                 ACRT 36KHz - 17in X value                                    3",
+        "unit": "977",
+        "value": "0.000         BLK",
+        "description": ""
+      },
+      {
+        "name": "F2R5                 ACRT 36KHz - 10in R value                                    3",
+        "unit": "477",
+        "value": "0.000         BLK",
+        "description": ""
+      },
+      {
+        "name": "F2X5                 ACRT 36KHz - 10in X value                                    3",
+        "unit": "477",
+        "value": "0.000         BLK",
+        "description": ""
+      },
+      {
+        "name": "F2R6                 ACRT 36KHz - 6in R value                                     3",
+        "unit": "227",
+        "value": "0.000         BLK",
+        "description": ""
+      },
+      {
+        "name": "F2X6                 ACRT 36KHz - 6in X value                                     3",
+        "unit": "227",
+        "value": "0.000         BLK",
+        "description": ""
+      },
+      {
+        "name": "F3R1                 ACRT 72KHz - 80in R value                                    8",
+        "unit": "977",
+        "value": "0.000         BLK",
+        "description": ""
+      },
+      {
+        "name": "F3X1                 ACRT 72KHz - 80in X value                                    8",
+        "unit": "977",
+        "value": "0.000         BLK",
+        "description": ""
+      },
+      {
+        "name": "F3R2                 ACRT 72KHz - 50in R value                                    6",
+        "unit": "477",
+        "value": "0.000         BLK",
+        "description": ""
+      },
+      {
+        "name": "F3X2                 ACRT 72KHz - 50in X value                                    6",
+        "unit": "477",
+        "value": "0.000         BLK",
+        "description": ""
+      },
+      {
+        "name": "F3R3                 ACRT 72KHz - 29in R value                                    4",
+        "unit": "977",
+        "value": "0.000         BLK",
+        "description": ""
+      },
+      {
+        "name": "F3X3                 ACRT 72KHz - 29in X value                                    4",
+        "unit": "977",
+        "value": "0.000         BLK",
+        "description": ""
+      },
+      {
+        "name": "F3R4                 ACRT 72KHz - 17in R value                                    3",
+        "unit": "977",
+        "value": "0.000         BLK",
+        "description": ""
+      },
+      {
+        "name": "F3X4                 ACRT 72KHz - 17in X value                                    3",
+        "unit": "977",
+        "value": "0.000         BLK",
+        "description": ""
+      },
+      {
+        "name": "F3R5                 ACRT 72KHz - 10in R value                                    3",
+        "unit": "477",
+        "value": "0.000         BLK",
+        "description": ""
+      },
+      {
+        "name": "F3X5                 ACRT 72KHz - 10in X value                                    3",
+        "unit": "477",
+        "value": "0.000         BLK",
+        "description": ""
+      },
+      {
+        "name": "F3R6                 ACRT 72KHz - 6in R value                                     3",
+        "unit": "227",
+        "value": "0.000         BLK",
+        "description": ""
+      },
+      {
+        "name": "F3X6                 ACRT 72KHz - 6in X value                                     3",
+        "unit": "227",
+        "value": "0.000         BLK",
+        "description": ""
+      },
+      {
+        "name": "RMUD                 Mud Resistivity                                              12",
+        "unit": "517",
+        "value": "0.000         BLK",
+        "description": ""
+      },
+      {
+        "name": "F1RT                 Transmitter Current Raw 12K X Receiver                       2",
+        "unit": "727",
+        "value": "0.000         BLK",
+        "description": ""
+      },
+      {
+        "name": "F1XT                 Transmitter Reference 12 KHz Imaginary Signal                2",
+        "unit": "727",
+        "value": "0.000         BLK",
+        "description": ""
+      },
+      {
+        "name": "F2RT                 Transmitter Reference 36 KHz Real Signal                     2",
+        "unit": "727",
+        "value": "0.000         BLK",
+        "description": ""
+      },
+      {
+        "name": "F2XT                 Transmitter Reference 36 KHz Imaginary Signal                2",
+        "unit": "727",
+        "value": "0.000         BLK",
+        "description": ""
+      },
+      {
+        "name": "F3RT                 Transmitter Reference 72 KHz Real Signal                     2",
+        "unit": "727",
+        "value": "0.000         BLK",
+        "description": ""
+      },
+      {
+        "name": "F3XT                 Transmitter Reference 72 KHz Imaginary Signal                2",
+        "unit": "727",
+        "value": "0.000         BLK",
+        "description": ""
+      },
+      {
+        "name": "TFPU                 Upper Feedpipe Temperature Calculated                        2",
+        "unit": "727",
+        "value": "0.000         BLK",
+        "description": ""
+      },
+      {
+        "name": "TFPL                 Lower Feedpipe Temperature Calculated                        2",
+        "unit": "727",
+        "value": "0.000         BLK",
+        "description": ""
+      },
+      {
+        "name": "ITMP                 Instrument Temperature                                       2",
+        "unit": "727",
+        "value": "0.000         BLK",
+        "description": ""
+      },
+      {
+        "name": "TCVA                 Temperature Correction Values Loop Off                       2",
+        "unit": "727",
+        "value": "NO",
+        "description": ""
+      },
+      {
+        "name": "TIDV                 Instrument Temperature Derivative                            2",
+        "unit": "727",
+        "value": "NO",
+        "description": ""
+      },
+      {
+        "name": "TUDV                 Upper Temperature Derivative                                 2",
+        "unit": "727",
+        "value": "NO",
+        "description": ""
+      },
+      {
+        "name": "TLDV                 Lower Temperature Derivative                                 2",
+        "unit": "727",
+        "value": "NO",
+        "description": ""
+      },
+      {
+        "name": "TRBD                 Receiver Board Temperature                                   2",
+        "unit": "727",
+        "value": "NO",
+        "description": ""
+      },
+      {
+        "name": "TPUL                 Tension Pull                                                 43",
+        "unit": "833",
+        "value": "NO",
+        "description": ""
+      },
+      {
+        "name": "NAB                  Near Above                                                   43",
+        "unit": "658",
+        "value": "0.920         BLK",
+        "description": ""
+      },
+      {
+        "name": "NHI                  Near Cesium High                                             43",
+        "unit": "658",
+        "value": "0.920         BLK",
+        "description": ""
+      },
+      {
+        "name": "NLO                  Near Cesium Low                                              43",
+        "unit": "658",
+        "value": "0.920         BLK",
+        "description": ""
+      },
+      {
+        "name": "NVA                  Near Valley                                                  43",
+        "unit": "658",
+        "value": "0.920         BLK",
+        "description": ""
+      },
+      {
+        "name": "NBA                  Near Barite                                                  43",
+        "unit": "658",
+        "value": "0.920         BLK",
+        "description": ""
+      },
+      {
+        "name": "NDE                  Near Density                                                 43",
+        "unit": "658",
+        "value": "0.920         BLK",
+        "description": ""
+      },
+      {
+        "name": "NPK                  Near Peak                                                    43",
+        "unit": "658",
+        "value": "0.920         BLK",
+        "description": ""
+      },
+      {
+        "name": "NLI                  Near Lithology                                               43",
+        "unit": "658",
+        "value": "0.920         BLK",
+        "description": ""
+      },
+      {
+        "name": "NBAU                 Near Barite Unfiltered                                       43",
+        "unit": "658",
+        "value": "0.250         BLK",
+        "description": ""
+      },
+      {
+        "name": "NLIU                 Near Lithology Unfiltered                                    43",
+        "unit": "658",
+        "value": "0.250         BLK",
+        "description": ""
+      },
+      {
+        "name": "FAB                  Far Above                                                    44",
+        "unit": "008",
+        "value": "0.250         BLK",
+        "description": ""
+      },
+      {
+        "name": "FHI                  Far Cesium High                                              44",
+        "unit": "008",
+        "value": "0.250         BLK",
+        "description": ""
+      },
+      {
+        "name": "FLO                  Far Cesium Low                                               44",
+        "unit": "008",
+        "value": "0.250         BLK",
+        "description": ""
+      },
+      {
+        "name": "FVA                  Far Valley                                                   44",
+        "unit": "008",
+        "value": "0.250         BLK",
+        "description": ""
+      },
+      {
+        "name": "FBA                  Far Barite                                                   44",
+        "unit": "008",
+        "value": "0.250         BLK",
+        "description": ""
+      },
+      {
+        "name": "FDE                  Far Density                                                  44",
+        "unit": "008",
+        "value": "0.250         BLK",
+        "description": ""
+      },
+      {
+        "name": "FPK                  Far Peak                                                     44",
+        "unit": "008",
+        "value": "0.250         BLK",
+        "description": ""
+      },
+      {
+        "name": "FLI                  Far Lithology                                                44",
+        "unit": "008",
+        "value": "0.250         BLK",
+        "description": ""
+      },
+      {
+        "name": "PTMP                 Pad Temperature                                              43",
+        "unit": "843",
+        "value": "0.920         BLK",
+        "description": ""
+      },
+      {
+        "name": "NHV                  Near Detector High Voltage                                   43",
+        "unit": "238",
+        "value": "NO",
+        "description": ""
+      },
+      {
+        "name": "FHV                  Far Detector High Voltage                                    43",
+        "unit": "238",
+        "value": "NO",
+        "description": ""
+      },
+      {
+        "name": "ITMP                 Instrument Temperature                                       43",
+        "unit": "238",
+        "value": "NO",
+        "description": ""
+      },
+      {
+        "name": "DDHV                 Detector High Voltage                                        43",
+        "unit": "238",
+        "value": "NO",
+        "description": ""
+      },
+      {
+        "name": "TPUL                 Tension Pull                                                 44",
+        "unit": "028",
+        "value": "NO",
+        "description": ""
+      },
+      {
+        "name": "MINV                 Microlog Lateral                                             44",
+        "unit": "028",
+        "value": "0.750         BLK",
+        "description": ""
+      },
+      {
+        "name": "MNOR                 Microlog Normal                                              44",
+        "unit": "028",
+        "value": "0.750         BLK",
+        "description": ""
+      },
+      {
+        "name": "X4PL                 X4Planner=RT90/RMUD*square(0",
+        "unit": "125-caliper)",
+        "value": "NO",
+        "description": ""
+      },
+      {
+        "name": "ERHO                 Formation Density Enhanced Vertical Resolution               1",
+        "unit": "080",
+        "value": ", 0.750 W",
+        "description": ""
+      },
+      {
+        "name": "EDCP                 Density Correction EVR Positive                              1",
+        "unit": "080",
+        "value": ", 0.750 W",
+        "description": ""
+      },
+      {
+        "name": "EDCN                 Density Correction EVR Negative                              1",
+        "unit": "080",
+        "value": ", 0.750 W",
+        "description": ""
+      },
+      {
+        "name": "EDCT                 Density Correction EVR                                       1",
+        "unit": "080",
+        "value": ", 0.750 W",
+        "description": ""
+      },
+      {
+        "name": "EDPH                 Formation Density Porosity - Enhanced Vertical Resolution    1",
+        "unit": "080",
+        "value": ", 0.750 W",
+        "description": ""
+      },
+      {
+        "name": "EDLI                 Formation Density Porosity - Limestone EVR                   1",
+        "unit": "080",
+        "value": ", 0.750 W",
+        "description": ""
+      },
+      {
+        "name": "EDPD                 Formation Density Porosity - Dolomite - EVR                  1",
+        "unit": "080",
+        "value": ", 0.750 W",
+        "description": ""
+      },
+      {
+        "name": "EDPS                 Formation Density Porosity - Sandstone - EVR                 1",
+        "unit": "080",
+        "value": ", 0.750 W",
+        "description": ""
+      },
+      {
+        "name": "EPE                  Photoelectric Factor Enhanced Vertical Resolution            1",
+        "unit": "080",
+        "value": ", 0.580 W",
+        "description": ""
+      },
+      {
+        "name": "EPMF                 Photoelectric Factor EVR - Minimum Filtering                 0",
+        "unit": "420",
+        "value": ", 0.250 W",
+        "description": ""
+      },
+      {
+        "name": "EDMF                 Formation Density EVR - Minimum Filtering                    0",
+        "unit": "420",
+        "value": ", 0.250 W",
+        "description": ""
+      },
+      {
+        "name": "RHOB                 Formation Density                                            1",
+        "unit": "750",
+        "value": "TRI",
+        "description": ""
+      },
+      {
+        "name": "CORP                 Positive Density Correction                                  1",
+        "unit": "750",
+        "value": "TRI",
+        "description": ""
+      },
+      {
+        "name": "CORM                 Negative Density Correction                                  1",
+        "unit": "750",
+        "value": "TRI",
+        "description": ""
+      },
+      {
+        "name": "DRHO                 Density Correction                                           1",
+        "unit": "750",
+        "value": "TRI",
+        "description": ""
+      },
+      {
+        "name": "PE                   Photoelectric Factor                                         1",
+        "unit": "750",
+        "value": "TRI",
+        "description": ""
+      },
+      {
+        "name": "DPE                  Photoelectric Factor Correction                              1",
+        "unit": "750",
+        "value": "TRI",
+        "description": ""
+      },
+      {
+        "name": "SDSO                 Tool Standoff                                                1",
+        "unit": "750",
+        "value": "TRI",
+        "description": ""
+      },
+      {
+        "name": "QN                   Near Quality                                                 1",
+        "unit": "750",
+        "value": "TRI",
+        "description": ""
+      },
+      {
+        "name": "QF                   Far Quality                                                  1",
+        "unit": "750",
+        "value": "TRI",
+        "description": ""
+      },
+      {
+        "name": "DPHI                 Formation Density Porosity                                   1",
+        "unit": "750",
+        "value": "TRI",
+        "description": ""
+      },
+      {
+        "name": "DLIM                 Formation Density Porosity - Limestone                       1",
+        "unit": "750",
+        "value": "TRI",
+        "description": ""
+      },
+      {
+        "name": "DPHD                 Formation Density Porosity - Dolomite                        1",
+        "unit": "750",
+        "value": "TRI",
+        "description": ""
+      },
+      {
+        "name": "DPHS                 Formation Density Porosity - Sandstone                       1",
+        "unit": "750",
+        "value": "TRI",
+        "description": ""
+      }
+    ]
+  }
+}

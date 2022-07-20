@@ -1,0 +1,233 @@
+{
+  "Type": "LAS2.0",
+  "Content": {
+    "Version Information": [
+      {
+        "name": "VERS",
+        "unit": "",
+        "value": "2.0",
+        "description": "CWLS LOG ASCII STANDARD -VERSION 2.0"
+      },
+      {
+        "name": "WRAP",
+        "unit": "",
+        "value": "No",
+        "description": "SINGLE LINE PER DEPTH STEP"
+      }
+    ],
+    "Well Information": [
+      {
+        "name": "STRT",
+        "unit": "m",
+        "value": "3121.00",
+        "description": "Start Depth"
+      },
+      {
+        "name": "STOP",
+        "unit": "m",
+        "value": "3503.00",
+        "description": "Stop  Depth"
+      },
+      {
+        "name": "STEP",
+        "unit": "m",
+        "value": "1.00",
+        "description": "Step  Depth"
+      },
+      {
+        "name": "NULL",
+        "unit": "",
+        "value": "-999.25",
+        "description": "Null value"
+      },
+      {
+        "name": "COMP",
+        "unit": "",
+        "value": "Origin Energy",
+        "description": "Company Name"
+      },
+      {
+        "name": "WELL",
+        "unit": "",
+        "value": "KUPE SOUTH-7",
+        "description": "Well Name"
+      },
+      {
+        "name": "PATH",
+        "unit": "",
+        "value": "ST1",
+        "description": "Path Name"
+      },
+      {
+        "name": "FLD",
+        "unit": "",
+        "value": "KUPE SOUTH",
+        "description": "Field Name"
+      },
+      {
+        "name": "LOC",
+        "unit": "",
+        "value": "KUPE",
+        "description": "Location"
+      },
+      {
+        "name": "PROV",
+        "unit": "",
+        "value": "Unused",
+        "description": "Province"
+      },
+      {
+        "name": "SRVC",
+        "unit": "",
+        "value": "BAKER HUGHES INTEQ",
+        "description": "Service Company Name"
+      },
+      {
+        "name": "Date",
+        "unit": "DD/MM/YYYY",
+        "value": "20/05/2008",
+        "description": "Date"
+      },
+      {
+        "name": "UWI",
+        "unit": "",
+        "value": "",
+        "description": "Unique Well ID"
+      },
+      {
+        "name": "TIMEZONE",
+        "unit": "Hrs",
+        "value": "12",
+        "description": "Time zone difference from GMT"
+      }
+    ],
+    "Curve Information": [
+      {
+        "name": "DEPTH",
+        "unit": "m",
+        "value": "",
+        "description": "0 Depth Hole"
+      },
+      {
+        "name": "ROP_AVG",
+        "unit": "m/hr",
+        "value": "",
+        "description": "1 Depth Averaged ROP"
+      },
+      {
+        "name": "WOB_AVG",
+        "unit": "klbf",
+        "value": "",
+        "description": "2 AVERAGE Weight On Bit"
+      },
+      {
+        "name": "HKLD_AVG",
+        "unit": "klbf",
+        "value": "",
+        "description": "3 AVERAGE Hookload"
+      },
+      {
+        "name": "PUMP_AVG",
+        "unit": "psi",
+        "value": "",
+        "description": "4 AVERAGE Pump Pressure - Stand Pipe"
+      },
+      {
+        "name": "FLOWIN",
+        "unit": "USgal/min",
+        "value": "",
+        "description": "5 Mud Flow In"
+      },
+      {
+        "name": "TORQUE_AVG",
+        "unit": "kft.lb",
+        "value": "",
+        "description": "6 AVERAGE Surface Torque Average"
+      },
+      {
+        "name": "TORQUE_MAX",
+        "unit": "kft.lb",
+        "value": "",
+        "description": "7 MAXIMUM Surface Torque Average"
+      },
+      {
+        "name": "BIT_RPM_AVG",
+        "unit": "RPM",
+        "value": "",
+        "description": "8 AVERAGE Bit RPM - Total RPM"
+      },
+      {
+        "name": "SURF_RPM",
+        "unit": "RPM",
+        "value": "",
+        "description": "9 Surface RPM"
+      },
+      {
+        "name": "MWIN",
+        "unit": "ppg",
+        "value": "",
+        "description": "10 Mud Weight In"
+      },
+      {
+        "name": "MWOUT",
+        "unit": "ppg",
+        "value": "",
+        "description": "11 Mud Weight Out"
+      },
+      {
+        "name": "ECDBIT",
+        "unit": "ppg",
+        "value": "",
+        "description": "12 ECD at Bit"
+      },
+      {
+        "name": "MTIN",
+        "unit": "degC",
+        "value": "",
+        "description": "13 Mud Temperature In"
+      },
+      {
+        "name": "MTOUT",
+        "unit": "degC",
+        "value": "",
+        "description": "14 Mud Temperature Out"
+      },
+      {
+        "name": "TBR",
+        "unit": "unitless",
+        "value": "",
+        "description": "15 Total Bit Revolutions"
+      },
+      {
+        "name": "ROT_TIME",
+        "unit": "hours",
+        "value": "",
+        "description": "16 Cumulative Rotating Time"
+      },
+      {
+        "name": "ONBOTTOM_TIME",
+        "unit": "hours",
+        "value": "",
+        "description": "17 Cumulative On-Bottom Time"
+      },
+      {
+        "name": "DXC",
+        "unit": "unitless",
+        "value": "",
+        "description": "18 Corrected Drilling Exponent"
+      },
+      {
+        "name": "TVD",
+        "unit": "m",
+        "value": "",
+        "description": "19 Vertical Depth"
+      },
+      {
+        "name": "assumed for any damages resulting from use of the same",
+        "unit": "",
+        "value": "INTEQ's liabilities and obligations",
+        "description": ""
+      }
+    ]
+  }
+}

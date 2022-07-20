@@ -1,0 +1,199 @@
+{
+  "Type": "LAS2.0",
+  "Content": {
+    "Version Information": [
+      {
+        "name": "VERS",
+        "unit": "",
+        "value": "2.0",
+        "description": "CWLS Log Ascii Standard - Version 2.0"
+      },
+      {
+        "name": "WRAP",
+        "unit": "",
+        "value": "NO",
+        "description": "One line per depth step"
+      }
+    ],
+    "Well Information": [
+      {
+        "name": "STRT",
+        "unit": "M",
+        "value": "212.09109",
+        "description": "START DEPTH"
+      },
+      {
+        "name": "STOP",
+        "unit": "M",
+        "value": "3238.500",
+        "description": "STOP DEPTH"
+      },
+      {
+        "name": "STEP",
+        "unit": "M",
+        "value": "0.00000",
+        "description": "INCREMENT"
+      },
+      {
+        "name": "NULL",
+        "unit": "",
+        "value": "-999.25",
+        "description": "NULL DATA VALUE"
+      },
+      {
+        "name": "COMP",
+        "unit": "",
+        "value": "New Zealand",
+        "description": "COMPANY"
+      },
+      {
+        "name": "WELL",
+        "unit": "",
+        "value": "Ahuroa-1",
+        "description": "WELL"
+      },
+      {
+        "name": "EKB",
+        "unit": "M",
+        "value": "212",
+        "description": "KELLY BUSHING ELEVATION"
+      },
+      {
+        "name": "EGL",
+        "unit": "M",
+        "value": "205",
+        "description": "GROUND LEVEL ELEVATION"
+      },
+      {
+        "name": "EPD",
+        "unit": "M",
+        "value": "0.0000",
+        "description": "PERMANENT DATUM ELEVATION"
+      },
+      {
+        "name": "FLD",
+        "unit": "",
+        "value": "Onshore Taranaki",
+        "description": "FIELD"
+      },
+      {
+        "name": "LOC",
+        "unit": "",
+        "value": "X = 1716484.98 Y = 5652935.82",
+        "description": "WELL LOCATION NZTM COORD"
+      },
+      {
+        "name": "PROV",
+        "unit": "",
+        "value": "Arnot et al, GNS Science Data Series No 2c",
+        "description": "AUTHOR"
+      },
+      {
+        "name": "STAT",
+        "unit": "",
+        "value": "Taranaki",
+        "description": "STATE"
+      },
+      {
+        "name": "CTRY",
+        "unit": "",
+        "value": "New Zealand",
+        "description": "COUNTRY"
+      },
+      {
+        "name": "DATE",
+        "unit": "",
+        "value": "GNS Science November 2010",
+        "description": "DATE"
+      },
+      {
+        "name": "UWI",
+        "unit": "",
+        "value": "Ahuroa-1",
+        "description": "UNIQUE WELL UWI"
+      },
+      {
+        "name": "LIC",
+        "unit": "",
+        "value": "",
+        "description": "LICENSE NUMBER"
+      },
+      {
+        "name": "API",
+        "unit": "",
+        "value": "",
+        "description": "API NUMBER"
+      },
+      {
+        "name": "SRVC",
+        "unit": "",
+        "value": "",
+        "description": "SERVICE COMPANY"
+      }
+    ],
+    "Curve Information": [
+      {
+        "name": "DEPT",
+        "unit": "M",
+        "value": "",
+        "description": "0           Index"
+      },
+      {
+        "name": "AI",
+        "unit": "(m/s)*(g/cc)",
+        "value": "",
+        "description": "1           Acoustic Impedance  DT_calib*RHOB_edit."
+      },
+      {
+        "name": "CALI",
+        "unit": "IN",
+        "value": "CALI",
+        "description": "2           Caliper"
+      },
+      {
+        "name": "DT_edit",
+        "unit": "US/F",
+        "value": "DT_edit",
+        "description": "3       \t Sonic DT_raw edited. Delta-T (also called Slowness or Interval Transit Time)"
+      },
+      {
+        "name": "DT_Calib",
+        "unit": "US/F",
+        "value": "DT_calib",
+        "description": "4       \t Sonic DT_edit calibrated with checkshot data Ahuroa-1_GNS_chksht.asc."
+      },
+      {
+        "name": "DT_raw",
+        "unit": "US/F",
+        "value": "DT_raw",
+        "description": "5           Sonic DT_raw. Delta-T (also called Slowness or Interval Transit Time)"
+      },
+      {
+        "name": "GR",
+        "unit": "GAPI",
+        "value": "GR",
+        "description": "6           Gamma Ray"
+      },
+      {
+        "name": "RHOB_raw",
+        "unit": "G/C3",
+        "value": "RHOB_raw",
+        "description": "7           Raw density RHOB (Density)"
+      },
+      {
+        "name": "RHOB_edit",
+        "unit": "G/C3",
+        "value": "RHOB_edit",
+        "description": "8           Edited density (Density)"
+      }
+    ],
+    "QC Info": [
+      {
+        "name": "Issue",
+        "unit": "",
+        "value": "",
+        "description": "ASCII data section does not match the START value ,  "
+      }
+    ]
+  }
+}

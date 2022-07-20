@@ -1,0 +1,427 @@
+{
+  "Type": "LAS2.0",
+  "Content": {
+    "Version Information": [
+      {
+        "name": "VERS",
+        "unit": "",
+        "value": "2.0",
+        "description": "CWLS log ASCII Standard -VERSION 2.0"
+      },
+      {
+        "name": "WRAP",
+        "unit": "",
+        "value": "NO",
+        "description": "One line per depth step"
+      }
+    ],
+    "Well Information": [
+      {
+        "name": "STRT",
+        "unit": "F",
+        "value": "1740.0000",
+        "description": "START DEPTH"
+      },
+      {
+        "name": "STOP",
+        "unit": "F",
+        "value": "5689.0000",
+        "description": "STOP DEPTH"
+      },
+      {
+        "name": "STEP",
+        "unit": "F",
+        "value": "0.5000",
+        "description": "STEP DEPTH"
+      },
+      {
+        "name": "NULL",
+        "unit": "",
+        "value": "-999.2500",
+        "description": "NULL VALUE"
+      },
+      {
+        "name": "LOC",
+        "unit": "",
+        "value": "1230' FNL & 1230' FEL",
+        "description": "LOCATION"
+      },
+      {
+        "name": "FL2",
+        "unit": "",
+        "value": "SW SW NE NE",
+        "description": "LOCATIONLINE2"
+      },
+      {
+        "name": "FL1",
+        "unit": "",
+        "value": "1230' FNL & 1230' FEL",
+        "description": "LOCATIONLINE1"
+      },
+      {
+        "name": "DMF",
+        "unit": "",
+        "value": "KB",
+        "description": "DRILL MEAS FROM"
+      },
+      {
+        "name": "PDAT",
+        "unit": "",
+        "value": "GL",
+        "description": "PERMANENT DATUM"
+      },
+      {
+        "name": "WTH",
+        "unit": "",
+        "value": "OIL/GAS",
+        "description": "WELLTYPEHEADER"
+      },
+      {
+        "name": "RIG",
+        "unit": "",
+        "value": "BEREDCO 1",
+        "description": "RIG NAME"
+      },
+      {
+        "name": "CNTY",
+        "unit": "",
+        "value": "HASKELL",
+        "description": "COUNTY NAME"
+      },
+      {
+        "name": "LUL",
+        "unit": "",
+        "value": "EL RENO, OK",
+        "description": "LOGGINGUNITLOC"
+      },
+      {
+        "name": "FLD",
+        "unit": "",
+        "value": "WILDCAT",
+        "description": "FIELD NAME"
+      },
+      {
+        "name": "WELL",
+        "unit": "",
+        "value": "DENNIS UNIT 5-3",
+        "description": "WELL NAME"
+      },
+      {
+        "name": "COMP",
+        "unit": "",
+        "value": "BEREXCO, LLC",
+        "description": "COMPANY"
+      },
+      {
+        "name": "DATE",
+        "unit": "",
+        "value": "29-Oct-2019",
+        "description": "DATE"
+      },
+      {
+        "name": "SVCO",
+        "unit": "",
+        "value": "Halliburton",
+        "description": "SERVICECONAME"
+      },
+      {
+        "name": "PROV",
+        "unit": "",
+        "value": "KANSAS",
+        "description": "PROVINCE"
+      },
+      {
+        "name": "STAT",
+        "unit": "",
+        "value": "KANSAS",
+        "description": "STATE NAME"
+      },
+      {
+        "name": "CTRY",
+        "unit": "",
+        "value": "UNITED STATES",
+        "description": "COUNTRY NAME"
+      },
+      {
+        "name": "HIDE",
+        "unit": "",
+        "value": "BEREXCO, LLC",
+        "description": "WELLNAMEOPERAT"
+      },
+      {
+        "name": "BASI",
+        "unit": "",
+        "value": "BACIA",
+        "description": "BASIN"
+      },
+      {
+        "name": "UWI",
+        "unit": "",
+        "value": "15-081-22203-00-00",
+        "description": "UNIQUE WELL IDENTIFIER"
+      },
+      {
+        "name": "API",
+        "unit": "",
+        "value": "15-081-22203-00-00",
+        "description": "API NUMBER"
+      },
+      {
+        "name": "RANG",
+        "unit": "",
+        "value": "33W",
+        "description": "RANGE"
+      },
+      {
+        "name": "TOWN",
+        "unit": "",
+        "value": "29S",
+        "description": "TOWNSHIP"
+      },
+      {
+        "name": "SECT",
+        "unit": "",
+        "value": "3",
+        "description": "SECTION"
+      },
+      {
+        "name": "SON",
+        "unit": "",
+        "value": "906051721",
+        "description": "JOB NUMBER"
+      },
+      {
+        "name": "SRVC",
+        "unit": "",
+        "value": "Halliburton",
+        "description": "SERVICE COMPANY"
+      },
+      {
+        "name": "TVDS",
+        "unit": "ft",
+        "value": "2967.000000",
+        "description": "TVDSS CORRECTN"
+      },
+      {
+        "name": "EGL",
+        "unit": "ft",
+        "value": "2955.000000",
+        "description": "GROUND ELEVATION"
+      },
+      {
+        "name": "APD",
+        "unit": "ft",
+        "value": "12.000000",
+        "description": "DEPTH ABOVE PD"
+      },
+      {
+        "name": "EPD",
+        "unit": "ft",
+        "value": "2955.000000",
+        "description": "ELEVATION"
+      },
+      {
+        "name": "BAP",
+        "unit": "ft",
+        "value": "0.000000",
+        "description": "GL ELEV ONSHORE"
+      },
+      {
+        "name": "GVFD",
+        "unit": "g",
+        "value": "1.000000",
+        "description": "GRAVITY FIELD"
+      }
+    ],
+    "Curve Information": [
+      {
+        "name": "DEPT",
+        "unit": "F",
+        "value": "00 000 000 000",
+        "description": "Depth"
+      },
+      {
+        "name": "RXRT",
+        "unit": "NONE",
+        "value": "00 000 000 000",
+        "description": "RXRT"
+      },
+      {
+        "name": "RXO",
+        "unit": "ohmm",
+        "value": "00 000 000 000",
+        "description": "RXO"
+      },
+      {
+        "name": "RT90",
+        "unit": "ohmm",
+        "value": "00 000 000 000",
+        "description": "90in Resistivity 2ft Res"
+      },
+      {
+        "name": "RT60",
+        "unit": "ohmm",
+        "value": "00 000 000 000",
+        "description": "60in Resistivity 2ft Res"
+      },
+      {
+        "name": "RT30",
+        "unit": "ohmm",
+        "value": "00 000 000 000",
+        "description": "30in Resistivity 2ft Res"
+      },
+      {
+        "name": "RT20",
+        "unit": "ohmm",
+        "value": "00 000 000 000",
+        "description": "20in Resistivity 2ft Res"
+      },
+      {
+        "name": "RT10",
+        "unit": "ohmm",
+        "value": "00 000 000 000",
+        "description": "10in Resistivity 2ft Res"
+      },
+      {
+        "name": "RT",
+        "unit": "ohmm",
+        "value": "00 000 000 000",
+        "description": "RT"
+      },
+      {
+        "name": "RMUD",
+        "unit": "ohmm",
+        "value": "00 000 000 000",
+        "description": "RMUD"
+      },
+      {
+        "name": "CT90",
+        "unit": "mmo/m",
+        "value": "00 000 000 000",
+        "description": "90in Conductivity 2ft Res"
+      },
+      {
+        "name": "GR",
+        "unit": "api",
+        "value": "00 000 000 000",
+        "description": "Gamma API"
+      },
+      {
+        "name": "CALI",
+        "unit": "in",
+        "value": "00 000 000 000",
+        "description": "Caliper"
+      },
+      {
+        "name": "SP",
+        "unit": "mV",
+        "value": "00 000 000 000",
+        "description": "SP"
+      },
+      {
+        "name": "TENS",
+        "unit": "lbs",
+        "value": "00 000 000 000",
+        "description": "Tension"
+      },
+      {
+        "name": "NPHI",
+        "unit": "decp",
+        "value": "00 000 000 000",
+        "description": "Neutron Porosity"
+      },
+      {
+        "name": "NPHL",
+        "unit": "decp",
+        "value": "00 000 000 000",
+        "description": "Neu Por Lime"
+      },
+      {
+        "name": "NPHS",
+        "unit": "decp",
+        "value": "00 000 000 000",
+        "description": "Neutron Porosity Sand"
+      },
+      {
+        "name": "NPHD",
+        "unit": "decp",
+        "value": "00 000 000 000",
+        "description": "Neutron Porosity Dolo"
+      },
+      {
+        "name": "MINV",
+        "unit": "ohmm",
+        "value": "00 000 000 000",
+        "description": "MicrologLateral"
+      },
+      {
+        "name": "MNOR",
+        "unit": "ohmm",
+        "value": "00 000 000 000",
+        "description": "MicrologNormal"
+      },
+      {
+        "name": "RHOB",
+        "unit": "g/cc",
+        "value": "00 000 000 000",
+        "description": "Density"
+      },
+      {
+        "name": "DRHO",
+        "unit": "g/cc",
+        "value": "00 000 000 000",
+        "description": "DensityCorr"
+      },
+      {
+        "name": "PE",
+        "unit": "b/e",
+        "value": "00 000 000 000",
+        "description": "Pe"
+      },
+      {
+        "name": "QN",
+        "unit": "NONE",
+        "value": "00 000 000 000",
+        "description": "NearQuality"
+      },
+      {
+        "name": "QF",
+        "unit": "NONE",
+        "value": "00 000 000 000",
+        "description": "FarQuality"
+      },
+      {
+        "name": "DPHI",
+        "unit": "decp",
+        "value": "00 000 000 000",
+        "description": "DensityPorosity"
+      },
+      {
+        "name": "DLIM",
+        "unit": "decp",
+        "value": "00 000 000 000",
+        "description": "DenPhiLime"
+      },
+      {
+        "name": "DPHD",
+        "unit": "decp",
+        "value": "00 000 000 000",
+        "description": "DenPhiDolo"
+      },
+      {
+        "name": "DPHS",
+        "unit": "decp",
+        "value": "00 000 000 000",
+        "description": "DenPhiSand"
+      }
+    ],
+    "QC Info": [
+      {
+        "name": "Issue",
+        "unit": "",
+        "value": "",
+        "description": "No blank lines allowed in the ASCII data section. ,  "
+      }
+    ]
+  }
+}

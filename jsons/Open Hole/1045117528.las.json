@@ -1,0 +1,426 @@
+{
+  "Type": "LAS2.0",
+  "Content": {
+    "Version Information": [
+      {
+        "name": "VERS",
+        "unit": "",
+        "value": "2.0",
+        "description": "CWLS Log ASCII Standard - VERSION 2.0"
+      },
+      {
+        "name": "WRAP",
+        "unit": "",
+        "value": "NO",
+        "description": "One line per depth step"
+      }
+    ],
+    "Well Information": [
+      {
+        "name": "STRT",
+        "unit": "FT",
+        "value": "0.0000",
+        "description": ""
+      },
+      {
+        "name": "STOP",
+        "unit": "FT",
+        "value": "3701.5000",
+        "description": ""
+      },
+      {
+        "name": "STEP",
+        "unit": "FT",
+        "value": "0.5000",
+        "description": ""
+      },
+      {
+        "name": "NULL",
+        "unit": "",
+        "value": "-999.2500",
+        "description": ""
+      },
+      {
+        "name": "COMP",
+        "unit": "",
+        "value": "NORSTAR PETROLEUM, INC.",
+        "description": "COMPANY"
+      },
+      {
+        "name": "WELL",
+        "unit": "",
+        "value": "WILSON #2-10",
+        "description": "WELL"
+      },
+      {
+        "name": "FLD",
+        "unit": "",
+        "value": "MONAGHAN NORTH",
+        "description": "FIELD"
+      },
+      {
+        "name": "LOC",
+        "unit": "",
+        "value": "2045' FSL & 767' FWL------------",
+        "description": "LOCATION"
+      },
+      {
+        "name": "CNTY",
+        "unit": "",
+        "value": "DECATUR",
+        "description": "COUNTY"
+      },
+      {
+        "name": "SRVC",
+        "unit": "",
+        "value": "SUPERIOR WELL SERVICES INC.",
+        "description": "SERVICE COMPANY"
+      },
+      {
+        "name": "DATE",
+        "unit": "",
+        "value": "Thu Aug 01 15-47-45 2013",
+        "description": "LOG DATE"
+      },
+      {
+        "name": "UWI",
+        "unit": "",
+        "value": "15-039-21184-0000",
+        "description": "UNIQUE WELL ID"
+      },
+      {
+        "name": "STAT",
+        "unit": "",
+        "value": "KANSAS",
+        "description": "STATE"
+      },
+      {
+        "name": "SECT",
+        "unit": "",
+        "value": "10",
+        "description": "SECTION"
+      },
+      {
+        "name": "TOWN",
+        "unit": "",
+        "value": "2S",
+        "description": "TOWNSHIP"
+      },
+      {
+        "name": "RANG",
+        "unit": "",
+        "value": "27W",
+        "description": "RANGE"
+      },
+      {
+        "name": "API",
+        "unit": "",
+        "value": "",
+        "description": "API#"
+      },
+      {
+        "name": "OS",
+        "unit": "",
+        "value": "--DIL/MEL--------------------------",
+        "description": "OTHER SERVICES"
+      },
+      {
+        "name": "PDAT",
+        "unit": "FT.",
+        "value": "GROUND LEVEL",
+        "description": "PERMANENT DATUM"
+      },
+      {
+        "name": "EEL",
+        "unit": "FT.",
+        "value": "2584",
+        "description": "ELEVATION"
+      },
+      {
+        "name": "LMF",
+        "unit": "FT.",
+        "value": "KELLY BUSHING 5' A.G.L.",
+        "description": "LOG MEASURED FROM"
+      },
+      {
+        "name": "DMF",
+        "unit": "FT.",
+        "value": "KELLY BUSHING",
+        "description": "DRILLING MEASURED FROM"
+      },
+      {
+        "name": "EKB",
+        "unit": "FT.",
+        "value": "2589",
+        "description": "KB"
+      },
+      {
+        "name": "EDF",
+        "unit": "FT.",
+        "value": "2587",
+        "description": "DF"
+      },
+      {
+        "name": "EGL",
+        "unit": "FT.",
+        "value": "2584",
+        "description": "GL"
+      },
+      {
+        "name": "DATE1",
+        "unit": "",
+        "value": "8/1/13",
+        "description": "DATE1"
+      },
+      {
+        "name": "RUN1",
+        "unit": "",
+        "value": "ONE",
+        "description": "RUN NUMBER"
+      },
+      {
+        "name": "TDD1",
+        "unit": "FT.",
+        "value": "3690",
+        "description": "DEPTH DRILLER"
+      },
+      {
+        "name": "TDL1",
+        "unit": "FT.",
+        "value": "3687",
+        "description": "DEPTH LOGGER"
+      },
+      {
+        "name": "BLI1",
+        "unit": "FT.",
+        "value": "3663",
+        "description": "BOTTOM LOGGED INTERVAL"
+      },
+      {
+        "name": "TLI1",
+        "unit": "FT.",
+        "value": "3200",
+        "description": "TOP LOG INTERVAL"
+      },
+      {
+        "name": "CDD1",
+        "unit": "IN_FT.",
+        "value": "8 5/8\" @ 240",
+        "description": "CASING DRILLER"
+      },
+      {
+        "name": "CDL1",
+        "unit": "FT.",
+        "value": "238",
+        "description": "CASING LOGGER"
+      },
+      {
+        "name": "BS1",
+        "unit": "IN.",
+        "value": "7 7/8",
+        "description": "BIT SIZE"
+      },
+      {
+        "name": "DFT1",
+        "unit": "",
+        "value": "CHEMICAL MUD",
+        "description": "TYPE FLUID IN HOLE"
+      },
+      {
+        "name": "DFDV1",
+        "unit": "GM/C3_CP.",
+        "value": "9.1/63",
+        "description": "DENSITY/VISCOSITY"
+      },
+      {
+        "name": "DFPL1",
+        "unit": "C3.",
+        "value": "9.5/8.8",
+        "description": "PH/FLUID LOSS"
+      },
+      {
+        "name": "MSS1",
+        "unit": "",
+        "value": "FLOWLINE",
+        "description": "SOURCE OF SAMPLE"
+      },
+      {
+        "name": "RMT1",
+        "unit": "OHHM_DEGF.",
+        "value": ".85 @ 94F",
+        "description": "RM@MEASURED TEMP"
+      },
+      {
+        "name": "RMFT1",
+        "unit": "OHMM_DEGF.",
+        "value": ".63 @ 94F",
+        "description": "RMF@MEASURED TEMP"
+      },
+      {
+        "name": "RMCT1",
+        "unit": "OHMM_DEGF.",
+        "value": "1.02 @ 94F",
+        "description": "RMC@MEASURED TEMP"
+      },
+      {
+        "name": "RMFS1",
+        "unit": "",
+        "value": "MEASURED",
+        "description": "SOURCE OF RMF/RMC"
+      },
+      {
+        "name": "RMBT1",
+        "unit": "OHMM_DEGF.",
+        "value": ".70 @ 113F",
+        "description": "RM@BHT"
+      },
+      {
+        "name": "TCS1",
+        "unit": "",
+        "value": "2 HOURS",
+        "description": "TIME CIRCULATION STOPPED"
+      },
+      {
+        "name": "TLOB1",
+        "unit": "",
+        "value": "1",
+        "description": "25 P.M.  TIME LOGGER ON BOTTOM"
+      },
+      {
+        "name": "BHT1",
+        "unit": "DEGF.",
+        "value": "113F",
+        "description": "MAXIMUM RECORDED TEMPERATURE"
+      },
+      {
+        "name": "LUN1",
+        "unit": "",
+        "value": "680",
+        "description": "EQUIPMENT NUMBER"
+      },
+      {
+        "name": "LUL1",
+        "unit": "",
+        "value": "HAYS, KS.",
+        "description": "LOCATION"
+      },
+      {
+        "name": "ENGI1",
+        "unit": "",
+        "value": "JASON CAPPELLUCCI",
+        "description": "RECORDED BY"
+      },
+      {
+        "name": "WITN1",
+        "unit": "",
+        "value": "TYLER SANDERS",
+        "description": "WITNESSED BY"
+      }
+    ],
+    "Curve Information": [
+      {
+        "name": "DEPT",
+        "unit": "FT",
+        "value": "0 000 00 00",
+        "description": "Depth"
+      },
+      {
+        "name": "ABHV",
+        "unit": "ft3",
+        "value": "",
+        "description": "Annular Volume"
+      },
+      {
+        "name": "CNPOR",
+        "unit": "pu",
+        "value": "",
+        "description": "CN Selected Porosity"
+      },
+      {
+        "name": "DCAL",
+        "unit": "in",
+        "value": "",
+        "description": "CDL Caliper"
+      },
+      {
+        "name": "DPOR",
+        "unit": "pu",
+        "value": "",
+        "description": "CDL Density Porosity"
+      },
+      {
+        "name": "GR",
+        "unit": "GAPI",
+        "value": "",
+        "description": "Gamma Ray"
+      },
+      {
+        "name": "RHOB",
+        "unit": "g/cc",
+        "value": "",
+        "description": "CDL Bulk Density"
+      },
+      {
+        "name": "RHOC",
+        "unit": "g/cc",
+        "value": "",
+        "description": "CDL Density Correction"
+      },
+      {
+        "name": "RILD",
+        "unit": "Ohm-m",
+        "value": "",
+        "description": "DIL Deep Resistivity"
+      },
+      {
+        "name": "RILM",
+        "unit": "Ohm-m",
+        "value": "",
+        "description": "DIL Medium Resistivity"
+      },
+      {
+        "name": "RLL3",
+        "unit": "Ohm-m",
+        "value": "",
+        "description": "DIL Shallow Resistivity"
+      },
+      {
+        "name": "RxoRt",
+        "unit": "",
+        "value": "",
+        "description": "Rxo / Rt"
+      },
+      {
+        "name": "SP",
+        "unit": "mV",
+        "value": "",
+        "description": "DIL Spontaneous Potential"
+      },
+      {
+        "name": "TBHV",
+        "unit": "ft3",
+        "value": "",
+        "description": "Borehole Volume"
+      },
+      {
+        "name": "MEL15",
+        "unit": "Ohm-m",
+        "value": "",
+        "description": "Microlog"
+      },
+      {
+        "name": "MEL20",
+        "unit": "Ohm-m",
+        "value": "",
+        "description": "Microlog"
+      },
+      {
+        "name": "MELCAL",
+        "unit": "in",
+        "value": "",
+        "description": "Micro Caliper"
+      }
+    ],
+    "Parameter Information": []
+  }
+}

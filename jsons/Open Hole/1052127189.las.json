@@ -1,0 +1,465 @@
+{
+  "Type": "LAS2.0",
+  "Content": {
+    "Version Information": [
+      {
+        "name": "VERS",
+        "unit": "",
+        "value": "2.0",
+        "description": "CWLS Log ASCII Standard - VERSION 2.0"
+      },
+      {
+        "name": "WRAP",
+        "unit": "",
+        "value": "NO",
+        "description": "One line per depth step"
+      }
+    ],
+    "Well Information": [
+      {
+        "name": "STRT",
+        "unit": "FT",
+        "value": "0.0000",
+        "description": "START DEPTH"
+      },
+      {
+        "name": "STOP",
+        "unit": "FT",
+        "value": "5334.5000",
+        "description": "STOP DEPTH"
+      },
+      {
+        "name": "STEP",
+        "unit": "FT",
+        "value": "0.5000",
+        "description": "STEP"
+      },
+      {
+        "name": "NULL",
+        "unit": "",
+        "value": "-999.2500",
+        "description": "NULL VALUE"
+      },
+      {
+        "name": "COMP",
+        "unit": "",
+        "value": "VINCENT OIL CORPORATION",
+        "description": "COMPANY"
+      },
+      {
+        "name": "WELL",
+        "unit": "",
+        "value": "PERKINS #2-3",
+        "description": "WELL"
+      },
+      {
+        "name": "FLD",
+        "unit": "",
+        "value": "MULBERRY CREEK",
+        "description": "FIELD"
+      },
+      {
+        "name": "LOC",
+        "unit": "",
+        "value": "540' FNL & 2520' FEL--",
+        "description": "LOCATION"
+      },
+      {
+        "name": "CNTY",
+        "unit": "",
+        "value": "FORD",
+        "description": "COUNTY"
+      },
+      {
+        "name": "SRVC",
+        "unit": "",
+        "value": "ELI WIRELINE",
+        "description": "SERVICE COMPANY"
+      },
+      {
+        "name": "DATE",
+        "unit": "",
+        "value": "Tue Sep 03 10-47-55 2019",
+        "description": "LOG DATE"
+      },
+      {
+        "name": "UWI",
+        "unit": "",
+        "value": "15-057-21027-0000",
+        "description": "UNIQUE WELL ID"
+      },
+      {
+        "name": "STAT",
+        "unit": "",
+        "value": "KANSAS",
+        "description": "STATE"
+      },
+      {
+        "name": "SECT",
+        "unit": "",
+        "value": "3",
+        "description": "SECTION"
+      },
+      {
+        "name": "TOWN",
+        "unit": "",
+        "value": "29S",
+        "description": "TOWNSHIP"
+      },
+      {
+        "name": "RANG",
+        "unit": "",
+        "value": "23W",
+        "description": "RANGE"
+      },
+      {
+        "name": "API",
+        "unit": "",
+        "value": "",
+        "description": "API#"
+      },
+      {
+        "name": "OS",
+        "unit": "",
+        "value": "--DIL/MEL--SONIC----------------------------------",
+        "description": "OTHER SERVICES"
+      },
+      {
+        "name": "PDAT",
+        "unit": "FT",
+        "value": "GROUND LEVEL",
+        "description": "PERMANENT DATUM"
+      },
+      {
+        "name": "EEL",
+        "unit": "FT",
+        "value": "2514",
+        "description": "ELEVATION"
+      },
+      {
+        "name": "LMF",
+        "unit": "FT",
+        "value": "KELLY BUSHING 12' A.G.L",
+        "description": "LOG MEASURED FROM"
+      },
+      {
+        "name": "DMF",
+        "unit": "FT",
+        "value": "KELLY BUSHING",
+        "description": "DRILLING MEASURED FROM"
+      },
+      {
+        "name": "EKB",
+        "unit": "FT",
+        "value": "2526",
+        "description": "KB"
+      },
+      {
+        "name": "EDF",
+        "unit": "FT",
+        "value": "2524",
+        "description": "DF"
+      },
+      {
+        "name": "EGL",
+        "unit": "FT",
+        "value": "2514",
+        "description": "GL"
+      },
+      {
+        "name": "DATE1",
+        "unit": "",
+        "value": "9/3/19",
+        "description": "DATE1"
+      },
+      {
+        "name": "RUN1",
+        "unit": "",
+        "value": "ONE",
+        "description": "RUN NUMBER"
+      },
+      {
+        "name": "TDD1",
+        "unit": "FT",
+        "value": "5325",
+        "description": "DEPTH DRILLER"
+      },
+      {
+        "name": "TDL1",
+        "unit": "FT",
+        "value": "5326",
+        "description": "DEPTH LOGGER"
+      },
+      {
+        "name": "BLI1",
+        "unit": "FT",
+        "value": "5302",
+        "description": "BOTTOM LOGGED INTERVAL"
+      },
+      {
+        "name": "TLI1",
+        "unit": "FT",
+        "value": "4250",
+        "description": "TOP LOG INTERVAL"
+      },
+      {
+        "name": "CDD1",
+        "unit": "IN_FT",
+        "value": "8 5/8\" @ 648'",
+        "description": "CASING DRILLER"
+      },
+      {
+        "name": "CDL1",
+        "unit": "FT",
+        "value": "648'",
+        "description": "CASING LOGGER"
+      },
+      {
+        "name": "BS1",
+        "unit": "IN",
+        "value": "7 7/8",
+        "description": "BIT SIZE"
+      },
+      {
+        "name": "DFT1",
+        "unit": "",
+        "value": "CHEMICAL MUD",
+        "description": "TYPE FLUID IN HOLE"
+      },
+      {
+        "name": "DFDV1",
+        "unit": "GM/C3_CP",
+        "value": "9.2/53",
+        "description": "DENSITY/VISCOSITY"
+      },
+      {
+        "name": "DFPL1",
+        "unit": "C3",
+        "value": "10.5/11.2",
+        "description": "PH/FLUID LOSS"
+      },
+      {
+        "name": "MSS1",
+        "unit": "",
+        "value": "FLOWLINE",
+        "description": "SOURCE OF SAMPLE"
+      },
+      {
+        "name": "RMT1",
+        "unit": "OHHM_DEGF",
+        "value": ".45 @ 85F",
+        "description": "RM@MEASURED TEMP"
+      },
+      {
+        "name": "RMFT1",
+        "unit": "OHMM_DEGF",
+        "value": ".33 @ 85F",
+        "description": "RMF@MEASURED TEMP"
+      },
+      {
+        "name": "RMCT1",
+        "unit": "OHMM_DEGF",
+        "value": ".54 @ 85F",
+        "description": "RMC@MEASURED TEMP"
+      },
+      {
+        "name": "RMFS1",
+        "unit": "",
+        "value": "MEASUREMENT",
+        "description": "SOURCE OF RMF/RMC"
+      },
+      {
+        "name": "RMBT1",
+        "unit": "OHMM_DEGF",
+        "value": ".29 @ 128F",
+        "description": "RM@BHT"
+      },
+      {
+        "name": "TCS1",
+        "unit": "",
+        "value": "2 HOURS",
+        "description": "TIME CIRCULATION STOPPED"
+      },
+      {
+        "name": "TLOB1",
+        "unit": "",
+        "value": "////",
+        "description": "TIME LOGGER ON BOTTOM"
+      },
+      {
+        "name": "BHT1",
+        "unit": "DEGF",
+        "value": "128F",
+        "description": "MAXIMUM RECORDED TEMPERATURE"
+      },
+      {
+        "name": "LUN1",
+        "unit": "",
+        "value": "3802",
+        "description": "EQUIPMENT NUMBER"
+      },
+      {
+        "name": "LUL1",
+        "unit": "",
+        "value": "HAYS, KANSAS",
+        "description": "LOCATION"
+      },
+      {
+        "name": "ENGI1",
+        "unit": "",
+        "value": "JASON CAPPELLUCCI",
+        "description": "RECORDED BY"
+      },
+      {
+        "name": "WITN1",
+        "unit": "",
+        "value": "TOM DUDGEON",
+        "description": "WITNESSED BY"
+      }
+    ],
+    "Curve Information": [
+      {
+        "name": "DEPT",
+        "unit": "FT",
+        "value": "0 000 00 00",
+        "description": "Depth"
+      },
+      {
+        "name": "TBHV",
+        "unit": "FT3",
+        "value": "0",
+        "description": "Borehole Volume"
+      },
+      {
+        "name": "ABHV",
+        "unit": "FT3",
+        "value": "0",
+        "description": "Annular Borehole Volume"
+      },
+      {
+        "name": "RxoRt",
+        "unit": "",
+        "value": "0",
+        "description": "Rxo / Rt"
+      },
+      {
+        "name": "SP",
+        "unit": "MV",
+        "value": "0",
+        "description": "DIL Spontaneous Potential"
+      },
+      {
+        "name": "RILD",
+        "unit": "OHM-M",
+        "value": "0",
+        "description": "DIL Deep Resistivity"
+      },
+      {
+        "name": "RILM",
+        "unit": "OHM-M",
+        "value": "0",
+        "description": "DIL Medium Resistivity"
+      },
+      {
+        "name": "RLL3",
+        "unit": "OHM-M",
+        "value": "0",
+        "description": "DIL Shallow Resistivity"
+      },
+      {
+        "name": "RHOB",
+        "unit": "G/CC",
+        "value": "0",
+        "description": "Bulk Density"
+      },
+      {
+        "name": "RHOC",
+        "unit": "G/CC",
+        "value": "0",
+        "description": "Density Correction"
+      },
+      {
+        "name": "DPOR",
+        "unit": "PU",
+        "value": "0",
+        "description": "Density Porosity"
+      },
+      {
+        "name": "CNPOR",
+        "unit": "PU",
+        "value": "0",
+        "description": "CN Selected Porosity"
+      },
+      {
+        "name": "GR",
+        "unit": "GAPI",
+        "value": "0",
+        "description": "Gamma Ray"
+      },
+      {
+        "name": "DT",
+        "unit": "USEC/FT",
+        "value": "0",
+        "description": "Delta Time"
+      },
+      {
+        "name": "ITT",
+        "unit": "MSEC",
+        "value": "0",
+        "description": "Integrated Travel Time Blips"
+      },
+      {
+        "name": "MEL15",
+        "unit": "OHM-M",
+        "value": "0",
+        "description": "Microlog"
+      },
+      {
+        "name": "MEL20",
+        "unit": "OHM-M",
+        "value": "0",
+        "description": "Microlog"
+      },
+      {
+        "name": "MELCAL",
+        "unit": "IN",
+        "value": "0",
+        "description": "Micro Caliper"
+      },
+      {
+        "name": "SPOR",
+        "unit": "PU",
+        "value": "0",
+        "description": "Sonic Porosity"
+      },
+      {
+        "name": "PE",
+        "unit": "",
+        "value": "0",
+        "description": "PE"
+      }
+    ],
+    "Parameter Information": [
+      {
+        "name": "THANK YOU FOR USING ELI WIRELINE SERVICES, HAYS, KS",
+        "unit": "",
+        "value": "( 785 ) 628-6395",
+        "description": ""
+      },
+      {
+        "name": "KINGSDOWN, KS",
+        "unit": "",
+        "value": "- NORTH TO WILBURN RD. - 3 1/2 WEST TO TANK BATTERY PAST",
+        "description": ""
+      }
+    ],
+    "QC Info": [
+      {
+        "name": "Issue",
+        "unit": "",
+        "value": "",
+        "description": "No blank lines allowed in the ASCII data section. ,  "
+      }
+    ]
+  }
+}

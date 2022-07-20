@@ -1,0 +1,1765 @@
+{
+  "Type": "LAS2.0",
+  "Content": {
+    "Version Information": [
+      {
+        "name": "VERS",
+        "unit": "",
+        "value": "2.0",
+        "description": "CWLS Log ASCII Standard - VERSION 2.0"
+      },
+      {
+        "name": "WRAP",
+        "unit": "",
+        "value": "NO",
+        "description": "One line per index step"
+      }
+    ],
+    "Well Information": [
+      {
+        "name": "STRT",
+        "unit": ".1IN",
+        "value": "600000.0000",
+        "description": "START INDEX"
+      },
+      {
+        "name": "STOP",
+        "unit": ".1IN",
+        "value": "659880.0000",
+        "description": "STOP INDEX"
+      },
+      {
+        "name": "STEP",
+        "unit": ".1IN",
+        "value": "0.0000",
+        "description": "STEP"
+      },
+      {
+        "name": "NULL",
+        "unit": "",
+        "value": "-999.25",
+        "description": "NULL VALUE"
+      },
+      {
+        "name": "COMP",
+        "unit": "",
+        "value": "",
+        "description": "COMPANY"
+      },
+      {
+        "name": "WELL",
+        "unit": "",
+        "value": "",
+        "description": "WELL"
+      },
+      {
+        "name": "FLD",
+        "unit": "",
+        "value": "Undefined",
+        "description": "FIELD"
+      },
+      {
+        "name": "LOC",
+        "unit": "",
+        "value": "",
+        "description": "LOCATION"
+      },
+      {
+        "name": "PROV",
+        "unit": "",
+        "value": "STATE",
+        "description": "PROVINCE"
+      },
+      {
+        "name": "CNTY",
+        "unit": "",
+        "value": "COUNTY",
+        "description": "COUNTY"
+      },
+      {
+        "name": "STAT",
+        "unit": "",
+        "value": "STATE",
+        "description": "STATE"
+      },
+      {
+        "name": "CTRY",
+        "unit": "",
+        "value": "",
+        "description": "COUNTRY"
+      },
+      {
+        "name": "SRVC",
+        "unit": "",
+        "value": "Schlumberger",
+        "description": "SERVICE COMPANY"
+      },
+      {
+        "name": "DATE",
+        "unit": "",
+        "value": "07-SEP-1999",
+        "description": "DATE"
+      },
+      {
+        "name": "API",
+        "unit": "",
+        "value": "",
+        "description": "API NUMBER"
+      },
+      {
+        "name": "UWI",
+        "unit": "",
+        "value": "Zero_Spacing_LAS2",
+        "description": "UNIQUE WELL ID"
+      },
+      {
+        "name": "LATI",
+        "unit": "DEG",
+        "value": "",
+        "description": "LATITUDE"
+      },
+      {
+        "name": "LONG",
+        "unit": "DEG",
+        "value": "",
+        "description": "LONGITUDE"
+      },
+      {
+        "name": "GDAT",
+        "unit": "",
+        "value": "",
+        "description": "GEODETIC DATUM"
+      }
+    ],
+    "Parameter Information": [
+      {
+        "name": "HRCC_CALI_MP",
+        "unit": "",
+        "value": "-71.0000",
+        "description": "HRCC/CALI Measure Point"
+      },
+      {
+        "name": "DFL",
+        "unit": "C3",
+        "value": "0.0000",
+        "description": "Drilling Fluid Loss"
+      },
+      {
+        "name": "GDEV",
+        "unit": "DEG",
+        "value": "0.0000",
+        "description": "Average Angular Deviation of Borehole from Normal"
+      },
+      {
+        "name": "AHMRD",
+        "unit": "F",
+        "value": "0.0000",
+        "description": "AIT-H Mud Resistivity Calibration Depth"
+      },
+      {
+        "name": "APD",
+        "unit": "F",
+        "value": "0.0000",
+        "description": "Above Permanent Datum"
+      },
+      {
+        "name": "CBDR",
+        "unit": "F",
+        "value": "0.0000",
+        "description": "Casing Bottom of Driller"
+      },
+      {
+        "name": "DO",
+        "unit": "F",
+        "value": "0.0000",
+        "description": "Depth Offset for Logical Unit 1"
+      },
+      {
+        "name": "EDF",
+        "unit": "F",
+        "value": "0.0000",
+        "description": "Elevation of Derrick Floor"
+      },
+      {
+        "name": "EGL",
+        "unit": "F",
+        "value": "0.0000",
+        "description": "Elevation of Ground Level"
+      },
+      {
+        "name": "EKB",
+        "unit": "F",
+        "value": "0.0000",
+        "description": "Elevation of Kelly Bushing"
+      },
+      {
+        "name": "ELZ",
+        "unit": "F",
+        "value": "0.0000",
+        "description": "Elevation of Log Zero"
+      },
+      {
+        "name": "EPD",
+        "unit": "F",
+        "value": "0.0000",
+        "description": "Elevation of Permanent Datum"
+      },
+      {
+        "name": "FLEV",
+        "unit": "F",
+        "value": "0.0000",
+        "description": "Fluid Level"
+      },
+      {
+        "name": "HILT_EXTERN_BUFF_REQ",
+        "unit": "F",
+        "value": "0.0000",
+        "description": "HILT Auxiliary buffering requirement"
+      },
+      {
+        "name": "RULB",
+        "unit": "F",
+        "value": "0.0000",
+        "description": "Rig Up Length at Bottom"
+      },
+      {
+        "name": "RULS",
+        "unit": "F",
+        "value": "0.0000",
+        "description": "Rig Up Length at Surface"
+      },
+      {
+        "name": "TDD",
+        "unit": "F",
+        "value": "0.0000",
+        "description": "Total Depth - Driller"
+      },
+      {
+        "name": "TDL",
+        "unit": "F",
+        "value": "0.0000",
+        "description": "Total Depth - Logger"
+      },
+      {
+        "name": "VCEM",
+        "unit": "F3",
+        "value": "0.0000",
+        "description": "Cumulated Cement Volume"
+      },
+      {
+        "name": "VHOL",
+        "unit": "F3",
+        "value": "0.0000",
+        "description": "Cumulated Hole Volume"
+      },
+      {
+        "name": "HILT_GAS_DENSITY",
+        "unit": "G/C3",
+        "value": "0.0000",
+        "description": "HILT Gas Downhole Density"
+      },
+      {
+        "name": "SPNV",
+        "unit": "MV",
+        "value": "0.0000",
+        "description": "SP Next Value"
+      },
+      {
+        "name": "WCEDT",
+        "unit": "MV",
+        "value": "0.0000",
+        "description": "WITM-CTS Energy Detection Threshold (0 mV = AUTO)"
+      },
+      {
+        "name": "SPDR",
+        "unit": "MV/F",
+        "value": "0.0000",
+        "description": "SP Drift"
+      },
+      {
+        "name": "CTSBA",
+        "unit": "MS",
+        "value": "0.0000",
+        "description": "CTS Bandwidth Adjust. Max 4ms (Neg # for reduction)"
+      },
+      {
+        "name": "MHC0",
+        "unit": "OHMS",
+        "value": "0.0000",
+        "description": "MCFL B0 Contrast Correction Coefficient"
+      },
+      {
+        "name": "MHC1",
+        "unit": "OHMS",
+        "value": "0.0000",
+        "description": "MCFL B1 Contrast Correction Coefficient"
+      },
+      {
+        "name": "DFV",
+        "unit": "S",
+        "value": "0.0000",
+        "description": "Drilling Fluid Viscosity"
+      },
+      {
+        "name": "AHBHV",
+        "unit": "",
+        "value": "0.0000",
+        "description": "AIT-H Borehole Correction Code Version Number"
+      },
+      {
+        "name": "AHBLV",
+        "unit": "",
+        "value": "0.0000",
+        "description": "AIT-H Basic Logs Code Version Number"
+      },
+      {
+        "name": "AHDFS",
+        "unit": "",
+        "value": "0.0000",
+        "description": "AIT-H Telemetry Dump Frame Start Sequence Number"
+      },
+      {
+        "name": "AHRFV",
+        "unit": "",
+        "value": "0.0000",
+        "description": "AIT-H Radial Profiling Code Version Number"
+      },
+      {
+        "name": "AHRPV",
+        "unit": "",
+        "value": "0.0000",
+        "description": "AIT-H Radial Parametrization Code Version Number"
+      },
+      {
+        "name": "AHTMS",
+        "unit": "",
+        "value": "0.0000",
+        "description": "AIT-H Telemetry Monitor Start Sequence Number"
+      },
+      {
+        "name": "AITH_MUD_MP",
+        "unit": "",
+        "value": "0.0000",
+        "description": "AITH/Mud measure_point"
+      },
+      {
+        "name": "GLS_VJ_OLD_SERNUM-1",
+        "unit": "",
+        "value": "0.0000",
+        "description": "GLS-VJ serial number from previous calibrations"
+      },
+      {
+        "name": "GLS_VJ_OLD_SERNUM-2",
+        "unit": "",
+        "value": "0.0000",
+        "description": "GLS-VJ serial number from previous calibrations"
+      },
+      {
+        "name": "HRCC_OLD_SERNUM-1",
+        "unit": "",
+        "value": "0.0000",
+        "description": "HRCC serial number from previous calibrations"
+      },
+      {
+        "name": "HRCC_OLD_SERNUM-2",
+        "unit": "",
+        "value": "0.0000",
+        "description": "HRCC serial number from previous calibrations"
+      },
+      {
+        "name": "HRGD_OLD_SERNUM-1",
+        "unit": "",
+        "value": "0.0000",
+        "description": "HRGD serial number from previous calibrations"
+      },
+      {
+        "name": "HRGD_OLD_SERNUM-2",
+        "unit": "",
+        "value": "0.0000",
+        "description": "HRGD serial number from previous calibrations"
+      },
+      {
+        "name": "HRMS_OLD_SERNUM-1",
+        "unit": "",
+        "value": "0.0000",
+        "description": "HRMS serial number from previous calibrations"
+      },
+      {
+        "name": "HRMS_OLD_SERNUM-2",
+        "unit": "",
+        "value": "0.0000",
+        "description": "HRMS serial number from previous calibrations"
+      },
+      {
+        "name": "DFPH",
+        "unit": "",
+        "value": "0.0000",
+        "description": "Drilling Fluid PH"
+      },
+      {
+        "name": "HACCT",
+        "unit": "",
+        "value": "0.0000",
+        "description": "Accelerometer Type (Manufacturer Code)"
+      },
+      {
+        "name": "HGNS_HACCZ_MP",
+        "unit": "",
+        "value": "0.0000",
+        "description": "HGNS/HACCZ measure_point"
+      },
+      {
+        "name": "HGNS_HGNS_MP",
+        "unit": "",
+        "value": "0.0000",
+        "description": "HGNS/HGNS measure_point"
+      },
+      {
+        "name": "HRCC_CART_MP",
+        "unit": "",
+        "value": "0.0000",
+        "description": "HRCC/CART Measure Point"
+      },
+      {
+        "name": "HRDD_BS_MP",
+        "unit": "",
+        "value": "0.0000",
+        "description": "HRDD Backscatter Measure Point"
+      },
+      {
+        "name": "HRDD_LS_MP",
+        "unit": "",
+        "value": "0.0000",
+        "description": "HRDD Long-Spacing Measure Point"
+      },
+      {
+        "name": "HRDD_SS_MP",
+        "unit": "",
+        "value": "0.0000",
+        "description": "HRDD Short-Spacing Measure Point"
+      },
+      {
+        "name": "LUN",
+        "unit": "",
+        "value": "0.0000",
+        "description": "Logging Unit Number"
+      },
+      {
+        "name": "SIMULATE_DELAY",
+        "unit": "",
+        "value": "0.0000",
+        "description": "Simulate Acquisition Delay"
+      },
+      {
+        "name": "TNDOFF",
+        "unit": "",
+        "value": "0.0000",
+        "description": "Tension Device Offset"
+      },
+      {
+        "name": "GGRD",
+        "unit": "DF/F",
+        "value": "0.0100",
+        "description": "Geothermal Gradient"
+      },
+      {
+        "name": "SOCN",
+        "unit": "IN",
+        "value": "0.1250",
+        "description": "Standoff Distance"
+      },
+      {
+        "name": "DIFF",
+        "unit": "F",
+        "value": "1.0000",
+        "description": "Maximum Permitted Depth Difference"
+      },
+      {
+        "name": "FD",
+        "unit": "G/C3",
+        "value": "1.0000",
+        "description": "Fluid Density"
+      },
+      {
+        "name": "NSAR",
+        "unit": "IN",
+        "value": "1.0000",
+        "description": "HRDD Depth Sampling Rate"
+      },
+      {
+        "name": "AHMRC",
+        "unit": "OHMM",
+        "value": "1.0000",
+        "description": "AIT-H Mud Calibration Reference - Coarse"
+      },
+      {
+        "name": "RW",
+        "unit": "OHMM",
+        "value": "1.0000",
+        "description": "Resistivity of Connate Water"
+      },
+      {
+        "name": "AHMRF",
+        "unit": "",
+        "value": "1.0000",
+        "description": "AIT-H Mud Resistivity Factor"
+      },
+      {
+        "name": "AITH_SPA_MP",
+        "unit": "",
+        "value": "1.0000",
+        "description": "AITH/SPA measure_point"
+      },
+      {
+        "name": "FNUM",
+        "unit": "",
+        "value": "1.0000",
+        "description": "Form Factor Numerator"
+      },
+      {
+        "name": "RUN",
+        "unit": "",
+        "value": "1.0000",
+        "description": "Run Number"
+      },
+      {
+        "name": "TNDGN",
+        "unit": "",
+        "value": "1.0000",
+        "description": "Tension Device GAIN"
+      },
+      {
+        "name": "AHMGC",
+        "unit": "",
+        "value": "1.0487",
+        "description": "AIT-H Master Calibrated Mud Gain - Coarse"
+      },
+      {
+        "name": "AHMGF",
+        "unit": "",
+        "value": "1.0490",
+        "description": "AIT-H Master Calibrated Mud Gain - Fine"
+      },
+      {
+        "name": "RIAV",
+        "unit": "",
+        "value": "1.0700",
+        "description": "MCFL Resistivity Algorithm Version"
+      },
+      {
+        "name": "RMFS",
+        "unit": "OHMM",
+        "value": "1.4300",
+        "description": "Resistivity of Mud Filtrate Sample"
+      },
+      {
+        "name": "AHSTA",
+        "unit": "IN",
+        "value": "1.5000",
+        "description": "AIT-H Tool Standoff"
+      },
+      {
+        "name": "HDCOD",
+        "unit": "G/C3",
+        "value": "2.0000",
+        "description": "HILT Density Coal detection"
+      },
+      {
+        "name": "FEXP",
+        "unit": "",
+        "value": "2.0000",
+        "description": "Form Factor Exponent"
+      },
+      {
+        "name": "SEXP_HILT",
+        "unit": "",
+        "value": "2.0000",
+        "description": "HILT Saturation Exponent"
+      },
+      {
+        "name": "HDSAD",
+        "unit": "G/C3",
+        "value": "2.1000",
+        "description": "HILT Density Salt detection"
+      },
+      {
+        "name": "RMS",
+        "unit": "OHMM",
+        "value": "2.3000",
+        "description": "Resistivity of Mud Sample"
+      },
+      {
+        "name": "NIAV",
+        "unit": "",
+        "value": "2.6000",
+        "description": "HRDD Density/Pe Algorithm Version"
+      },
+      {
+        "name": "MDEN",
+        "unit": "G/C3",
+        "value": "2.6500",
+        "description": "Matrix Density"
+      },
+      {
+        "name": "RMCS",
+        "unit": "OHMM",
+        "value": "3.0000",
+        "description": "Resistivity of Mud Cake Sample"
+      },
+      {
+        "name": "FCD",
+        "unit": "IN",
+        "value": "3.5000",
+        "description": "Future Casing (Outer) Diameter"
+      },
+      {
+        "name": "STKT",
+        "unit": "F",
+        "value": "5.0000",
+        "description": "STI Stuck Threshold"
+      },
+      {
+        "name": "HNSAD",
+        "unit": "PU",
+        "value": "5.0000",
+        "description": "HILT Neutron Salt detection"
+      },
+      {
+        "name": "HPHIECUT",
+        "unit": "PU",
+        "value": "5.0000",
+        "description": "HILT effective Porosity Cutoff"
+      },
+      {
+        "name": "HACCM",
+        "unit": "",
+        "value": "6.0000",
+        "description": "Accelerometer Month of Calibration"
+      },
+      {
+        "name": "BS",
+        "unit": "IN",
+        "value": "7.8750",
+        "description": "Bit Size"
+      },
+      {
+        "name": "CSIZ",
+        "unit": "IN",
+        "value": "8.6250",
+        "description": "Current Casing Size"
+      },
+      {
+        "name": "MCST",
+        "unit": "DEGF",
+        "value": "9.0000",
+        "description": "Mud Cake Sample Temperature"
+      },
+      {
+        "name": "TSRI",
+        "unit": "S",
+        "value": "10.0000",
+        "description": "Telemetry Status Report Interval (for IO Mon)"
+      },
+      {
+        "name": "MCFL_MP",
+        "unit": "",
+        "value": "10.4800",
+        "description": "MCFL Measure Point"
+      },
+      {
+        "name": "DFD",
+        "unit": "LB/G",
+        "value": "12.2000",
+        "description": "Drilling Fluid Density"
+      },
+      {
+        "name": "AHDFU",
+        "unit": "",
+        "value": "16.0000",
+        "description": "AIT-H Telemetry Dump Frame Update Cycle"
+      },
+      {
+        "name": "AHTMU",
+        "unit": "",
+        "value": "16.0000",
+        "description": "AIT-H Telemetry Monitor Update Cycle"
+      },
+      {
+        "name": "EXSICL",
+        "unit": "",
+        "value": "20.0000",
+        "description": "External Shale Indicator Clean Value"
+      },
+      {
+        "name": "TCS",
+        "unit": "",
+        "value": "21.0000",
+        "description": "00                          ; Time Circulation Stopped"
+      },
+      {
+        "name": "AHSCP",
+        "unit": "",
+        "value": "25.0000",
+        "description": "AIT-H Write Sonde Characterization Print Interval (feet)"
+      },
+      {
+        "name": "CWEI",
+        "unit": "LB/F",
+        "value": "28.0000",
+        "description": "Casing Weight"
+      },
+      {
+        "name": "HGNS_HCNT_MP",
+        "unit": "",
+        "value": "28.0000",
+        "description": "HGNS/HCNT measure_point"
+      },
+      {
+        "name": "AHMCT",
+        "unit": "DEGF",
+        "value": "32.0000",
+        "description": "AIT-H Master Cal Sonde Temperature"
+      },
+      {
+        "name": "HGNS_HCFT_MP",
+        "unit": "",
+        "value": "34.0000",
+        "description": "HGNS/HCFT measure_point"
+      },
+      {
+        "name": "PHIMAX",
+        "unit": "PU",
+        "value": "35.0000",
+        "description": "HILT max porosity"
+      },
+      {
+        "name": "TLI",
+        "unit": "F",
+        "value": "40.0000",
+        "description": "Top Log Interval"
+      },
+      {
+        "name": "HGNS_FCNL_MP",
+        "unit": "",
+        "value": "40.0000",
+        "description": "HGNS/FCNL measure_point"
+      },
+      {
+        "name": "HGNS_NCNL_MP",
+        "unit": "",
+        "value": "40.0000",
+        "description": "HGNS/NCNL measure_point"
+      },
+      {
+        "name": "HNCOD",
+        "unit": "PU",
+        "value": "45.0000",
+        "description": "HILT Neutron Coal detection"
+      },
+      {
+        "name": "HSWCUT",
+        "unit": "%",
+        "value": "50.0000",
+        "description": "HILT Water Saturation from AITH cutoff"
+      },
+      {
+        "name": "TMRI",
+        "unit": "S",
+        "value": "60.0000",
+        "description": "Telemetry Error Msg Report Interval (for SCP)"
+      },
+      {
+        "name": "HART",
+        "unit": "DEGF",
+        "value": "68.0000",
+        "description": "Accelerometer Reference Temperature"
+      },
+      {
+        "name": "SHT",
+        "unit": "DEGF",
+        "value": "68.0000",
+        "description": "Surface Hole Temperature"
+      },
+      {
+        "name": "ETEM",
+        "unit": "DEGF",
+        "value": "77.0000",
+        "description": "HILT External Temperature"
+      },
+      {
+        "name": "AITH_IND_MP",
+        "unit": "",
+        "value": "94.9340",
+        "description": "AITH/Ind measure_point"
+      },
+      {
+        "name": "AITH_TEMP_MP",
+        "unit": "",
+        "value": "94.9340",
+        "description": "AITH/Temp measure_point"
+      },
+      {
+        "name": "AITH_VOLT_MP",
+        "unit": "",
+        "value": "94.9340",
+        "description": "AITH/Volt measure_point"
+      },
+      {
+        "name": "HACCY",
+        "unit": "",
+        "value": "97.0000",
+        "description": "Accelerometer Year of Calibration"
+      },
+      {
+        "name": "MFST",
+        "unit": "DEGF",
+        "value": "98.0000",
+        "description": "Mud Filtrate Sample Temperature"
+      },
+      {
+        "name": "MST",
+        "unit": "DEGF",
+        "value": "98.0000",
+        "description": "Mud Sample Temperature"
+      },
+      {
+        "name": "TWS",
+        "unit": "DEGF",
+        "value": "100.0000",
+        "description": "Temperature of Connate Water Sample"
+      },
+      {
+        "name": "HGNS_HGR_MP",
+        "unit": "",
+        "value": "104.0000",
+        "description": "HGNS/HGR measure_point"
+      },
+      {
+        "name": "BHT",
+        "unit": "DEGF",
+        "value": "120.0000",
+        "description": "Bottom Hole Temperature (used in calculations)"
+      },
+      {
+        "name": "EXSISH",
+        "unit": "",
+        "value": "150.0000",
+        "description": "External Shale Indicator Shale Value"
+      },
+      {
+        "name": "AHTNO",
+        "unit": "",
+        "value": "270.0000",
+        "description": "AIT-H Tool Serial Number"
+      },
+      {
+        "name": "LCC",
+        "unit": "",
+        "value": "440.0000",
+        "description": "Logging Company Code"
+      },
+      {
+        "name": "HACCN",
+        "unit": "",
+        "value": "579.0000",
+        "description": "Accelerometer Serial Number"
+      },
+      {
+        "name": "TREF",
+        "unit": "LBF",
+        "value": "1000.0000",
+        "description": "Reference Tension of the Cable"
+      },
+      {
+        "name": "BSAL",
+        "unit": "PPM",
+        "value": "1000.0000",
+        "description": "Borehole Salinity"
+      },
+      {
+        "name": "SPEE",
+        "unit": "F/HR",
+        "value": "1800.0000",
+        "description": "Simulated Logging Speed"
+      },
+      {
+        "name": "CBLO",
+        "unit": "F",
+        "value": "2507.0000",
+        "description": "Casing Bottom of Logger"
+      },
+      {
+        "name": "CD",
+        "unit": "F",
+        "value": "2507.0000",
+        "description": "Casing Shoe Depth"
+      },
+      {
+        "name": "LCL",
+        "unit": "F",
+        "value": "7000.0000",
+        "description": "Logging Cable Length"
+      },
+      {
+        "name": "TD",
+        "unit": "F",
+        "value": "12270.0000",
+        "description": "Total Depth"
+      },
+      {
+        "name": "AHDFA",
+        "unit": "F",
+        "value": "50000.0000",
+        "description": "AIT-H Telemetry Dump Frame Max Depth"
+      },
+      {
+        "name": "AHRFA",
+        "unit": "F",
+        "value": "50000.0000",
+        "description": "AIT-H Telemetry Read Frame Max Depth"
+      },
+      {
+        "name": "AHWFA",
+        "unit": "F",
+        "value": "50000.0000",
+        "description": "AIT-H Telemetry Write Frame Max Depth"
+      },
+      {
+        "name": "HRFA",
+        "unit": "F",
+        "value": "50000.0000",
+        "description": "HILT Telemetry Read Max Depth"
+      },
+      {
+        "name": "AHRFM",
+        "unit": "",
+        "value": "999999.0000",
+        "description": "AIT-H Telemetry Read Frame Max Number To Process"
+      },
+      {
+        "name": "AHWFM",
+        "unit": "",
+        "value": "999999.0000",
+        "description": "AIT-H Telemetry Write Frame Max Number To Process"
+      },
+      {
+        "name": "HRFM",
+        "unit": "",
+        "value": "999999.0000",
+        "description": "HILT Telemetry Read Max Frames"
+      },
+      {
+        "name": "AHSTL",
+        "unit": "",
+        "value": "915480640.0000",
+        "description": "AIT-H Sonde Characterization Time (as an integer)"
+      },
+      {
+        "name": "HACTI",
+        "unit": "",
+        "value": "954346775.0000",
+        "description": "Time of accelerometer calibration"
+      },
+      {
+        "name": "DCS",
+        "unit": "",
+        "value": "07-SEP-1999",
+        "description": "Date Circulation Stopped"
+      },
+      {
+        "name": "AHDITM",
+        "unit": "",
+        "value": "0X00_LOG_000",
+        "description": "AIT-H Desired Tool Mode"
+      },
+      {
+        "name": "WCEQ",
+        "unit": "",
+        "value": "0_AUTO_EQ",
+        "description": "WITM-CTS Equalizer setting"
+      },
+      {
+        "name": "AHSAP",
+        "unit": "",
+        "value": "0_NOSUSPENSION",
+        "description": "AIT-H Suspend Answer Product Processing"
+      },
+      {
+        "name": "ARTS",
+        "unit": "",
+        "value": "13_AHT90",
+        "description": "AIT Rt Selection (for ALLRES computation)"
+      },
+      {
+        "name": "AHBHM",
+        "unit": "",
+        "value": "2_COMPUTESTANDOFF",
+        "description": "AIT-H Borehole Correction Mode"
+      },
+      {
+        "name": "AHAPL",
+        "unit": "",
+        "value": "3_BHOLECORR_BASICLOGS_RADIAL_PROCESSING",
+        "description": "AIT-H Answer Product Level(Depth Log/View only)"
+      },
+      {
+        "name": "AHBLM",
+        "unit": "",
+        "value": "6_ONE_TWO_AND_FOUR",
+        "description": "AIT-H Basic Logs Mode"
+      },
+      {
+        "name": "AHRPM",
+        "unit": "",
+        "value": "6_ONE_TWO_AND_FOUR",
+        "description": "AIT-H Radial Processing Mode"
+      },
+      {
+        "name": "IDWLCN",
+        "unit": "",
+        "value": "7-46P",
+        "description": "IDW Calibration Cable Type"
+      },
+      {
+        "name": "PVER",
+        "unit": "",
+        "value": "9C1-303",
+        "description": "Program Version"
+      },
+      {
+        "name": "GRSE",
+        "unit": "",
+        "value": "AHMF",
+        "description": "Generalized Mud Resistivity Selection"
+      },
+      {
+        "name": "JETA",
+        "unit": "",
+        "value": "ALLOW",
+        "description": "Job Events Auto Save"
+      },
+      {
+        "name": "NDTC",
+        "unit": "",
+        "value": "APPLY",
+        "description": "HRDD Dead Time Correction"
+      },
+      {
+        "name": "NMT",
+        "unit": "",
+        "value": "BARITE",
+        "description": "HILT Nuclear Mud Type"
+      },
+      {
+        "name": "DHC",
+        "unit": "",
+        "value": "BS",
+        "description": "Density Hole Correction"
+      },
+      {
+        "name": "TNDTYP",
+        "unit": "",
+        "value": "CMTD-B/A",
+        "description": "Tension Device"
+      },
+      {
+        "name": "CLAB",
+        "unit": "",
+        "value": "COUNTY",
+        "description": "County/Rig Label"
+      },
+      {
+        "name": "MCSS",
+        "unit": "",
+        "value": "Calculated",
+        "description": "Mud Cake Sample Source"
+      },
+      {
+        "name": "MFSS",
+        "unit": "",
+        "value": "Calculated",
+        "description": "Mud Filtrate Sample Source"
+      },
+      {
+        "name": "UWID",
+        "unit": "",
+        "value": "Zero_Spacing_LAS2",
+        "description": "Unique Well ID"
+      },
+      {
+        "name": "FPHI",
+        "unit": "",
+        "value": "DPHZ",
+        "description": "Form Factor Porosity Source"
+      },
+      {
+        "name": "ENVI",
+        "unit": "",
+        "value": "DTB_TELEMETRY",
+        "description": "Acquisition Environment"
+      },
+      {
+        "name": "AHCEN",
+        "unit": "",
+        "value": "ECCENTERED",
+        "description": "AIT-H Tool Centering Flag (in Borehole)"
+      },
+      {
+        "name": "HISC",
+        "unit": "",
+        "value": "ECCENTERED",
+        "description": "HGNS Centered/Eccentered"
+      },
+      {
+        "name": "MMDU",
+        "unit": "",
+        "value": "FEET",
+        "description": "Magnetic Mark Depth Units"
+      },
+      {
+        "name": "LOGSEQ",
+        "unit": "",
+        "value": "FIRST_LOG_IN_WELL",
+        "description": "Log Sequence"
+      },
+      {
+        "name": "AHCRL",
+        "unit": "",
+        "value": "FULL",
+        "description": "AIT-H Calibrate Report Length"
+      },
+      {
+        "name": "AHTRL",
+        "unit": "",
+        "value": "FULL",
+        "description": "AIT-H Test Report Length"
+      },
+      {
+        "name": "MSS",
+        "unit": "",
+        "value": "Flowline",
+        "description": "Mud Sample Source"
+      },
+      {
+        "name": "AHMDT",
+        "unit": "",
+        "value": "Fri Aug 20 11",
+        "description": "44;54 1999       ; AIT-H Master Date and Time"
+      },
+      {
+        "name": "AHEFDD",
+        "unit": "",
+        "value": "FromFile",
+        "description": "AIT-H Export File Destination directory"
+      },
+      {
+        "name": "HSIS",
+        "unit": "",
+        "value": "GR",
+        "description": "HILT Shale Indicator Selection"
+      },
+      {
+        "name": "PDAT",
+        "unit": "",
+        "value": "GROUND LEVEL",
+        "description": "Permanent Datum"
+      },
+      {
+        "name": "AHTTY",
+        "unit": "",
+        "value": "HAIT",
+        "description": "AIT-H Tool Type (of acquired data)"
+      },
+      {
+        "name": "GCSE",
+        "unit": "",
+        "value": "HCAL",
+        "description": "Generalized Caliper Selection"
+      },
+      {
+        "name": "HVCS",
+        "unit": "",
+        "value": "HCAL",
+        "description": "Integrated Hole Volume Caliper Selection"
+      },
+      {
+        "name": "DPPM",
+        "unit": "",
+        "value": "HIRS",
+        "description": "Density Porosity Processing Mode"
+      },
+      {
+        "name": "IDWTYP",
+        "unit": "",
+        "value": "IDW-B",
+        "description": "IDW Type"
+      },
+      {
+        "name": "HLD",
+        "unit": "",
+        "value": "INCLUDE",
+        "description": "Header Legal Disclaimer"
+      },
+      {
+        "name": "AHTSE",
+        "unit": "",
+        "value": "INTERNAL",
+        "description": "AIT-H Temperature Selection(Sonde Error Correction)"
+      },
+      {
+        "name": "DMF",
+        "unit": "",
+        "value": "KELLY BUSHING",
+        "description": "Drilling Measured From"
+      },
+      {
+        "name": "LMF",
+        "unit": "",
+        "value": "KELLY BUSHING",
+        "description": "Log Measured From"
+      },
+      {
+        "name": "HTES",
+        "unit": "",
+        "value": "LEHQT_HTEN",
+        "description": "HMCA Cable Head Tension Source"
+      },
+      {
+        "name": "AHLNV",
+        "unit": "",
+        "value": "LOG_VALID-NO_DEFAULT_PARAMETERS",
+        "description": "AIT-H Log Not Valid Flag"
+      },
+      {
+        "name": "LOGMODE",
+        "unit": "",
+        "value": "MEASURED_DEPTH",
+        "description": "Depth Logging Mode"
+      },
+      {
+        "name": "AHSCT",
+        "unit": "",
+        "value": "Mon Jan 04 13",
+        "description": "10;15 1999       ; AIT-H Sonde Characterization Time"
+      },
+      {
+        "name": "MCOR",
+        "unit": "",
+        "value": "NATU",
+        "description": "Mud Correction"
+      },
+      {
+        "name": "AHSCO",
+        "unit": "",
+        "value": "NEITHER",
+        "description": "AIT-H Multiple Sonde Characterization Tool Presently On"
+      },
+      {
+        "name": "BSCO",
+        "unit": "",
+        "value": "NO",
+        "description": "Borehole Salinity Correction Option"
+      },
+      {
+        "name": "CCCO",
+        "unit": "",
+        "value": "NO",
+        "description": "Casing & Cement Thickness Correction Option"
+      },
+      {
+        "name": "FLSHSTRM",
+        "unit": "",
+        "value": "NO",
+        "description": "Flush depth-delayed streams to output at end"
+      },
+      {
+        "name": "FSCO",
+        "unit": "",
+        "value": "NO",
+        "description": "Formation Salinity Correction Option"
+      },
+      {
+        "name": "HFAW",
+        "unit": "",
+        "value": "NO",
+        "description": "HILT Auto Write Telemetry"
+      },
+      {
+        "name": "HRED",
+        "unit": "",
+        "value": "NO",
+        "description": "HILT Activate Data Reduction"
+      },
+      {
+        "name": "MCCO",
+        "unit": "",
+        "value": "NO",
+        "description": "Mud Cake Correction Option"
+      },
+      {
+        "name": "MHCC",
+        "unit": "",
+        "value": "NO",
+        "description": "MCFL High Contrast Correction Switch"
+      },
+      {
+        "name": "MWCO",
+        "unit": "",
+        "value": "NO",
+        "description": "Mud Weight Correction Option"
+      },
+      {
+        "name": "PBVSADP",
+        "unit": "",
+        "value": "NO",
+        "description": "Use alternate depth channel for playback"
+      },
+      {
+        "name": "PTCO",
+        "unit": "",
+        "value": "NO",
+        "description": "Pressure/Temperature Correction Option"
+      },
+      {
+        "name": "SOCO",
+        "unit": "",
+        "value": "NO",
+        "description": "Standoff Correction Option"
+      },
+      {
+        "name": "AHULV",
+        "unit": "",
+        "value": "NORMAL",
+        "description": "AIT-H User Level Control"
+      },
+      {
+        "name": "NPUC",
+        "unit": "",
+        "value": "NOT_APPLY",
+        "description": "HRDD Pile-Up Correction"
+      },
+      {
+        "name": "AHFRSV",
+        "unit": "",
+        "value": "No version available",
+        "description": "AIT-H Response Set Version for Four ft Resolution"
+      },
+      {
+        "name": "AHORSV",
+        "unit": "",
+        "value": "No version available",
+        "description": "AIT-H Response Set Version for One ft Resolution"
+      },
+      {
+        "name": "AHTRSV",
+        "unit": "",
+        "value": "No version available",
+        "description": "AIT-H Response Set Version for Two ft Resolution"
+      },
+      {
+        "name": "HILT_GAS_OPTION",
+        "unit": "",
+        "value": "OFF",
+        "description": "HILT Gas Computation Option"
+      },
+      {
+        "name": "NAAC",
+        "unit": "",
+        "value": "OFF",
+        "description": "HRDD APS Activation Correction"
+      },
+      {
+        "name": "PP",
+        "unit": "",
+        "value": "OFF",
+        "description": "Playback Processing"
+      },
+      {
+        "name": "AHIGS",
+        "unit": "",
+        "value": "ON",
+        "description": "AIT-H Select Akima Interpolation Gating"
+      },
+      {
+        "name": "MPOF",
+        "unit": "",
+        "value": "ON",
+        "description": "MCFL Processing Operation Mode"
+      },
+      {
+        "name": "NTCO",
+        "unit": "",
+        "value": "ON",
+        "description": "HRDD Temperature Correction Option"
+      },
+      {
+        "name": "AHSCN",
+        "unit": "",
+        "value": "ONE",
+        "description": "AIT-H Multiple Sonde Characterization Tool #"
+      },
+      {
+        "name": "BHS",
+        "unit": "",
+        "value": "OPEN",
+        "description": "Borehole Status"
+      },
+      {
+        "name": "HACPP",
+        "unit": "",
+        "value": "PRESENT_FILE",
+        "description": "Accelerometer PROM Presence"
+      },
+      {
+        "name": "CJT",
+        "unit": "",
+        "value": "Primary",
+        "description": "Cement Job Type"
+      },
+      {
+        "name": "RLAB",
+        "unit": "",
+        "value": "RANGE",
+        "description": "Range/Blank Label"
+      },
+      {
+        "name": "MATR",
+        "unit": "",
+        "value": "SAND",
+        "description": "Rock Matrix for Neutron Porosity Corrections"
+      },
+      {
+        "name": "LLAB",
+        "unit": "",
+        "value": "SECTION",
+        "description": "Section/Latitude Label"
+      },
+      {
+        "name": "AHSCM",
+        "unit": "",
+        "value": "SINGLETOOL",
+        "description": "AIT-H Write Sonde Characterization Mode"
+      },
+      {
+        "name": "IHVC",
+        "unit": "",
+        "value": "SNAP",
+        "description": "Integrated Hole Volume Control"
+      },
+      {
+        "name": "SDAT",
+        "unit": "",
+        "value": "SOCN",
+        "description": "Standoff Data Source"
+      },
+      {
+        "name": "ALTDPCHAN",
+        "unit": "",
+        "value": "SPEEDCORRECTEDDEPTH",
+        "description": "Name of alternate depth channel"
+      },
+      {
+        "name": "HLMO",
+        "unit": "",
+        "value": "STAN",
+        "description": "HALS Logging Mode"
+      },
+      {
+        "name": "AHBPO",
+        "unit": "",
+        "value": "STANDARD_PROCESSING",
+        "description": "AIT-H Basic Logs Processing Option"
+      },
+      {
+        "name": "SLAB",
+        "unit": "",
+        "value": "STATE",
+        "description": "State/Province Label"
+      },
+      {
+        "name": "NPRM",
+        "unit": "",
+        "value": "STDRES",
+        "description": "HRDD Processing Mode"
+      },
+      {
+        "name": "GTSE",
+        "unit": "",
+        "value": "TEMP",
+        "description": "Generalized Temperature Selection"
+      },
+      {
+        "name": "TLLAB",
+        "unit": "",
+        "value": "TOWNSHIP",
+        "description": "Township/Longitude Label"
+      },
+      {
+        "name": "HSCM",
+        "unit": "",
+        "value": "TSCD_SPEED_CORRECTION",
+        "description": "HILT Speed Correction Mode"
+      },
+      {
+        "name": "FN",
+        "unit": "",
+        "value": "Undefined",
+        "description": "Field Name"
+      },
+      {
+        "name": "BHFL",
+        "unit": "",
+        "value": "WATER",
+        "description": "Borehole Fluid Type"
+      },
+      {
+        "name": "CONTYP",
+        "unit": "",
+        "value": "WIRELINE",
+        "description": "Conveyance Type"
+      },
+      {
+        "name": "AHCDE",
+        "unit": "",
+        "value": "YES",
+        "description": "AIT-H Casing Detection Enable"
+      },
+      {
+        "name": "AHEBC",
+        "unit": "",
+        "value": "YES",
+        "description": "AIT-H Enable Borehole Correction"
+      },
+      {
+        "name": "AHEBL",
+        "unit": "",
+        "value": "YES",
+        "description": "AIT-H Enable Basic Logs"
+      },
+      {
+        "name": "AHERP",
+        "unit": "",
+        "value": "YES",
+        "description": "AIT-H Enable Radial Processing"
+      },
+      {
+        "name": "AHETP",
+        "unit": "",
+        "value": "YES",
+        "description": "AIT-H Enable Sonde Error Temp&Pres Corr"
+      },
+      {
+        "name": "HSCO",
+        "unit": "",
+        "value": "YES",
+        "description": "Hole Size Correction Option"
+      },
+      {
+        "name": "HSTI",
+        "unit": "",
+        "value": "YES",
+        "description": "STI Uses HILT Acceleration"
+      },
+      {
+        "name": "RTCO",
+        "unit": "",
+        "value": "YES",
+        "description": "RTCO - Rt Invasion Correction"
+      },
+      {
+        "name": "TSEC",
+        "unit": "",
+        "value": "YES",
+        "description": "TSCD Enable Corrected Depth Computation"
+      },
+      {
+        "name": "IDWCD",
+        "unit": "",
+        "value": "dd-MMM-yyyy",
+        "description": "IDW Calibration Date (dd-MMM-yyyy)"
+      },
+      {
+        "name": "RLDT",
+        "unit": "",
+        "value": "dd-MMM-yyyy",
+        "description": "Reference Log Date (dd-MMM-yyyy)"
+      },
+      {
+        "name": "TNDCD",
+        "unit": "",
+        "value": "dd-MMM-yyyy",
+        "description": "Tension Device Calibration Date (dd-MMM-yyyy)"
+      },
+      {
+        "name": "CN",
+        "unit": "",
+        "value": "",
+        "description": "Company Name"
+      },
+      {
+        "name": "WN",
+        "unit": "",
+        "value": "",
+        "description": "Well Name"
+      }
+    ],
+    "Curve Information": [
+      {
+        "name": "DEPT",
+        "unit": ".1IN",
+        "value": "",
+        "description": "6-Inch Frame Depth{F}"
+      },
+      {
+        "name": "BS",
+        "unit": "IN",
+        "value": "",
+        "description": "Bit Size{F}"
+      },
+      {
+        "name": "CS",
+        "unit": "F/HR",
+        "value": "",
+        "description": "Cable Speed{F}"
+      },
+      {
+        "name": "CVEL",
+        "unit": "F/MN",
+        "value": "",
+        "description": "Cable Velocity{F}"
+      },
+      {
+        "name": "TENS",
+        "unit": "LBF",
+        "value": "",
+        "description": "Cable Tension{F}"
+      },
+      {
+        "name": "RHGX_HILT",
+        "unit": "G/C3",
+        "value": "",
+        "description": "HILT Grain Density{F}"
+      },
+      {
+        "name": "UMA_HILT",
+        "unit": "",
+        "value": "",
+        "description": "HILT U matrix{F}"
+      },
+      {
+        "name": "RMFA_HILT",
+        "unit": "OHMM",
+        "value": "",
+        "description": "HILT apparent mud filtrate resistivity{F}"
+      },
+      {
+        "name": "RO_HILT",
+        "unit": "OHMM",
+        "value": "",
+        "description": "HILT water filled resistivity{F}"
+      },
+      {
+        "name": "VCL_HILT",
+        "unit": "PU",
+        "value": "",
+        "description": "HILT Volume of Clay{F}"
+      },
+      {
+        "name": "RWA_HILT",
+        "unit": "OHMM",
+        "value": "",
+        "description": "HILT Apparent water resistivity{F}"
+      },
+      {
+        "name": "SP_SC",
+        "unit": "MV",
+        "value": "",
+        "description": "HAIT SP Shifted SC{F}"
+      },
+      {
+        "name": "SPA_SC",
+        "unit": "MV",
+        "value": "",
+        "description": "HAIT SPARC Filtered SC{F}"
+      },
+      {
+        "name": "SP",
+        "unit": "MV",
+        "value": "",
+        "description": "Spontaneous Potential{F}"
+      },
+      {
+        "name": "TNRA",
+        "unit": "",
+        "value": "",
+        "description": "Thermal Neutron Ratio SC{F}"
+      },
+      {
+        "name": "GR",
+        "unit": "GAPI",
+        "value": "",
+        "description": "Calibrated Gamma-Ray SC{F}"
+      },
+      {
+        "name": "ECGR",
+        "unit": "GAPI",
+        "value": "",
+        "description": "Gamma-Ray{F}"
+      },
+      {
+        "name": "GDEV",
+        "unit": "DEG",
+        "value": "",
+        "description": "HGNS Deviation{F}"
+      },
+      {
+        "name": "TIME",
+        "unit": "MS",
+        "value": "",
+        "description": "6-Inch Frame Time{F}"
+      },
+      {
+        "name": "PXND_HILT",
+        "unit": "CFCF",
+        "value": "",
+        "description": "HILT Porosity CrossPlot{F}"
+      },
+      {
+        "name": "PHIE_HILT",
+        "unit": "CFCF",
+        "value": "",
+        "description": "HILT effective porosity{F}"
+      },
+      {
+        "name": "SW_HILT",
+        "unit": "CFCF",
+        "value": "",
+        "description": "HILT Water Saturation{F}"
+      },
+      {
+        "name": "NPHI",
+        "unit": "CFCF",
+        "value": "",
+        "description": "Thermal Neutron Porosity (Ratio Method){F}"
+      },
+      {
+        "name": "NPL",
+        "unit": "CFCF",
+        "value": "",
+        "description": "Neutron Porosity Limestone{F}"
+      },
+      {
+        "name": "TNPH",
+        "unit": "CFCF",
+        "value": "",
+        "description": "Thermal Neutron Porosity{F}"
+      },
+      {
+        "name": "NPOR",
+        "unit": "CFCF",
+        "value": "",
+        "description": "Enhanced Thermal Neutron Porosity{F}"
+      }
+    ]
+  }
+}

@@ -1,0 +1,435 @@
+{
+  "Type": "LAS2.0",
+  "Content": {
+    "Version Information": [
+      {
+        "name": "VERS",
+        "unit": "",
+        "value": "2.0",
+        "description": "CWLS Log ASCII STANDARD - VERSION 2.0"
+      },
+      {
+        "name": "WRAP",
+        "unit": "",
+        "value": "NO",
+        "description": "One line per depth step"
+      }
+    ],
+    "Well Information": [
+      {
+        "name": "STRT",
+        "unit": "FT",
+        "value": "160.2500",
+        "description": "FIRST INDEX VALUE"
+      },
+      {
+        "name": "STOP",
+        "unit": "FT",
+        "value": "3470.0000",
+        "description": "LAST INDEX VALUE"
+      },
+      {
+        "name": "STEP",
+        "unit": "FT",
+        "value": "0.2500",
+        "description": "STEP"
+      },
+      {
+        "name": "NULL",
+        "unit": "",
+        "value": "-999.2500",
+        "description": "NULL VALUE"
+      },
+      {
+        "name": "COMP",
+        "unit": "",
+        "value": "John O. Farmer, Inc.",
+        "description": "COMPANY"
+      },
+      {
+        "name": "WELL",
+        "unit": "",
+        "value": "Maupin #2",
+        "description": "WELL"
+      },
+      {
+        "name": "FLD",
+        "unit": "",
+        "value": "Fairport Northeast",
+        "description": "FIELD"
+      },
+      {
+        "name": "LOC",
+        "unit": "",
+        "value": "755' FNL & 1450' FWL--",
+        "description": "LOCATION"
+      },
+      {
+        "name": "CNTY",
+        "unit": "",
+        "value": "Russell",
+        "description": "COUNTY"
+      },
+      {
+        "name": "SRVC",
+        "unit": "",
+        "value": "Gemini Wireline LLC",
+        "description": "SERVICE COMPANY"
+      },
+      {
+        "name": "DATE",
+        "unit": "",
+        "value": "Tue Sep 10 02-21-50 2019",
+        "description": "LOG DATE"
+      },
+      {
+        "name": "UWI",
+        "unit": "",
+        "value": "15 167 24077",
+        "description": "UNIQUE WELL ID"
+      },
+      {
+        "name": "STAT",
+        "unit": "",
+        "value": "KS",
+        "description": "STATE"
+      },
+      {
+        "name": "SECT",
+        "unit": "",
+        "value": "10",
+        "description": "SECTION"
+      },
+      {
+        "name": "TOWN",
+        "unit": "",
+        "value": "11S",
+        "description": "TOWNSHIP"
+      },
+      {
+        "name": "RANG",
+        "unit": "",
+        "value": "15W",
+        "description": "RANGE"
+      },
+      {
+        "name": "API",
+        "unit": "",
+        "value": "",
+        "description": "API#"
+      },
+      {
+        "name": "OS",
+        "unit": "",
+        "value": "--ML--DIL------",
+        "description": "OTHER SERVICES"
+      },
+      {
+        "name": "PDAT",
+        "unit": "FT",
+        "value": "Ground Level",
+        "description": "PERMANENT DATUM"
+      },
+      {
+        "name": "EEL",
+        "unit": "FT",
+        "value": "1901'",
+        "description": "ELEVATION"
+      },
+      {
+        "name": "LMF",
+        "unit": "FT",
+        "value": "KB 8' AGL",
+        "description": "LOG MEASURED FROM"
+      },
+      {
+        "name": "DMF",
+        "unit": "FT",
+        "value": "KB",
+        "description": "DRILLING MEASURED FROM"
+      },
+      {
+        "name": "EKB",
+        "unit": "FT",
+        "value": "1909'",
+        "description": "KB"
+      },
+      {
+        "name": "EDF",
+        "unit": "FT",
+        "value": "1908'",
+        "description": "DF"
+      },
+      {
+        "name": "EGL",
+        "unit": "FT",
+        "value": "1901'",
+        "description": "GL"
+      },
+      {
+        "name": "DATE1",
+        "unit": "",
+        "value": "09/09/2019",
+        "description": "DATE1"
+      },
+      {
+        "name": "RUN1",
+        "unit": "",
+        "value": "One",
+        "description": "RUN NUMBER"
+      },
+      {
+        "name": "TDD1",
+        "unit": "FT",
+        "value": "3470'",
+        "description": "DEPTH DRILLER"
+      },
+      {
+        "name": "TDL1",
+        "unit": "FT",
+        "value": "3467'",
+        "description": "DEPTH LOGGER"
+      },
+      {
+        "name": "BLI1",
+        "unit": "FT",
+        "value": "3445'",
+        "description": "BOTTOM LOGGED INTERVAL"
+      },
+      {
+        "name": "TLI1",
+        "unit": "FT",
+        "value": "2700'",
+        "description": "TOP LOG INTERVAL"
+      },
+      {
+        "name": "CDD1",
+        "unit": "IN_FT",
+        "value": "8 5/8\" @ 218'",
+        "description": "CASING DRILLER"
+      },
+      {
+        "name": "CDL1",
+        "unit": "FT",
+        "value": "218'",
+        "description": "CASING LOGGER"
+      },
+      {
+        "name": "BS1",
+        "unit": "IN",
+        "value": "7 7/8\"",
+        "description": "BIT SIZE"
+      },
+      {
+        "name": "DFT1",
+        "unit": "",
+        "value": "Chemical Mud",
+        "description": "TYPE FLUID IN HOLE"
+      },
+      {
+        "name": "DFDV1",
+        "unit": "GM/C3_CP",
+        "value": "8.9/42",
+        "description": "DENSITY/VISCOSITY"
+      },
+      {
+        "name": "DFPL1",
+        "unit": "C3",
+        "value": "10.0/8.8",
+        "description": "PH/FLUID LOSS"
+      },
+      {
+        "name": "MSS1",
+        "unit": "",
+        "value": "Pit",
+        "description": "SOURCE OF SAMPLE"
+      },
+      {
+        "name": "RMT1",
+        "unit": "OHHM_DEGF",
+        "value": "1.8@80degf",
+        "description": "RM@MEASURED TEMP"
+      },
+      {
+        "name": "RMFT1",
+        "unit": "OHMM_DEGF",
+        "value": "1.44@80degf",
+        "description": "RMF@MEASURED TEMP"
+      },
+      {
+        "name": "RMCT1",
+        "unit": "OHMM_DEGF",
+        "value": "2.3@80degf",
+        "description": "RMC@MEASURED TEMP"
+      },
+      {
+        "name": "RMFS1",
+        "unit": "",
+        "value": "Calculated",
+        "description": "SOURCE OF RMF/RMC"
+      },
+      {
+        "name": "RMBT1",
+        "unit": "OHMM_DEGF",
+        "value": "1.40@103degf",
+        "description": "RM@BHT"
+      },
+      {
+        "name": "TCS1",
+        "unit": "",
+        "value": "9",
+        "description": "40 p.m  TIME CIRCULATION STOPPED"
+      },
+      {
+        "name": "TLOB1",
+        "unit": "",
+        "value": "11",
+        "description": "50 p.m  TIME LOGGER ON BOTTOM"
+      },
+      {
+        "name": "BHT1",
+        "unit": "DEGF",
+        "value": "103degf",
+        "description": "MAXIMUM RECORDED TEMPERATURE"
+      },
+      {
+        "name": "LUN1",
+        "unit": "",
+        "value": "T-605",
+        "description": "EQUIPMENT NUMBER"
+      },
+      {
+        "name": "LUL1",
+        "unit": "",
+        "value": "Hays, KS.",
+        "description": "LOCATION"
+      },
+      {
+        "name": "ENGI1",
+        "unit": "",
+        "value": "C.Patterson",
+        "description": "RECORDED BY"
+      },
+      {
+        "name": "WITN1",
+        "unit": "",
+        "value": "Mr. Austin Klaus",
+        "description": "WITNESSED BY"
+      }
+    ],
+    "Curve Information": [
+      {
+        "name": "DEPT",
+        "unit": "FT",
+        "value": "0 000 00 00",
+        "description": "Depth"
+      },
+      {
+        "name": "DEVI",
+        "unit": "DEG",
+        "value": "0",
+        "description": "Deviation"
+      },
+      {
+        "name": "DPOR",
+        "unit": "PU",
+        "value": "0",
+        "description": "CDL Density Porosity"
+      },
+      {
+        "name": "DTMP",
+        "unit": "DEGF",
+        "value": "0",
+        "description": "Delta Temperature"
+      },
+      {
+        "name": "GR",
+        "unit": "GAPI",
+        "value": "0",
+        "description": "Gamma Ray"
+      },
+      {
+        "name": "NPOR",
+        "unit": "PU",
+        "value": "0",
+        "description": "Neutron Porosity"
+      },
+      {
+        "name": "RHOC",
+        "unit": "G/CC",
+        "value": "0",
+        "description": "CDL Density Correction"
+      },
+      {
+        "name": "RILD",
+        "unit": "OHM-M",
+        "value": "0",
+        "description": "DIL Deep Resistivity"
+      },
+      {
+        "name": "RILM",
+        "unit": "OHM-M",
+        "value": "0",
+        "description": "DIL Medium Resistivity"
+      },
+      {
+        "name": "RLL3",
+        "unit": "OHM-M",
+        "value": "0",
+        "description": "DIL Shallow Resistivity"
+      },
+      {
+        "name": "SP",
+        "unit": "MV",
+        "value": "0",
+        "description": "DIL Spontaneous Potential"
+      },
+      {
+        "name": "MCAL",
+        "unit": "IN",
+        "value": "0",
+        "description": "Caliper from Microlog"
+      },
+      {
+        "name": "MI",
+        "unit": "OHM-M",
+        "value": "0",
+        "description": "Micro Inverse Resistivity"
+      },
+      {
+        "name": "MN",
+        "unit": "OHM-M",
+        "value": "0",
+        "description": "Micro Normal Resistivity"
+      }
+    ],
+    "Parameter Information": [
+      {
+        "name": "Paradise,KS West on Waldo rd",
+        "unit": "",
+        "value": "for 0.7 mi .Comes to Y",
+        "description": ""
+      },
+      {
+        "name": "Stay left at Y on Waldo St",
+        "unit": "",
+        "value": "West  for 2.5 mi",
+        "description": ""
+      },
+      {
+        "name": "Continue Straight down Lease Rd",
+        "unit": "(West)",
+        "value": "When Waldo St. turns South at end of 2.5 mi for 1/2 mi",
+        "description": ""
+      }
+    ],
+    "QC Info": [
+      {
+        "name": "Issue",
+        "unit": "",
+        "value": "",
+        "description": "No blank lines allowed in the ASCII data section. ,  "
+      }
+    ]
+  }
+}

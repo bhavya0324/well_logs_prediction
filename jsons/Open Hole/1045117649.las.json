@@ -1,0 +1,288 @@
+{
+  "Type": "LAS2.0",
+  "Content": {
+    "Version Information": [
+      {
+        "name": "VERS",
+        "unit": "",
+        "value": "2.0",
+        "description": "CWLS Log ASCII Standard - VERSION 2.0"
+      },
+      {
+        "name": "WRAP",
+        "unit": "",
+        "value": "NO",
+        "description": "One line per depth step"
+      }
+    ],
+    "Well Information": [
+      {
+        "name": "STRT",
+        "unit": "FT",
+        "value": "245.0000",
+        "description": ""
+      },
+      {
+        "name": "STOP",
+        "unit": "FT",
+        "value": "3640.5000",
+        "description": ""
+      },
+      {
+        "name": "STEP",
+        "unit": "FT",
+        "value": "0.5000",
+        "description": ""
+      },
+      {
+        "name": "NULL",
+        "unit": "",
+        "value": "-999.2500",
+        "description": ""
+      },
+      {
+        "name": "COMP",
+        "unit": "",
+        "value": "American Patriot Oil",
+        "description": "COMPANY"
+      },
+      {
+        "name": "WELL",
+        "unit": "",
+        "value": "Carpenter No.1",
+        "description": "WELL"
+      },
+      {
+        "name": "FLD",
+        "unit": "",
+        "value": "Wildcat",
+        "description": "FIELD"
+      },
+      {
+        "name": "LOC",
+        "unit": "",
+        "value": "700' FSL & 1650' FEL",
+        "description": "LOCATION"
+      },
+      {
+        "name": "CNTY",
+        "unit": "",
+        "value": "Rooks",
+        "description": "COUNTY"
+      },
+      {
+        "name": "SRVC",
+        "unit": "",
+        "value": "Log Tech",
+        "description": "SERVICE COMPANY"
+      },
+      {
+        "name": "DATE",
+        "unit": "",
+        "value": "Sun Jan 01 11-38-47 2012",
+        "description": "LOG DATE"
+      },
+      {
+        "name": "UWI",
+        "unit": "",
+        "value": "",
+        "description": "UNIQUE WELL ID"
+      },
+      {
+        "name": "STAT",
+        "unit": "",
+        "value": "Kansas",
+        "description": "STATE"
+      },
+      {
+        "name": "SECT",
+        "unit": "",
+        "value": "19",
+        "description": "SECTION"
+      },
+      {
+        "name": "TOWN",
+        "unit": "",
+        "value": "6S",
+        "description": "TOWNSHIP"
+      },
+      {
+        "name": "RANG",
+        "unit": "",
+        "value": "19W",
+        "description": "RANGE"
+      },
+      {
+        "name": "API",
+        "unit": "",
+        "value": "15-163-23,995-00-00",
+        "description": "API#"
+      },
+      {
+        "name": "PDAT",
+        "unit": "FT.",
+        "value": "Ground Level",
+        "description": "PERMANENT DATUM"
+      },
+      {
+        "name": "LMF",
+        "unit": "FT.",
+        "value": "Kelly Bushing",
+        "description": "LOG MEASURED FROM"
+      },
+      {
+        "name": "DMF",
+        "unit": "FT.",
+        "value": "Kelly Bushing",
+        "description": "DRILLING MEASURED FROM"
+      },
+      {
+        "name": "EKB",
+        "unit": "FT.",
+        "value": "2103",
+        "description": "KB"
+      },
+      {
+        "name": "EDF",
+        "unit": "FT.",
+        "value": "",
+        "description": "DF"
+      },
+      {
+        "name": "EGL",
+        "unit": "FT.",
+        "value": "2098",
+        "description": "GL"
+      },
+      {
+        "name": "DATE1",
+        "unit": "",
+        "value": "1/1/2012",
+        "description": "DATE1"
+      },
+      {
+        "name": "ENGI1",
+        "unit": "",
+        "value": "C. Desaire",
+        "description": "RECORDED BY"
+      },
+      {
+        "name": "WITN1",
+        "unit": "",
+        "value": "Doug Stewart",
+        "description": "WITNESSED BY"
+      }
+    ],
+    "Curve Information": [
+      {
+        "name": "DEPT",
+        "unit": "FT",
+        "value": "0 000 00 00",
+        "description": "Depth"
+      },
+      {
+        "name": "BVTX",
+        "unit": "",
+        "value": "",
+        "description": ""
+      },
+      {
+        "name": "AVTX",
+        "unit": "",
+        "value": "",
+        "description": ""
+      },
+      {
+        "name": "RxoRt",
+        "unit": "",
+        "value": "Rxo / Rt",
+        "description": ""
+      },
+      {
+        "name": "CILD",
+        "unit": "",
+        "value": "DIL Deep Conductivity",
+        "description": ""
+      },
+      {
+        "name": "RLL3",
+        "unit": "",
+        "value": "DIL Shallow Resistivity",
+        "description": ""
+      },
+      {
+        "name": "SP",
+        "unit": "",
+        "value": "DIL Spontaneous Potential",
+        "description": ""
+      },
+      {
+        "name": "RILD",
+        "unit": "",
+        "value": "DIL Deep Resistivity",
+        "description": ""
+      },
+      {
+        "name": "RILM",
+        "unit": "",
+        "value": "DIL Medium Resistivity",
+        "description": ""
+      },
+      {
+        "name": "DCAL",
+        "unit": "GAPI",
+        "value": "CDL Caliper",
+        "description": ""
+      },
+      {
+        "name": "RHOB",
+        "unit": "",
+        "value": "CDL Bulk Density",
+        "description": ""
+      },
+      {
+        "name": "RHOC",
+        "unit": "",
+        "value": "CDL Density Correction",
+        "description": ""
+      },
+      {
+        "name": "DPOR",
+        "unit": "",
+        "value": "CDL Density Porosity",
+        "description": ""
+      },
+      {
+        "name": "CNLS",
+        "unit": "",
+        "value": "CN Limestone Porosity",
+        "description": ""
+      },
+      {
+        "name": "CNSS",
+        "unit": "",
+        "value": "CN Sandstone Porosity",
+        "description": ""
+      },
+      {
+        "name": "CNDL",
+        "unit": "",
+        "value": "CN Dolomite Porosity",
+        "description": ""
+      },
+      {
+        "name": "GR",
+        "unit": "",
+        "value": "Gamma Ray",
+        "description": ""
+      },
+      {
+        "name": "DGA",
+        "unit": "",
+        "value": "Apparent Grain Density",
+        "description": ""
+      }
+    ],
+    "Parameter Information": []
+  }
+}

@@ -1,0 +1,330 @@
+{
+  "Type": "LAS2.0",
+  "Content": {
+    "Version Information": [
+      {
+        "name": "VERS",
+        "unit": "",
+        "value": "2.0",
+        "description": "CWLS Log ASCII Standard - VERSION 2.0"
+      },
+      {
+        "name": "WRAP",
+        "unit": "",
+        "value": "NO",
+        "description": "One line per depth step"
+      }
+    ],
+    "Well Information": [
+      {
+        "name": "STRT",
+        "unit": "FT",
+        "value": "345.0000",
+        "description": "START DEPTH"
+      },
+      {
+        "name": "STOP",
+        "unit": "FT",
+        "value": "5015.0000",
+        "description": "STOP DEPTH"
+      },
+      {
+        "name": "STEP",
+        "unit": "FT",
+        "value": "0.5000",
+        "description": "STEP"
+      },
+      {
+        "name": "NULL",
+        "unit": "",
+        "value": "-999.2500",
+        "description": "NULL VALUE"
+      },
+      {
+        "name": "COMP",
+        "unit": "",
+        "value": "GEO SOUTHERN OPERATING II, LLC",
+        "description": "COMPANY"
+      },
+      {
+        "name": "WELL",
+        "unit": "",
+        "value": "CRESS #1-28",
+        "description": "WELL"
+      },
+      {
+        "name": "FLD",
+        "unit": "",
+        "value": "UNKNOWN",
+        "description": "FIELD"
+      },
+      {
+        "name": "LOC",
+        "unit": "",
+        "value": "1373' FSL & 2375' FEL",
+        "description": "LOCATION"
+      },
+      {
+        "name": "CNTY",
+        "unit": "",
+        "value": "SHERMAN",
+        "description": "COUNTY"
+      },
+      {
+        "name": "SRVC",
+        "unit": "",
+        "value": "Pioneer Energy Services",
+        "description": "SERVICE COMPANY"
+      },
+      {
+        "name": "DATE",
+        "unit": "",
+        "value": "Sat Sep 28 23-11-09 2019",
+        "description": "LOG DATE"
+      },
+      {
+        "name": "STAT",
+        "unit": "",
+        "value": "KANSAS",
+        "description": "STATE"
+      },
+      {
+        "name": "SECT",
+        "unit": "",
+        "value": "28",
+        "description": "SECTION"
+      },
+      {
+        "name": "TOWN",
+        "unit": "",
+        "value": "7S",
+        "description": "TOWNSHIP"
+      },
+      {
+        "name": "RANG",
+        "unit": "",
+        "value": "37W",
+        "description": "RANGE"
+      },
+      {
+        "name": "API",
+        "unit": "",
+        "value": "15-181-20628-00-00",
+        "description": "API #"
+      },
+      {
+        "name": "UWI",
+        "unit": "",
+        "value": "15181206280000",
+        "description": "UWI #"
+      },
+      {
+        "name": "PDAT",
+        "unit": "FT",
+        "value": "GROUND LEVEL",
+        "description": "PERMANENT DATUM"
+      },
+      {
+        "name": "LMF",
+        "unit": "FT",
+        "value": "KELLY BUSHING",
+        "description": "LOG MEASURED FROM"
+      },
+      {
+        "name": "DMF",
+        "unit": "FT",
+        "value": "KELLY BUSHING",
+        "description": "DRILLING MEASURED FROM"
+      },
+      {
+        "name": "EKB",
+        "unit": "FT",
+        "value": "3430'",
+        "description": "KB"
+      },
+      {
+        "name": "EDF",
+        "unit": "FT",
+        "value": "N/A",
+        "description": "DF"
+      },
+      {
+        "name": "EGL",
+        "unit": "FT",
+        "value": "3425'",
+        "description": "GL"
+      },
+      {
+        "name": "DATE1",
+        "unit": "",
+        "value": "9/28/2019",
+        "description": "DATE OF RECORD"
+      },
+      {
+        "name": "ENGI1",
+        "unit": "",
+        "value": "D. SCHMIDT",
+        "description": "RECORDED BY"
+      },
+      {
+        "name": "WITN1",
+        "unit": "",
+        "value": "BEN LANDES",
+        "description": "WITNESSED BY"
+      }
+    ],
+    "Curve Information": [
+      {
+        "name": "DEPT",
+        "unit": "FT",
+        "value": "0 000 00 00",
+        "description": "Depth"
+      },
+      {
+        "name": "AVTX",
+        "unit": "FT3",
+        "value": "0",
+        "description": "Annular Volume Ticks"
+      },
+      {
+        "name": "BVTX",
+        "unit": "FT3",
+        "value": "0",
+        "description": "Borehole Volume Ticks"
+      },
+      {
+        "name": "GR",
+        "unit": "GAPI",
+        "value": "0",
+        "description": "Gamma Ray"
+      },
+      {
+        "name": "LSPD",
+        "unit": "FT/MIN",
+        "value": "0",
+        "description": "Line Speed"
+      },
+      {
+        "name": "LTEN",
+        "unit": "LB",
+        "value": "0",
+        "description": "Surface Line Tension"
+      },
+      {
+        "name": "SP",
+        "unit": "MV",
+        "value": "0",
+        "description": "DIL Spontaneous Potential"
+      },
+      {
+        "name": "MCAL",
+        "unit": "IN",
+        "value": "0",
+        "description": "CDL Caliper"
+      },
+      {
+        "name": "MI",
+        "unit": "OHM-M",
+        "value": "0",
+        "description": "Micro Inverse Resistivity"
+      },
+      {
+        "name": "MN",
+        "unit": "OHM-M",
+        "value": "0",
+        "description": "Micro Normal Resistivity"
+      },
+      {
+        "name": "CILD",
+        "unit": "MMHO/M",
+        "value": "0",
+        "description": "DIL Deep Conductivity"
+      },
+      {
+        "name": "RLL3",
+        "unit": "OHM-M",
+        "value": "0",
+        "description": "DIL Shallow Resistivity"
+      },
+      {
+        "name": "RILD",
+        "unit": "OHM-M",
+        "value": "0",
+        "description": "DIL Deep Resistivity"
+      },
+      {
+        "name": "RILM",
+        "unit": "OHM-M",
+        "value": "0",
+        "description": "DIL Medium Resistivity"
+      },
+      {
+        "name": "DCAL",
+        "unit": "IN",
+        "value": "0",
+        "description": "CDL Caliper"
+      },
+      {
+        "name": "RHOB",
+        "unit": "G/CC",
+        "value": "0",
+        "description": "CDL Bulk Density"
+      },
+      {
+        "name": "RHOC",
+        "unit": "G/CC",
+        "value": "0",
+        "description": "CDL Density Correction"
+      },
+      {
+        "name": "DPOR",
+        "unit": "PU",
+        "value": "0",
+        "description": "CDL Density Porosity"
+      },
+      {
+        "name": "CNLS",
+        "unit": "PU",
+        "value": "0",
+        "description": "CN Limestone Porosity"
+      },
+      {
+        "name": "CNSS",
+        "unit": "PU",
+        "value": "0",
+        "description": "CN Sandstone Porosity"
+      },
+      {
+        "name": "CNDL",
+        "unit": "PU",
+        "value": "0",
+        "description": "CN Dolomite Porosity"
+      },
+      {
+        "name": "CNPOR",
+        "unit": "PU",
+        "value": "0",
+        "description": "CN Selected Porosity"
+      },
+      {
+        "name": "DT",
+        "unit": "USEC/FT",
+        "value": "0",
+        "description": ""
+      },
+      {
+        "name": "ITT",
+        "unit": "MSEC",
+        "value": "0",
+        "description": "Integrated Travel Time Blips"
+      },
+      {
+        "name": "SPOR",
+        "unit": "PU",
+        "value": "0",
+        "description": ""
+      }
+    ],
+    "Parameter Information": []
+  }
+}

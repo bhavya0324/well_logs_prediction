@@ -1,0 +1,441 @@
+{
+  "Type": "LAS2.0",
+  "Content": {
+    "Version Information": [
+      {
+        "name": "VERS",
+        "unit": "",
+        "value": "2.0",
+        "description": "CWLS log ASCII Standard -VERSION 2.0"
+      },
+      {
+        "name": "WRAP",
+        "unit": "",
+        "value": "NO",
+        "description": "Single line per depth step"
+      }
+    ],
+    "Well Information": [
+      {
+        "name": "STRT",
+        "unit": "FEET",
+        "value": "128.00",
+        "description": ""
+      },
+      {
+        "name": "STOP",
+        "unit": "FEET",
+        "value": "3776.00",
+        "description": ""
+      },
+      {
+        "name": "STEP",
+        "unit": "FEET",
+        "value": "0.50",
+        "description": ""
+      },
+      {
+        "name": "NULL",
+        "unit": "",
+        "value": "-999.2500",
+        "description": ""
+      },
+      {
+        "name": "COMP",
+        "unit": "",
+        "value": "H&C OIL OPERATING, INC",
+        "description": "COMPANY"
+      },
+      {
+        "name": "WELL",
+        "unit": "",
+        "value": "BUTTERFLY FARMS #1-13",
+        "description": "WELL"
+      },
+      {
+        "name": "FLD",
+        "unit": "",
+        "value": "HANSEN ESTATE NORTHEAST",
+        "description": "FIELD"
+      },
+      {
+        "name": "LOC",
+        "unit": "",
+        "value": "330' FSL & 1800' FWL",
+        "description": "LOCATION"
+      },
+      {
+        "name": "STAT",
+        "unit": "",
+        "value": "KANSAS",
+        "description": "STATE"
+      },
+      {
+        "name": "SRVC",
+        "unit": "",
+        "value": "STEP ENERGY SERVICES",
+        "description": "SERVICE COMPANY"
+      },
+      {
+        "name": "DATE",
+        "unit": "",
+        "value": "11-10-2019",
+        "description": "LOG DATE"
+      },
+      {
+        "name": "API",
+        "unit": "",
+        "value": "15-137-20753-00-00",
+        "description": "API NUMBER"
+      }
+    ],
+    "Curve Information": [
+      {
+        "name": "DEPT",
+        "unit": "FEET",
+        "value": "00 001 00 00",
+        "description": "Measured Depth"
+      },
+      {
+        "name": "BCNF",
+        "unit": "cps",
+        "value": "00 000 00 00",
+        "description": "Compensated Neutron Far Detector"
+      },
+      {
+        "name": "BCNN",
+        "unit": "cps",
+        "value": "00 000 00 00",
+        "description": "Compensated Neutron Near Detector"
+      },
+      {
+        "name": "CILD",
+        "unit": "mMHO",
+        "value": "07 110 45 00",
+        "description": "Deep Induction R Conductivity"
+      },
+      {
+        "name": "CALN",
+        "unit": "in",
+        "value": "45 280 24 00",
+        "description": "Compensated Neutron Caliper (Diameter)"
+      },
+      {
+        "name": "CALD",
+        "unit": "in",
+        "value": "45 280 13 00",
+        "description": "Litho Caliper (Diameter)"
+      },
+      {
+        "name": "DT",
+        "unit": "us/ft",
+        "value": "60 520 32 00",
+        "description": "Depth Derived Compensated Sonic Delta Time (uS/Foot)"
+      },
+      {
+        "name": "GR",
+        "unit": "gAPI",
+        "value": "07 310 01 00",
+        "description": "Gamma Ray - API Units"
+      },
+      {
+        "name": "ILD",
+        "unit": "ohm/m",
+        "value": "07 120 45 00",
+        "description": "Phased Deep Induction Resistivity"
+      },
+      {
+        "name": "ILM",
+        "unit": "ohm/m",
+        "value": "07 120 44 00",
+        "description": "Phased Medium Induction Resistivity"
+      },
+      {
+        "name": "MINV",
+        "unit": "ohm/m",
+        "value": "07 270 04 00",
+        "description": "Micro Inverse Resistivity"
+      },
+      {
+        "name": "LWTLB",
+        "unit": "lb",
+        "value": "00 000 00 00",
+        "description": "Line Weight Filtered (lbs)"
+      },
+      {
+        "name": "CALM",
+        "unit": "in",
+        "value": "07 280 12 00",
+        "description": "Micro Spherically Focused Tool (MST-DA) Caliper (Diameter)"
+      },
+      {
+        "name": "MNOR",
+        "unit": "ohm/m",
+        "value": "07 270 04 00",
+        "description": "Micro Normal Resistivity"
+      },
+      {
+        "name": "NPLS",
+        "unit": "%",
+        "value": "42 330 01 00",
+        "description": "Compensated Neutron Porosity (NAPI, Limestone Matrix)"
+      },
+      {
+        "name": "DPLS",
+        "unit": "%",
+        "value": "45 890 10 00",
+        "description": "Lithology Density Porosity (Matrix Density 2.71 g/cc)"
+      },
+      {
+        "name": "PORS",
+        "unit": "%",
+        "value": "60 520 30 00",
+        "description": "Sonic Derived Porosity"
+      },
+      {
+        "name": "SFL",
+        "unit": "ohm/m",
+        "value": "07 220 04 00",
+        "description": "Spherically Focused Resistivity, Environmentally Corrected"
+      },
+      {
+        "name": "SP",
+        "unit": "mV",
+        "value": "07 010 01 00",
+        "description": "Spontaneous Potential (Processed, Internally Calibrated)"
+      },
+      {
+        "name": "TT1",
+        "unit": "us",
+        "value": "60 520 32 00",
+        "description": "Travel Time (Filtered Heavier) (Transmitter 1 - Receiver 1)"
+      },
+      {
+        "name": "TT2",
+        "unit": "us",
+        "value": "60 520 32 00",
+        "description": "Travel Time (Filtered Heavier) (Transmitter 2 - Receiver 2)"
+      },
+      {
+        "name": "TT3",
+        "unit": "us",
+        "value": "60 520 32 00",
+        "description": "Travel Time (Filtered Heavier) (Transmitter 1 - Receiver 2)"
+      },
+      {
+        "name": "TT4",
+        "unit": "us",
+        "value": "60 520 32 00",
+        "description": "Travel Time (Filtered Heavier) (Transmitter 2 - Receiver 1)"
+      },
+      {
+        "name": "DRHO",
+        "unit": "g/cc",
+        "value": "45 356 01 00",
+        "description": "Lithology Density (LDP-DA) Correction"
+      },
+      {
+        "name": "RHOB",
+        "unit": "g/cc",
+        "value": "45 350 02 00",
+        "description": "Lithology Density (LDP-DA)"
+      },
+      {
+        "name": "PE",
+        "unit": "b/E",
+        "value": "45 358 00 00",
+        "description": "Litho (LDP-DA) Corrected Long Spaced Photo Absorption Factor"
+      }
+    ],
+    "Parameter Information": [
+      {
+        "name": "RUN",
+        "unit": "",
+        "value": "1",
+        "description": "Run number"
+      },
+      {
+        "name": "GL",
+        "unit": "Ft",
+        "value": "2221.000000",
+        "description": "Ground level elevation"
+      },
+      {
+        "name": "DREF",
+        "unit": "",
+        "value": "KB",
+        "description": "Depth reference"
+      },
+      {
+        "name": "EREF",
+        "unit": "Ft",
+        "value": "2229.000000",
+        "description": "Elevation of depth reference"
+      },
+      {
+        "name": "TDL",
+        "unit": "Ft",
+        "value": "3770.0",
+        "description": "Total depth, logger"
+      },
+      {
+        "name": "TDD",
+        "unit": "Ft",
+        "value": "3770.0",
+        "description": "Total depth, driller"
+      },
+      {
+        "name": "CSGL",
+        "unit": "Ft",
+        "value": "210.0",
+        "description": "Casing bottom, logger"
+      },
+      {
+        "name": "CSGD",
+        "unit": "Ft",
+        "value": "210.0",
+        "description": "Casing bottom, driller"
+      },
+      {
+        "name": "CSGS",
+        "unit": "In",
+        "value": "8.265",
+        "description": "Casing size"
+      },
+      {
+        "name": "CSGW",
+        "unit": "Lbs",
+        "value": "15.00",
+        "description": "Casing weight"
+      },
+      {
+        "name": "BS",
+        "unit": "In",
+        "value": "7.62",
+        "description": "Bit size"
+      },
+      {
+        "name": "MUD",
+        "unit": "",
+        "value": "WBM",
+        "description": "Mud type"
+      },
+      {
+        "name": "MUDD",
+        "unit": "",
+        "value": "9.100",
+        "description": "Mud density"
+      },
+      {
+        "name": "MUDV",
+        "unit": "",
+        "value": "58.000",
+        "description": "Mud viscosity"
+      },
+      {
+        "name": "FL",
+        "unit": "",
+        "value": "7.200",
+        "description": "Fluid loss rate"
+      },
+      {
+        "name": "PH",
+        "unit": "",
+        "value": "10.500",
+        "description": "Mud pH"
+      },
+      {
+        "name": "MUDS",
+        "unit": "",
+        "value": "MEASURED",
+        "description": "Mud source"
+      },
+      {
+        "name": "RM",
+        "unit": "OHMM",
+        "value": "1.300",
+        "description": "Resistivity of mud"
+      },
+      {
+        "name": "RMT",
+        "unit": "F",
+        "value": "65.0",
+        "description": "Temperature of mud"
+      },
+      {
+        "name": "RMF",
+        "unit": "OHMM",
+        "value": "1.110",
+        "description": "Resistivity of mud filtrate"
+      },
+      {
+        "name": "RMFT",
+        "unit": "F",
+        "value": "65.0",
+        "description": "Temperature of mud filtrate"
+      },
+      {
+        "name": "RMC",
+        "unit": "OHMM",
+        "value": "1.500",
+        "description": "Resistivity of mud cake"
+      },
+      {
+        "name": "RMCT",
+        "unit": "F",
+        "value": "65.0",
+        "description": "Temperature of mud cake"
+      },
+      {
+        "name": "TMAX",
+        "unit": "F",
+        "value": "105.0",
+        "description": "Maximum recorded temperature"
+      },
+      {
+        "name": "TIMC",
+        "unit": "DAY/HR",
+        "value": "11-10-2019 13",
+        "description": "33    Date/Time circulation stopped"
+      },
+      {
+        "name": "TIMD",
+        "unit": "DAY/HR",
+        "value": "11-10-2019 17",
+        "description": "33    Date/Time logger tagged bottom"
+      },
+      {
+        "name": "UNIT",
+        "unit": "",
+        "value": "TRK-137",
+        "description": "Logging unit_number"
+      },
+      {
+        "name": "BASE",
+        "unit": "",
+        "value": "HAYS",
+        "description": "Home base of logging unit"
+      },
+      {
+        "name": "ENG",
+        "unit": "",
+        "value": "B.BAILEY",
+        "description": "Recording Engineer"
+      },
+      {
+        "name": "WIT",
+        "unit": "",
+        "value": "M.DOWNING",
+        "description": "Witnessed by"
+      }
+    ],
+    "QC Info": [
+      {
+        "name": "Issue",
+        "unit": "",
+        "value": "",
+        "description": "No blank lines allowed in the ASCII data section. ,  "
+      }
+    ]
+  }
+}

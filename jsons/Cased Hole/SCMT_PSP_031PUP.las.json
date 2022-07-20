@@ -1,0 +1,253 @@
+{
+  "Type": "LAS2.0",
+  "Content": {
+    "Version Information": [
+      {
+        "name": "VERS",
+        "unit": "",
+        "value": "2.0",
+        "description": "CWLS Log ASCII Standard - VERSION 2.0"
+      },
+      {
+        "name": "WRAP",
+        "unit": "",
+        "value": "NO",
+        "description": "One Line per depth step"
+      },
+      {
+        "name": "PROD",
+        "unit": "",
+        "value": "Schlumberger",
+        "description": "LAS Producer"
+      },
+      {
+        "name": "PROG",
+        "unit": "",
+        "value": "DLIS to ASCII 15C0-309",
+        "description": "LAS Program name and version"
+      },
+      {
+        "name": "CREA",
+        "unit": "",
+        "value": "2007/12/19 09",
+        "description": "51                           LAS Creation date {YYYY/MM/DD hh mm}"
+      },
+      {
+        "name": "DLIS_CREA",
+        "unit": "",
+        "value": "2007-Dec-19\t10",
+        "description": "42\t\t\t        DLIS Creation date and time {YYYY-MMM-DD hh mm}"
+      },
+      {
+        "name": "SOURCE",
+        "unit": "",
+        "value": "SCMT_PSP_031PUP.DLIS",
+        "description": "DLIS File Name"
+      },
+      {
+        "name": "FILE-ID",
+        "unit": "",
+        "value": "SCMT_PSP_031PUP",
+        "description": "File Identification Number"
+      }
+    ],
+    "Well Information": [
+      {
+        "name": "STRT",
+        "unit": "F",
+        "value": "8360.0",
+        "description": "START DEPTH"
+      },
+      {
+        "name": "STOP",
+        "unit": "F",
+        "value": "1992.0",
+        "description": "STOP DEPTH"
+      },
+      {
+        "name": "STEP",
+        "unit": "F",
+        "value": "-0.5",
+        "description": "STEP"
+      },
+      {
+        "name": "NULL",
+        "unit": "",
+        "value": "-999.25",
+        "description": "NULL VALUE"
+      },
+      {
+        "name": "COMP",
+        "unit": "",
+        "value": "BATTELLE",
+        "description": "COMPANY"
+      },
+      {
+        "name": "WELL",
+        "unit": "",
+        "value": "FEGENCO #1",
+        "description": "WELL"
+      },
+      {
+        "name": "FLD",
+        "unit": "",
+        "value": "WILDCAT",
+        "description": "FIELD"
+      },
+      {
+        "name": "LOC",
+        "unit": "",
+        "value": "LONGITUDE 80.76",
+        "description": "LOCATION"
+      },
+      {
+        "name": "CNTY",
+        "unit": "",
+        "value": "BELMONT",
+        "description": "COUNTY"
+      },
+      {
+        "name": "STAT",
+        "unit": "",
+        "value": "WEST VIRGINIA",
+        "description": "STATE"
+      },
+      {
+        "name": "CTRY",
+        "unit": "",
+        "value": "",
+        "description": "COUNTRY"
+      },
+      {
+        "name": "API",
+        "unit": "",
+        "value": "34-013-2-0586",
+        "description": "API NUMBER"
+      },
+      {
+        "name": "UWI",
+        "unit": "",
+        "value": "",
+        "description": "UNIQUE WELL ID"
+      },
+      {
+        "name": "DATE",
+        "unit": "",
+        "value": "24-Jan-2008",
+        "description": "LOG DATE {DD-MMM-YYYY}"
+      },
+      {
+        "name": "SRVC",
+        "unit": "",
+        "value": "Schlumberger",
+        "description": "SERVICE COMPANY"
+      },
+      {
+        "name": "LATI",
+        "unit": "DEG",
+        "value": "",
+        "description": "LATITUDE"
+      },
+      {
+        "name": "LONG",
+        "unit": "DEG",
+        "value": "",
+        "description": "LONGITUDE"
+      },
+      {
+        "name": "GDAT",
+        "unit": "",
+        "value": "",
+        "description": "GeoDetic Datum"
+      },
+      {
+        "name": "SECT",
+        "unit": "",
+        "value": "WILDCAT",
+        "description": "Section"
+      },
+      {
+        "name": "TOWN",
+        "unit": "",
+        "value": "MEAD",
+        "description": "Township"
+      }
+    ],
+    "Parameter Information": [
+      {
+        "name": "RUN",
+        "unit": "",
+        "value": "1",
+        "description": "RUN NUMBER"
+      },
+      {
+        "name": "PDAT",
+        "unit": "",
+        "value": "GROUND LEVEL",
+        "description": "Permanent Datum"
+      },
+      {
+        "name": "EPD",
+        "unit": "F",
+        "value": "676.000000",
+        "description": "Elevation of Permanent Datum above Mean Sea Level"
+      },
+      {
+        "name": "LMF",
+        "unit": "",
+        "value": "KELLY BUSHING",
+        "description": "Logging Measured From (Name of Logging Elevation Reference)"
+      },
+      {
+        "name": "APD",
+        "unit": "F",
+        "value": "14.000000",
+        "description": "Elevation of Depth Reference (LMF) above Permanent Datum"
+      }
+    ],
+    "Curve Information": [
+      {
+        "name": "DEPT",
+        "unit": "F",
+        "value": "",
+        "description": "DEPTH (BOREHOLE) {F10.1}"
+      },
+      {
+        "name": "GR",
+        "unit": "GAPI",
+        "value": "",
+        "description": "Gamma Ray {F13.4}"
+      },
+      {
+        "name": "TT",
+        "unit": "US",
+        "value": "",
+        "description": "Transit Time for CBL {F13.4}"
+      },
+      {
+        "name": "CBL",
+        "unit": "MV",
+        "value": "",
+        "description": "CBL Amplitude {F13.4}"
+      },
+      {
+        "name": "VDL[0]",
+        "unit": "",
+        "value": "",
+        "description": "Variable Density Log {AI11}"
+      },
+      {
+        "name": "MPWF[0]",
+        "unit": "",
+        "value": "",
+        "description": "MAP Image Waveform {AF13.4}"
+      },
+      {
+        "name": "CCLD",
+        "unit": "V",
+        "value": "",
+        "description": "CCL Discriminated Amplitude {F13.4}"
+      }
+    ]
+  }
+}
