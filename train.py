@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import load_data as ld
 import numpy as np
-from scipy.spatial import ConvexHull
+import plot_cm as pl
 
 label_1 = ld.load_data('jsons/Cased Hole')
 label_2 = ld.load_data('jsons/LWD')
@@ -48,7 +48,6 @@ X_train_pca = pca.fit_transform(X_train)
 X_val_pca = pca.transform(X_val)
 explained_variance = pca.explained_variance_ratio_
 
-
 plot = sns.scatterplot(X_train_pca[:, 0], X_train_pca[:, 1], hue=y_train, palette=['blue', 'green', 'red'])
 plt.xlabel("PC1")
 plt.ylabel("PC2")
@@ -81,13 +80,13 @@ classifier = LogisticRegression(random_state=27)
 classifier.fit(X_train_pca, y_train)
 y_pred = classifier.predict(X_val_pca)
 cm = confusion_matrix(y_val, y_pred)
-print(cm)
+pl.plot(cm, 'LR')
 print("LR model accuracy:", metrics.accuracy_score(y_val, y_pred))
 
 adb = AdaBoostClassifier()
 adb.fit(X_train_pca, y_train)
 y_pred = adb.predict(X_val_pca)
 cm = confusion_matrix(y_val, y_pred)
-print(cm)
+pl.plot(cm, 'Adaboost')
 print("ADB model accuracy:", metrics.accuracy_score(y_val, y_pred))
 pickle.dump(adb, open('model.pkl', 'wb'))
